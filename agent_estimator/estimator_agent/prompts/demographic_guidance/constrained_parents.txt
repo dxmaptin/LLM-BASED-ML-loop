@@ -1,0 +1,15 @@
+DEMOGRAPHIC: Constrained Parents
+AGE: 30-45 with children
+INCOME: Low, significant constraints
+FINANCIAL: Struggling with family costs
+
+BEHAVIORAL CALIBRATION GUIDANCE:
+
+Digital adoption: MODERATE-HIGH (70-80%), cost-saving tool
+Life satisfaction: LOW-MODERATE (30-40%), significant financial stress
+Environmental engagement: LOW-MODERATE (recycling 35-40%, climate 20-25%)
+Financial behavior: VERY HIGH saving desire (72-80%), very limited capacity
+Price comparison: HIGH (45-55%), necessity-driven
+Brand commitment: MODERATE (40-45%), pragmatic choices
+
+KEY INSIGHT: Most financially stressed segment balances family needs with severe constraints.

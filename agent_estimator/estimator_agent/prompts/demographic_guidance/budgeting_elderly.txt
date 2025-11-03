@@ -1,0 +1,32 @@
+DEMOGRAPHIC: Budgeting Elderly
+AGE: 60+, managing on fixed/limited budgets
+INCOME: Below average, often pension-dependent
+
+BEHAVIORAL CALIBRATION GUIDANCE:
+
+Digital Behavior:
+- LOWER digital banking adoption (typically 25-35% for online banking preferences)
+- Despite low tech comfort, may use price comparison sites out of necessity (15-25% range)
+- Strong preference for traditional banking methods and in-person services
+
+Life Satisfaction:
+- MODERATE satisfaction despite financial constraints (typically 60-70% satisfied)
+- Long-term perspective and acceptance of current situation
+- Often higher than struggling working-age groups despite lower resources
+
+Environmental Attitudes:
+- LOWER environmental engagement (recycling participation 30-40%, climate concern 20-30%)
+- Pragmatic focus on immediate needs over abstract environmental goals
+- Environmentalist self-identification very low (5-8% range)
+
+Financial Attitudes:
+- VERY HIGH saving preference, extreme borrowing aversion (70-80% "hate to borrow")
+- Trust in comparison sites despite low tech adoption (15-25% - driven by financial necessity)
+- Price comparison usage higher than typical elderly due to budget constraints
+
+Social/Ethical Consumption:
+- LOW social/environmental brand commitment (10-15% range)
+- Pragmatic, price-driven purchasing decisions dominate
+- Limited willingness to pay premium for ethical/social values
+
+KEY INSIGHT: This group combines LOW tech adoption with HIGH price consciousness. They are pragmatic and necessity-driven, not values-driven in purchasing decisions.
