@@ -1,0 +1,54 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_FY27.SOAP & GLORY’S ‘GLOW-ON’ GRADUAL TAN LOTION.JPG
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+Sure, here's the detailed analysis of the product concept image:
+
+1. **Product Name and Brand**:
+   - Product Name: SOAP & GLORY’S ‘GLOW-ON’ GRADUAL TAN LOTION
+   - Brand: Soap & Glory
+
+2. **Product Description**:
+   - "Get your ‘glow on’ and enjoy all the benefits of a sun-kissed glow in Soap & Glory’s amazing Vanilla fragrance!"
+
+3. **Product Category**:
+   - Gradual tan lotion
+
+4. **Key Claims/Benefits**:
+   - Builds a gradual tan that gives your skin a natural-looking, sun-kissed glow
+   - Provides 72-hour hydration for velvety soft skin
+   - No unpleasant ‘fake tan’ smell
+
+5. **Ingredients**:
+   - Contains NUTRI-GLOW
+
+6. **Packaging Information**:
+   - Size: 200ml
+   - Price: £14.99
+
+7. **Usage Instructions**:
+   - Simply keep your glow topped up by applying on clean skin morning or evening for that sun-kissed radiant glow.
+
+8. **Visual Design Elements**:
+   - Color scheme and dominant colors: Pink and white
+   - Imagery: Mix of lifestyle and product-only images
+   - Badges/labels: None visible
+   - Design style: Playful and casual
+
+9. **Target Audience Signals**:
+   - The playful, colorful design and emphasis on easy application suggest targeting young or style-conscious users.
+
+10. **Any Additional Text**:
+    - Taglines: "Getting ready has never been so fun, or so easy!"
+    - Active ingredients and fragrance details
+
+**Analysis of Visual Elements**:
+- The image features illustrations and lifestyle images of people enjoying the sun, which supports the product's claim of providing a sun-kissed glow.
+- It includes a pictorial application guide showing the ease of use and enjoyment.
+- The design aesthetic is colorful and youthful, appealing to customers seeking an enjoyable beauty routine.
+
+These elements together create an engaging image promoting the fun and benefits of using the product.

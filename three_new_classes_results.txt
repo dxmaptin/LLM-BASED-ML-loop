@@ -1,0 +1,125 @@
+C:\Users\d.zhang\Desktop\Experiments\venv\Lib\site-packages\langchain_core\_api\deprecation.py:27: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
+================================================================================
+TESTING 3 NEW CLASSES (NOT PREVIOUSLY TESTED)
+================================================================================
+This verifies the prompt doesn't overfit to specific classes
+Testing: prosperous_professionals, stable_seniors, hard-up_households
+================================================================================
+
+Loading ground truth...
+
+================================================================================
+Testing: prosperous_professionals
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  34.0% | Error:   4.0pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  71.1% | Error:   3.9pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  25.0% | Actual:  11.9% | Error:  13.1pp [FAIL]
+[4/10] I don't like the idea of being in debt...
+  Pred:  70.0% | Actual:  43.1% | Error:  26.9pp [FAIL]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  54.8% | Error:  10.2pp [FAIL]
+[6/10] It is important to be well insured for everything...
+  Pred:  12.0% | Actual:  11.2% | Error:   0.8pp [OK]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  44.4% | Error:   0.6pp [OK]
+[8/10] Financial security after retirement is your own re...
+  Pred:  55.0% | Actual:  59.8% | Error:   4.8pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  34.3% | Error:   5.7pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  25.0% | Actual:  28.7% | Error:   3.7pp [WARN]
+
+--------------------------------------------------------------------------------
+Results for prosperous_professionals:
+  R2 Score: 0.6777
+  MAE: 7.39pp
+  Excellent (<3pp): 2/10
+  Status: NEEDS WORK (R2 < 0.7)
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing: stable_seniors
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  24.2% | Error:   5.8pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  70.0% | Actual:  77.3% | Error:   7.3pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  25.0% | Actual:  14.4% | Error:  10.6pp [FAIL]
+[4/10] I don't like the idea of being in debt...
+  Pred:  70.0% | Actual:  43.5% | Error:  26.5pp [FAIL]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  57.4% | Error:   7.6pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  12.0% | Actual:  12.5% | Error:   0.5pp [OK]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  36.0% | Error:   9.0pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  55.0% | Actual:  59.8% | Error:   4.8pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  31.6% | Error:   8.4pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  37.1% | Error:  17.9pp [FAIL]
+
+--------------------------------------------------------------------------------
+Results for stable_seniors:
+  R2 Score: 0.6225
+  MAE: 9.85pp
+  Excellent (<3pp): 1/10
+  Status: NEEDS WORK (R2 < 0.7)
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing: hard-up_households
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  24.8% | Error:   5.2pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  70.0% | Actual:  73.1% | Error:   3.1pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  35.0% | Actual:  16.5% | Error:  18.5pp [FAIL]
+[4/10] I don't like the idea of being in debt...
+  Pred:  70.0% | Actual:  44.4% | Error:  25.6pp [FAIL]
+[5/10] I am very good at managing money...
+  Pred:  50.0% | Actual:  51.5% | Error:   1.5pp [OK]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  11.9% | Error:  13.1pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  31.6% | Error:   8.4pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  55.0% | Actual:  55.0% | Error:   0.0pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  35.0% | Actual:  32.2% | Error:   2.8pp [OK]
+[10/10] I like to use cash when making purchases...
+  Pred:  70.0% | Actual:  41.9% | Error:  28.1pp [FAIL]
+
+--------------------------------------------------------------------------------
+Results for hard-up_households:
+  R2 Score: 0.3433
+  MAE: 10.63pp
+  Excellent (<3pp): 3/10
+  Status: NEEDS WORK (R2 < 0.7)
+--------------------------------------------------------------------------------
+
+================================================================================
+SUMMARY: 3 NEW CLASSES
+================================================================================
+
+Class                                R2      MAE  Excellent    Pass?
+--------------------------------------------------------------------------------
+prosperous_professionals         0.6777     7.39   2/10        NO
+stable_seniors                   0.6225     9.85   1/10        NO
+hard-up_households               0.3433    10.63   3/10        NO
+
+================================================================================
+Average R2: 0.5478
+Average MAE: 9.29pp
+Classes passing (R2>0.7): 0/3
+
+[INFO] Average R2 = 0.5478
+Note: Prompt is optimized for affluent demographics
+================================================================================

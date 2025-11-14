@@ -1,0 +1,764 @@
+Category,Question,Answer,Value
+Population,Age,Age 0 - 4,0.0576414841562981
+Population,Age,Age 5 - 17,0.167917457904091
+Population,Age,Age 18 - 24,0.0809461200416869
+Population,Age,Age 25 - 34,0.146937658020304
+Population,Age,Age 35 - 49,0.195506070004844
+Population,Age,Age 50 - 64,0.188233630926881
+Population,Age,Age 65 - 74,0.0873783156028645
+Population (16+),Geography,England,0.700219566974301
+Population (16+),Geography,Wales,0.09517637913171
+Population (16+),Geography,Scotland,0.166247227767579
+Population (16+),Geography,Northern Ireland,0.0383568261264081
+Population (16+),Ethnicity,White,0.955819410873726
+Population (16+),Ethnicity,Mixed,0.00807190598984917
+Population (16+),Ethnicity,Asian,0.0217285618247975
+Population (16+),Ethnicity,Black,0.00563060002032459
+Population (16+),Ethnicity,Other ethnicity,0.00874952129130244
+Population (16+),Country of Birth,UK / ROI,0.922333427147322
+Population (16+),Country of Birth,Rest of Europe,0.0247129845648575
+Population (16+),Country of Birth,Australia and New Zealand,0.00100579302280831
+Population (16+),Country of Birth,North America,0.00244089505489512
+Population (16+),Country of Birth,Middle East and Asia,0.0140902659905414
+Population (16+),Country of Birth,Africa,0.00614350327508554
+Population (16+),Country of Birth,Other,0.0292731309444891
+Population (16+),Religion,Christian,0.386636469378938
+Population (16+),Religion,Jewish,0.000525696226133263
+Population (16+),Religion,Buddhist,0.00440412084813518
+Population (16+),Religion,Muslim,0.0109155625883862
+Population (16+),Religion,Hindu,0.0065902943998959
+Population (16+),Religion,Sikh,0.000755655097003673
+Population (16+),Religion,Other religion,0.00937192489184364
+Population (16+),Religion,No religion,0.580800276569663
+Housing,House Type,Detached house,0.0883113585202528
+Housing,House Type,Flat or maisonette,0.0870005154295187
+Housing,House Type,Semi-detached house,0.2465845301678
+Housing,House Type,Terraced house,0.578103595882427
+Housing,House Type,Bungalow,0.0345790570463163
+Housing,House Tenure,Owned outright,0.35382445777012
+Housing,House Tenure,Mortgaged: full ownership,0.261348638534649
+Housing,House Tenure,Mortgaged: shared ownership,0.0205832281624648
+Housing,House Tenure,Privately rented,0.197017700226034
+Housing,House Tenure,Social renting,0.16722597530673
+Housing,House Size,Number of beds: 1,0.0635779600618455
+Housing,House Size,Number of beds: 2,0.344725975628246
+Housing,House Size,Number of beds: 3,0.482618501856247
+Housing,House Size,Number of beds: 4,0.0813912384787252
+Housing,House Size,Number of beds: 5+,0.0276863239749357
+Housing,House Value,House value up to 100k,0.198442218141207
+Housing,House Value,House value 100k - 150k,0.32817377102983
+Housing,House Value,House value 150k - 250k,0.363102473414794
+Housing,House Value,House value 250k - 500k,0.105638114797256
+Housing,House Value,House value 500k - 750k,0.00410993774936761
+Housing,House Value,House value 750k - 1m,0.000413929780282726
+Housing,House Value,House value 1m+,0.00011955508726125
+Housing,House Move,Individual likely to move,0.245861937015229
+Housing,House Move,Individual moves to a property on their own,0.0774827670933937
+Housing,House Move,Individual moves to a property with one other person in the household,0.129312302569146
+Housing,House Move,Individual moves to a property with two or more other people in the household,0.0390668673526885
+Housing,House Move,Individual moves to owner occupied housing,0.112818521168195
+Housing,House Move,Individual moves to private renting,0.0685651834875707
+Housing,House Move,Individual moves to social renting,0.0644782323594623
+Housing,House Move,Individual moves to flat,0.0276175113520675
+Housing,House Move,Individual moves to terraced house,0.121513048986799
+Housing,House Move,Individual moves to semi-detached,0.0603480938577642
+Housing,House Move,Individual moves to detached house,0.0363832828185983
+Housing,Gentrification,Proportion of addresses applied for extension,0.00310779766377218
+Housing,Gentrification,Churn rate within last 5 years,0.142707321633856
+Housing,Gentrification,Annualised Price % change in last 5 years,0.144760437004555
+Family,Structure,"Single person, no children",0.193743232388902
+Family,Structure,Single parent,0.04688417157594
+Family,Structure,"Couple, no children",0.22310659430129
+Family,Structure,Couple with children,0.18228201895235
+Family,Structure,"Other: two or more adults, may include a couple, may have children",0.353983982781517
+Family,Number of Children by Age,Children aged 0 - 5: 0,0.886313755805755
+Family,Number of Children by Age,Children aged 0 - 5: 1,0.0811831942368753
+Family,Number of Children by Age,Children aged 0 - 5: 2+,0.032503049957369
+Family,Number of Children by Age,Children aged 6 - 15: 0,0.760448193600633
+Family,Number of Children by Age,Children aged 6 - 15: 1,0.128246653150359
+Family,Number of Children by Age,Children aged 6 - 15: 2+,0.111305153249007
+Family,Children in household,Children at home: 0,0.694165779233451
+Family,Children in household,Children at home: 1,0.155428172378506
+Family,Children in household,Children at home: 2,0.101936565992033
+Family,Children in household,Children at home: 3+,0.0484694823960087
+Family,Household Size,Household size: 1 person,0.194329055486323
+Family,Household Size,Household size: 2 persons,0.387864988467777
+Family,Household Size,Household size: 3 - 4 persons,0.339104099937346
+Family,Household Size,Household size: 5+ persons,0.0787018561085531
+Economy,NS SEC (% of people in employment),"Higher managerial, administrative and professional occupations",0.0549270288856211
+Economy,NS SEC (% of people in employment),"Lower managerial, administrative and professional occupations",0.211151018771751
+Economy,NS SEC (% of people in employment),Intermediate occupations,0.13962999204063
+Economy,NS SEC (% of people in employment),Small employers and own account workers,0.0819968868030165
+Economy,NS SEC (% of people in employment),Lower supervisory and technical occupations,0.0950123870986999
+Economy,NS SEC (% of people in employment),Semi-routine occupations,0.257117923266213
+Economy,NS SEC (% of people in employment),Routine occupations,0.160164763134067
+Economy,Social Grade,A,0.021531851713155
+Economy,Social Grade,B,0.150586439551633
+Economy,Social Grade,C1,0.298757692325861
+Economy,Social Grade,C2,0.217288880953146
+Economy,Social Grade,D,0.189762785823325
+Economy,Social Grade,E,0.122072349632877
+Economy,Occupation,Director / managerial,0.0302558312607476
+Economy,Occupation,Professional,0.167686532125488
+Economy,Occupation,Looking after home,0.185136967451876
+Economy,Occupation,Office worker,0.0571609116855496
+Economy,Occupation,Retired,0.126757838585784
+Economy,Occupation,Self employed,0.0501213091944144
+Economy,Occupation,Shop worker,0.115591964417815
+Economy,Occupation,Skilled / manual worker,0.195261210876897
+Economy,Occupation,Student,0.0378918034759245
+Economy,Occupation,Unemployed,0.0341356309255004
+Education,Highest Level of Qualifications (Adults),Degree or higher degree,0.161696354225679
+Education,Highest Level of Qualifications (Adults),Higher education below degree level,0.104016765109459
+Education,Highest Level of Qualifications (Adults),A-levels / AS-levels or Highers,0.0944966450544485
+Education,Highest Level of Qualifications (Adults),GCSE / O-levels / CSE / School Certificate,0.377749785244912
+Education,Highest Level of Qualifications (Adults),None of the above,0.2620404503655
+Transport,Travel To Work (% of Workers),Train / tube / tram,0.0377529373340848
+Transport,Travel To Work (% of Workers),Car / van / motorbike (driver or passenger),0.682969742637245
+Transport,Travel To Work (% of Workers),Bus / minibus / coach,0.0688031488513376
+Transport,Travel To Work (% of Workers),Bicycle,0.0314559358798693
+Transport,Travel To Work (% of Workers),On foot,0.149346327334277
+Transport,Travel To Work (% of Workers),Other (inc taxi / minicab),0.012681477967284
+Transport,Travel To Work (% of Workers),Works mainly from home,0.0169904299959013
+Transport,Car Ownership,Number of cars: 0,0.269567684002174
+Transport,Car Ownership,Number of cars: 1,0.542647379981495
+Transport,Car Ownership,Number of cars: 2,0.162881087443091
+Transport,Car Ownership,Number of cars: 3+,0.024903848573238
+Transport,Car Ownership,Less than 3 years old,0.107103525488282
+Transport,Car type,Main car: Company car,0.00846581697215695
+Transport,Car type,Main car: Privately owned,0.721966499025668
+Transport,Car type,Main car class: Saloon,0.0928121904684587
+Transport,Car type,Main car class: Hatchback,0.400358557173339
+Transport,Car type,Main car class: Estate,0.0580951501303715
+Transport,Car type,Main car class: Luxury,0.028970057696015
+Transport,Car type,Main car class: Other,0.15019636052964
+Transport,Car type,Bought main car new,0.155547785727917
+Transport,Car type,Bought main car used,0.574884530269907
+Transport,Car type,Main car uses: Traditional fuel,0.663720086768685
+Transport,Car type,Main car uses: Mild hybrid (i.e. engine and electric motor power the car and can't be used independently of each other),0.015536928696332
+Transport,Car type,"Main car uses: Full hybrid (i.e. engine and electric motor power the car, either simultaneously or independently)",0.025490220243531
+Transport,Car type,Main car uses: Plug-in hybrid (i.e. engine and electric motor power the car that charges using a plug - in),0.00891684672305543
+Transport,Car type,Main car uses: Electric,0.0157650051483714
+Transport,Car type,Main car uses: Other alternative fuels,0.00100322841784962
+Transport,Mileage,"Yearly mileage: 0 - 5,000 miles",0.400392341060778
+Transport,Mileage,"Yearly mileage: 5,000 - 10,000 miles",0.223609805228646
+Transport,Mileage,"Yearly mileage: 10,000+ miles",0.1064301697084
+Finance,Household Annual Gross Income,"£0 - £20,000",0.218280690327616
+Finance,Household Annual Gross Income,"£20,000 - £40,000",0.361640958505601
+Finance,Household Annual Gross Income,"£40,000 - £60,000",0.244350013029662
+Finance,Household Annual Gross Income,"£60,000 - £80,000",0.117727894244124
+Finance,Household Annual Gross Income,"£80,000 - £100,000",0.0302814034105902
+Finance,Household Annual Gross Income,"£100,000+",0.0277190404824053
+Finance,Household Annual Gross Income,Average (Mean) Household Income,39769.8289023516
+Finance,Disposable Income,Income after Income tax and National Insurance,33154.6048226032
+Finance,Disposable Income,Disposable Income after all modelled outgoings,17069.8748961247
+Finance,Outgoings,"Income tax, NI",6615.22378169518
+Finance,Outgoings,"Mortgage, social rent, private rent",4118.732186877
+Finance,Outgoings,"Council tax, utilities, water, structure insurance, NI domestic rates",2438.3570615180197
+Finance,Outgoings,Food,5102.34781161126
+Finance,Outgoings,Clothing,1284.3379700596101
+Finance,Outgoings,Childcare,1139.21366704205
+Finance,Outgoings,Student loans,109.816174806545
+Finance,Outgoings,Pension,1138.0014820367098
+Finance,Outgoings,Travel to work,753.9257807350521
+Finance,Outgoings,Total Expenditure,349.490984144848
+Finance,Outgoings,> Food and non-alcoholic beverages,58.4488782191189
+Finance,Outgoings,> Alcoholic beverages (off-sales),8.63809071301802
+Finance,Outgoings,> Tobacco,4.29276446583772
+Finance,Outgoings,> Clothing and footwear,12.2700208085499
+Finance,Outgoings,"> Housing, water, electricity, gas and other fuels",77.2480554877529
+Finance,Outgoings,"> Furnishings, household equipment and routine maintenance",25.730500156715
+Finance,Outgoings,> Health,5.50230290776428
+Finance,Outgoings,> Transport,49.0916880846727
+Finance,Outgoings,> Communication,21.0675138550615
+Finance,Outgoings,> Recreation and Culture,36.8406435250302
+Finance,Outgoings,> Education,2.81004146425966
+Finance,Outgoings,> Restaurants and hotels,17.2419897696288
+Finance,Outgoings,> Miscellaneous goods and services,30.3084946874382
+Finance,Outgoings,Total Online Expenditure,19.9080800492386
+Finance,Financial Attitudes,I don't like the idea of being in debt,0.444390699057086
+Finance,Financial Attitudes,I am very good at managing money,0.514540598865529
+Finance,Financial Attitudes,It is important to be well insured for everything,0.1189520624836
+Finance,Financial Attitudes,Financial security after retirement is your own responsibility,0.550199090122081
+Finance,Financial Attitudes,Switching utilities suppliers is well worth the effort,0.321598149391737
+Finance,Financial Attitudes,I like to use cash when making purchases,0.419457568877679
+Finance,Financial Attitudes,I do not make financial decisions without talking to a professional,0.193783488855613
+Finance,Financial Attitudes,I do not mind taking risks with my money,0.200878033950957
+Finance,Financial Attitudes,I am always careful that my personal details are not public,0.789616291295428
+Finance,Financial Attitudes,I love the ease of using chat bots to get answers,0.269450488938517
+Finance,Financial Attitudes,I hate having to go to the branch of my bank or building society,0.476182703823284
+Finance,Financial Attitudes,I am happy to use the phone to carry out day to day banking transactions,0.773258694591665
+Finance,Financial Attitudes,I trust financial price comparison sites,0.522124211654826
+Finance,Financial Attitudes,I am likely to use financial price comparison sites in the future,0.633229287406073
+Finance,Financial Attitudes,I would be happy to use the Internet to carry out day to day banking transactions,0.862057597657797
+Finance,Financial Attitudes,I regularly read the financial pages in the papers,0.447403978828158
+Finance,Financial Attitudes,I hate to borrow - I would much rather save up in advance,0.723219308662086
+Finance,Financial Attitudes,I only save for a specific purpose,0.367003464406761
+Finance,Benefits,Income support,0.026151778292578
+Finance,Benefits,Job seeker's allowance,0.00809919230054339
+Finance,Benefits,Child benefit,0.18427578378827
+Finance,Benefits,Universal credit,0.0699303020515684
+Finance,Financial Situation,Saving a lot,0.102056168867467
+Finance,Financial Situation,Saving a little,0.462623392963975
+Finance,Financial Situation,Just managing to make ends meet,0.310795926880933
+Finance,Financial Situation,Drawing on savings or running into debt,0.124524511287624
+Finance,Contactless,"Uses contactless payments on card, smartphone, or wearable device",0.831825458272071
+Finance,Credit Cards,Has credit card,0.555754309819529
+Finance,Credit Cards,Has 2+ credit cards,0.249735467865393
+Finance,Credit Cards,Spent £500+ in last month on a credit card,0.105147909108481
+Finance,Credit Cards,Uses credit card 6+ times per month,0.166918725657899
+Finance,Credit Cards,Usually makes minimum payment on card,0.14546303590932
+Finance,Credit Cards,Always pays credit card balance in full,0.32406675969897
+Finance,"Current account, Savings and Investments",Has current account,0.979221997471601
+Finance,"Current account, Savings and Investments",Has commoditised financial product,0.931479423316576
+Finance,"Current account, Savings and Investments",Has considered financial product,0.734562174103427
+Finance,"Current account, Savings and Investments",Has a buy-to-let property or property development projects,0.042420815841257
+Finance,"Current account, Savings and Investments",Has instant access account,0.423723296566562
+Finance,"Current account, Savings and Investments",Has Cash ISA,0.212934464489834
+Finance,"Current account, Savings and Investments",Has a Help to Buy ISA,0.0135431930106301
+Finance,"Current account, Savings and Investments",Has Stocks and Shares ISA,0.121804911093674
+Finance,"Current account, Savings and Investments",Has Unit Trusts,0.0107741355728437
+Finance,"Current account, Savings and Investments",Has stocks and shares,0.0848290750106942
+Finance,"Current account, Savings and Investments",Has investment bonds,0.0234324392705523
+Finance,"Current account, Savings and Investments",Has a National Savings product,0.121753633506689
+Finance,"Current account, Savings and Investments",Has savings account,0.595622404364109
+Finance,"Current account, Savings and Investments",Savings value £1 - £500,0.15569105979594
+Finance,"Current account, Savings and Investments","Savings value £500 - £2,500",0.112932514098848
+Finance,"Current account, Savings and Investments","Savings value £2,500 - £10,000",0.13074334772389
+Finance,"Current account, Savings and Investments","Savings value £10,000+",0.196255482745429
+Finance,"Current account, Savings and Investments",Has investments,0.207611000174898
+Finance,"Current account, Savings and Investments","Value of investments £25,000+",0.0540997691351051
+Finance,Loans,Has loan,0.22784370308544
+Finance,Loans,Has unsecured loan,0.110648599398741
+Finance,Loans,Has 2+ loans,0.0859747874607828
+Finance,Loans,"Unsecured debt greater than £15,000",0.0189944043869756
+Finance,Mortgage,Has a mortgage,0.24497846654939
+Finance,Mortgage,Has mortgage more than 10 years old,0.0633779588872033
+Finance,Mortgage,Has endowment mortgage,0.00620428905193919
+Finance,Mortgage,Has repayment mortgage,0.203017855545056
+Finance,Mortgage,Has offset mortgage,0.0146988545065252
+Finance,Mortgage,Re-mortgaged with different lender,0.0344531270208574
+Finance,Mortgage,Re-mortgaged with same lender,0.0325357303596613
+Finance,Mortgage,Has mortgage on property other than currently live in,0.0135575098394729
+Finance,Mortgage,Has mortgage on more than one property,0.00657760546538808
+Finance,Insurance and Pensions,Has Life Assurance,0.418146973959513
+Finance,Insurance and Pensions,Has life protection policy,0.299121049846606
+Finance,Insurance and Pensions,Has pension scheme,0.477048103745794
+Finance,Insurance and Pensions,Has pension scheme organised through company,0.399515719899761
+Finance,Insurance and Pensions,Has pension scheme organised personally,0.0775323838460328
+Finance,Insurance and Pensions,Plans to use other investments for retirement,0.105312851553009
+Finance,Insurance and Pensions,Has PMI (private medical insurance),0.0844864189232202
+Finance,Insurance and Pensions,Has PMI - pay all personally,0.0360634385300021
+Finance,Insurance and Pensions,Has PMI - employer pays part or all,0.0398299789160011
+Finance,Insurance and Pensions,Has PMI - is covered by a family member,0.00859300147721692
+Finance,Insurance and Pensions,"Other health insurance (personal accident, hospital cash, health scheme)",0.130364173779942
+Financial Channel,Arrange current account,In branch or other face to face,0.0553953374381973
+Financial Channel,Arrange current account,Online,0.130016787172857
+Financial Channel,Arrange current account,By phone,0.0326102972610771
+Financial Channel,Arrange current account,By post,0.0122336629670901
+Financial Channel,Arrange current account,Used price comparison site,0.015396469392895
+Financial Channel,Arrange commoditised financial product,In branch or other face to face,0.178952353018491
+Financial Channel,Arrange commoditised financial product,Online,0.579481387108049
+Financial Channel,Arrange commoditised financial product,By phone,0.239391509594928
+Financial Channel,Arrange commoditised financial product,By post,0.0503543799095579
+Financial Channel,Arrange commoditised financial product,Used price comparison site,0.273085421140958
+Financial Channel,Arrange mortgage,In branch or other face to face,0.126647338970468
+Financial Channel,Arrange mortgage,Online,0.13505450528081
+Financial Channel,Arrange mortgage,By phone,0.0920785249989015
+Financial Channel,Arrange mortgage,By post,0.0222281958033561
+Financial Channel,Arrange mortgage,Used price comparison site,0.022772365666909
+Financial Channel,Arrange mortgage,Used IFA,0.00593134575250551
+Financial Channel,Manage current account,In branch,0.520723640351778
+Financial Channel,Manage current account,Online,0.749162567398414
+Financial Channel,Manage current account,Online mobile,0.819968392077776
+Financial Channel,Manage current account,Online at home or work,0.499229504049444
+Financial Channel,Manage current account,By phone,0.135923617929324
+Financial Channel,Manage current account,By post,0.121590447048792
+Financial Channel,Manage savings account,In branch,0.140826120868936
+Financial Channel,Manage savings account,Online,0.4332804449438
+Financial Channel,Manage savings account,Online mobile,0.440352653524646
+Financial Channel,Manage savings account,Online at home or work,0.178031796577724
+Financial Channel,Manage savings account,By phone,0.101660524083337
+Financial Channel,Manage savings account,By post,0.0460446229993453
+Financial Channel,Actively manage current account,In branch,0.0283725168788153
+Financial Channel,Actively manage current account,Online,0.526807956985622
+Financial Channel,Actively manage current account,Online mobile,0.575807717404707
+Financial Channel,Actively manage current account,Online at home or work,0.156174308618983
+Financial Channel,Actively manage current account,By phone,0.0298139965653844
+Internet,Internet Access: Overall,Used the internet in the last month,0.955920861289601
+Internet,Internet Access: Overall,Never used the internet,0.0305240440536352
+Digital,Internet Access: Usage in Last Week,Not at all,0.0584626826814949
+Digital,Internet Access: Usage in Last Week,Less than 2 hours,0.0535615943367024
+Digital,Internet Access: Usage in Last Week,3 - 7 hours,0.13647637003458
+Digital,Internet Access: Usage in Last Week,8 - 19 hours,0.20683770672715
+Digital,Internet Access: Usage in Last Week,20+ hours,0.544661646220071
+Digital,Digital Attitudes,I am worried that any personal information I enter online will not remain secure,0.575333103273148
+Digital,Digital Attitudes,"Computers confuse me, I'll never get used to them",0.145220959432203
+Digital,Digital Attitudes,I love to buy new gadgets and appliances,0.375692259919463
+Digital,Digital Attitudes,Shopping online makes my life easier,0.257603096188299
+Devices,Mobile phone,Has mobile,0.937515186498704
+Devices,Mobile phone,Has smartphone,0.853061040980633
+Devices,Technology at Home,Has tablet,0.509760154806335
+Devices,Technology at Home,Has a smartwatch or fitness band,0.266953476175161
+Digital,Online activity (one or more times per week),Book Travel / Holiday,0.0724167269879634
+Digital,Online activity (one or more times per week),Gambling / Betting,0.189147860955849
+Digital,Online activity (one or more times per week),Manage my personal finances / bank account,0.676420520045712
+Digital,Online activity (one or more times per week),Online auctions (e.g. eBay),0.198389155268791
+Digital,Online activity (one or more times per week),Online shopping,0.285217075526222
+Digital,Online activity (one or more times per week),Source info on products / services online,0.531699470853989
+Digital,Online activity (one or more times per week),Use a search engine (e.g. Google),0.878587601594727
+Digital,Researched the last purchase online before buying,Alcoholic drinks,0.155997197157047
+Digital,Researched the last purchase online before buying,Beauty / personal grooming,0.320521488395517
+Digital,Researched the last purchase online before buying,Cars / automotive ,0.257070947633896
+Digital,Researched the last purchase online before buying,Children products ,0.256333761532856
+Digital,Researched the last purchase online before buying,"Consumer technology (e.g. tablets, laptops, smartphones, smart watches) ",0.550292322760966
+Digital,Researched the last purchase online before buying,"Entertainment tickets (e.g. movie, theater, festivals, sporting events) ",0.382843388011673
+Digital,Researched the last purchase online before buying,Fashion / clothing ,0.448277191398481
+Digital,Researched the last purchase online before buying,"Gaming (e.g. consoles, PC, online) ",0.35476436962559
+Digital,Researched the last purchase online before buying,Groceries / household items ,0.228796450380255
+Digital,Researched the last purchase online before buying,Holiday / travel ,0.431586989805856
+Digital,Researched the last purchase online before buying,Home appliances ,0.535893779441297
+Digital,Researched the last purchase online before buying,Luxury goods and services ,0.195446203272122
+Digital,Researched the last purchase online before buying,"Music (e.g. downloads, streaming, CDs) ",0.256220517185444
+Digital,Researched the last purchase online before buying,Personal finance / banking,0.345359066943196
+Digital,Researched the last purchase online before buying,Pet care ,0.214787760596348
+Digital,Bought the last purchase online using any device,Alcoholic drinks,0.187634996491529
+Digital,Bought the last purchase online using any device,Beauty / personal grooming,0.30797483213706
+Digital,Bought the last purchase online using any device,Cars / automotive ,0.189289673457506
+Digital,Bought the last purchase online using any device,Children products ,0.276621053911735
+Digital,Bought the last purchase online using any device,"Consumer technology (e.g. tablets, laptops, smartphones, smart watches) ",0.557312840821153
+Digital,Bought the last purchase online using any device,"Entertainment tickets (e.g. movie, theater, festivals, sporting events) ",0.427377789651354
+Digital,Bought the last purchase online using any device,Fashion / clothing ,0.468782151947714
+Digital,Bought the last purchase online using any device,"Gaming (e.g. consoles, PC, online) ",0.38087880767539
+Digital,Bought the last purchase online using any device,Groceries / household items ,0.254008730431852
+Digital,Bought the last purchase online using any device,Holiday / travel ,0.48991480279712
+Digital,Bought the last purchase online using any device,Home appliances ,0.528232341215273
+Digital,Bought the last purchase online using any device,Luxury goods and services ,0.226636401008232
+Digital,Bought the last purchase online using any device,"Music (e.g. downloads, streaming, CDs) ",0.337081242330563
+Digital,Bought the last purchase online using any device,Personal finance / banking,0.412330592208279
+Digital,Bought the last purchase online using any device,Pet care ,0.227586392896876
+Digital,Sites regularly visited,Amazon.co.uk,0.653823506250519
+Digital,Sites regularly visited,Google,0.594976552981018
+Digital,Sites regularly visited,Wikipedia,0.2462415705269
+Digital,Sites regularly visited,Yahoo!,0.0863307775416599
+Digital,Sites regularly visited,airbnb,0.0668679529460003
+Digital,Sites regularly visited,Asos.com,0.0787384502081349
+Digital,Sites regularly visited,Bing,0.036275501325205
+Digital,Sites regularly visited,Buzzfeed,0.0212850642337704
+Digital,Sites regularly visited,Ebay,0.348373789069279
+Digital,Sites regularly visited,Expedia.co.uk,0.0446755294948635
+Digital,Sites regularly visited,Gmail,0.403158722138823
+Digital,Sites regularly visited,Groupon,0.0574123775578687
+Digital,Sites regularly visited,MSN,0.0378009946682923
+Digital,Sites regularly visited,Spotify,0.251647055568562
+Digital,Sites regularly visited,TripAdvisor,0.112194771995717
+Digital,Sites regularly visited,Vice.com,0.0139815466757843
+Digital,Sites regularly visited,Bet365.com,0.0475130720153918
+Digital,Sites regularly visited,SoundCloud,0.0308384675248312
+Digital,Sites regularly visited,Hotels.com,0.0532769145505242
+Digital,Sites regularly visited,Argos,0.220544273910608
+Digital,Sites regularly visited,Audible (Amazon eBooks),0.0500797480359534
+Digital,Sites regularly visited,Auto Trader,0.0422537110494018
+Digital,Sites regularly visited,BBC Good Food,0.109566886520719
+Digital,Sites regularly visited,BBC News,0.282266140157616
+Digital,Sites regularly visited,BBC Sport,0.173868344859081
+Digital,Sites regularly visited,Boots.com,0.135117745894989
+Digital,Sites regularly visited,comparethemarket.com,0.102145512760077
+Digital,Sites regularly visited,Confused.com,0.0439102451600377
+Digital,Sites regularly visited,Currys,0.0748141074729696
+Digital,Sites regularly visited,Direct.gov.uk ,0.127897221142822
+Digital,Sites regularly visited,Etsy,0.12442888129466
+Digital,Sites regularly visited,Ikea.com,0.0827928195827044
+Digital,Sites regularly visited,Internet Movie Database (IMDb),0.0744334039748232
+Digital,Sites regularly visited,johnlewis.com,0.0419798074364735
+Digital,Sites regularly visited,JustEat,0.210722572490927
+Digital,Sites regularly visited,Lastminute.com,0.0279905197529567
+Digital,Sites regularly visited,Marks and Spencer,0.134332939529341
+Digital,Sites regularly visited,Microsoft,0.139329823569581
+Digital,Sites regularly visited,Moneysavingexpert.com,0.170596573445645
+Digital,Sites regularly visited,Moneysupermarket.com,0.0942335538018999
+Digital,Sites regularly visited,Mumsnet,0.0362494832937797
+Digital,Sites regularly visited,National Lottery,0.192520140454476
+Digital,Sites regularly visited,NHS.uk (NHS Choices),0.12536108729884
+Digital,Sites regularly visited,Notonthehighstreet.com,0.0351239459978602
+Digital,Sites regularly visited,Premierleague.com,0.0941103631944664
+Digital,Sites regularly visited,rightmove.co.uk,0.0920183406580194
+Digital,Sites regularly visited,Sky News,0.122753282345772
+Digital,Sites regularly visited,Sky Sports,0.12616925849248
+Digital,Sites regularly visited,TheLadBible,0.0390421336432422
+Digital,Sites regularly visited,Ticketmaster,0.0652131117548808
+Digital,Sites regularly visited,Twitch.TV,0.0402753005650403
+Digital,Sites regularly visited,very.co.uk,0.067252534395319
+Digital,Sites regularly visited,WikiHow,0.0266981823700767
+Digital,Sites regularly visited,zoopla.co.uk,0.0574124093006553
+Media Habits,Overall Social Media Activity,"Sometimes, less than monthly",0.0295494574400329
+Media Habits,Overall Social Media Activity,"Monthly, less than weekly",0.0588038273321997
+Media Habits,Overall Social Media Activity,1 - 6 days per week,0.163915263267398
+Media Habits,Overall Social Media Activity,Daily,0.57093064224613
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Shares / uploads,0.296032062939985
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Uploads original content,0.167891695357802
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Reads ratings / reviews,0.308381725632048
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Posts ratings / reviews,0.160969834072306
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Takes part in groups / forums,0.179050639936865
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Reads blogs,0.225242297924631
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Comments on blogs [has ever],0.513345058423216
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Creates own blogs [has ever],0.25094802720782
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Manages own website [has ever],0.251055371746002
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Instant messaging,0.78970793029314
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),1-1 video calling (e.g. Skype),0.370965039468776
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Group video calling (e.g. Skype),0.235353018824589
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Blogger,0.0821344839664988
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Bumble,0.0680648769984205
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Email,0.799628070791317
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Facebook,0.677815520721936
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Facebook Messenger,0.520234679887041
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Flickr,0.0599814327280571
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Instagram,0.448285402144374
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),LinkedIn,0.154433823595095
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Pinterest,0.160041105632336
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Reddit,0.136669636414695
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Skype,0.0821223328001184
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Snapchat,0.256077663597923
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),TikTok,0.321729518834031
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Tinder,0.0771602395331203
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),Tumblr,0.0718688019978639
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),WeChat,0.0613272482561849
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),WhatsApp,0.653214562926937
+Media Habits,Social Media Activity (one or more times per week unless otherwise stated),X (was Twitter),0.314350607733274
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Netflix,0.540229844946649
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Amazon Prime,0.384971415321663
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Apple TV,0.099340029121999
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Disney+,0.308335558964732
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",All 4,0.248361882088996
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",BBC iPlayer,0.368186856172596
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",BT Sport,0.140627076039272
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Demand Five,0.117411549672891
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Fire TV,0.16305730216261
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",ITVX/ITV Hub,0.298944943080236
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Now TV,0.143092782357924
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)","On demand through your set top box (e.g. Virgin on Demand, BT, Sky Anytime)",0.275686276559655
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Roku,0.094894859373605
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Samsung TV Plus,0.073602679654528
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Sky Go,0.101918701289161
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",Sky Q,0.191460005529852
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",STV Player,0.0769809275104867
+Media Habits,"TV: Subscription services (watching series, movies, or other TV programmes 1+ times a week)",YouTube Premium,0.10615394807889
+Media Habits,TV: channels watched regularly,BBC One,0.530560555995744
+Media Habits,TV: channels watched regularly,BBC Two,0.232034177914381
+Media Habits,TV: channels watched regularly,BBC Four,0.0781372903476796
+Media Habits,TV: channels watched regularly,BBC News,0.125070886188055
+Media Habits,TV: channels watched regularly,CBeebies,0.0240253544288619
+Media Habits,TV: channels watched regularly,ITV,0.446678555143313
+Media Habits,TV: channels watched regularly,ITV2,0.154377616764641
+Media Habits,TV: channels watched regularly,ITV3,0.105988110838961
+Media Habits,TV: channels watched regularly,ITV4,0.0738727539700057
+Media Habits,TV: channels watched regularly,ITVBe,0.0346561368505189
+Media Habits,TV: channels watched regularly,Channel 4,0.33756367461279
+Media Habits,TV: channels watched regularly,Channel 5,0.213896338275098
+Media Habits,TV: channels watched regularly,Challenge,0.0214430697754405
+Media Habits,TV: channels watched regularly,Comedy Central,0.0340807726828649
+Media Habits,TV: channels watched regularly,Discovery Channel,0.0613249758245874
+Media Habits,TV: channels watched regularly,E! Entertainment,0.00847351003271398
+Media Habits,TV: channels watched regularly,E4,0.117050655648907
+Media Habits,TV: channels watched regularly,Eurosport,0.026483789883404
+Media Habits,TV: channels watched regularly,Good Food,0.0139581059331539
+Media Habits,TV: channels watched regularly,Home,0.00481854038307622
+Media Habits,TV: channels watched regularly,More4,0.0636587110735522
+Media Habits,TV: channels watched regularly,MTV (any MTV channel),0.0107041659168933
+Media Habits,TV: channels watched regularly,National Geographic,0.0287778340706044
+Media Habits,TV: channels watched regularly,Sky Arts,0.0406630776468613
+Media Habits,TV: channels watched regularly,Sky Atlantic,0.0685956662652914
+Media Habits,TV: channels watched regularly,Sky Cinema (formerly Sky Movies),0.0411264548840575
+Media Habits,TV: channels watched regularly,Sky News,0.0855238723943384
+Media Habits,TV: channels watched regularly,Sky Sports Channels,0.102899142048561
+Media Habits,Newspapers,The Sun,0.101628959773235
+Media Habits,Newspapers,Daily Mirror,0.0319165298591961
+Media Habits,Newspapers,Daily Record,0.0137447208676316
+Media Habits,Newspapers,Daily Star,0.0193770324604722
+Media Habits,Newspapers,Daily Mail,0.039961638768994
+Media Habits,Newspapers,Daily Express,0.0106484499846219
+Media Habits,Newspapers,Daily Telegraph,0.00661191854942673
+Media Habits,Newspapers,The Guardian,0.00622497306888272
+Media Habits,Newspapers,The Times,0.00525165455087842
+Media Habits,Magazines Read,Business / Educational / Science,0.0220085311188285
+Media Habits,Magazines Read,Celebrity,0.0294147454690889
+Media Habits,Magazines Read,Fashion,0.0139683670922393
+Media Habits,Magazines Read,Food and Cooking,0.0753451822978045
+Media Habits,Magazines Read,Health,0.0235106708135772
+Media Habits,Magazines Read,Home and Gardening,0.0438422484027757
+Media Habits,Magazines Read,Computers and Electrical,0.0231356730514573
+Media Habits,Magazines Read,Motor,0.0232477678846588
+Media Habits,Magazines Read,Music and Film,0.0304256217482078
+Media Habits,Magazines Read,Sport,0.0265875130980471
+Media Habits,Magazines Read,Travel,0.049771283405336
+Shopping,Supermarket: main grocery shopping,Iceland,0.161079022024818
+Shopping,Supermarket: main grocery shopping,Aldi,0.365887184068516
+Shopping,Supermarket: main grocery shopping,Asda,0.305067419224416
+Shopping,Supermarket: main grocery shopping,Co-op,0.11668182810356
+Shopping,Supermarket: main grocery shopping,Lidl,0.276758552344514
+Shopping,Supermarket: main grocery shopping,M & S,0.101314959503583
+Shopping,Supermarket: main grocery shopping,Morrisons,0.188324866349207
+Shopping,Supermarket: main grocery shopping,Sainsbury's,0.0583285018636854
+Shopping,Supermarket: main grocery shopping,Tesco,0.0865329437998146
+Shopping,Supermarket: main grocery shopping,Waitrose,0.0239647081575766
+Shopping,Supermarket: main grocery shopping,Ocado,0.0121172196241734
+Shopping,Food Shopping,Premium Ranges,0.124491993092358
+Shopping,Food Shopping,Budget Ranges,0.349372348188101
+Shopping,Food Shopping,"Order food delivery (e.g. GrubHub, UberEats, Postmates): 1+ times per week",0.156789471961413
+Shopping,Weekly supermarket spend,£0 - 50,0.395049581232913
+Shopping,Weekly supermarket spend,£50 - 75,0.29795227736828
+Shopping,Weekly supermarket spend,£75 - 100,0.152139909692323
+Shopping,Weekly supermarket spend,£100+,0.154858231706482
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,Argos,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,Boots Opticians,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,Boots The Chemist,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,H&M,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,JD Sports,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,John Lewis,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,Marks & Spencer,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,New Look,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,Next,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,Poundland,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,Primark,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,River Island,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,Sports Direct,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,TK Maxx,
+Shopping,High Street Retailers - Propensity to Shop Brand in Catchment Area in which Retailer Trades,Zara,
+Shopping,Clothing & Footwear Stores,Premium,0.0667835126775911
+Shopping,Clothing & Footwear Stores,Mass Market,0.486264999196312
+Shopping,Clothing & Footwear Stores,Value,0.435623298024937
+Shopping,Furniture & Fittings Stores,Premium,0.00661602655545383
+Shopping,Furniture & Fittings Stores,Mass Market,0.0662505330291486
+Shopping,Furniture & Fittings Stores,Value,0.0471567485378231
+Shopping,Electrical Stores,Premium,0.016521338010986
+Shopping,Electrical Stores,Mass Market,0.0996453997038639
+Shopping,Electrical Stores,Value,0.0300479317022739
+Shopping,Attitudes,I am prepared to pay more for products that make life easier,0.458663388752465
+Shopping,Attitudes,I check a number of sources before making a significant purchase,0.654671465234705
+Shopping,Tend to look out for adverts on,"Leisure activities (e.g. events, days out) products",0.259363506187803
+Shopping,Tend to look out for adverts on,Alcoholic drinks (Age masking applied) products,0.16651975817752
+Shopping,Tend to look out for adverts on,Domestic appliances  products,0.148394030472438
+Shopping,Tend to look out for adverts on,Beauty/Personal grooming products,0.202783251985691
+Shopping,Tend to look out for adverts on,Cars/Automotive  products,0.136846902603227
+Shopping,Tend to look out for adverts on,Childrens products products,0.140774293123922
+Shopping,Tend to look out for adverts on,Cinema products,0.238246911436013
+Shopping,Tend to look out for adverts on,Household cleaning products products,0.192632999922157
+Shopping,Tend to look out for adverts on,Credit cards products,0.105516441988568
+Shopping,Tend to look out for adverts on,"eSports (e.g. League of Legends, Overwatch League) products",0.091153375106695
+Shopping,Tend to look out for adverts on,Fashion/Clothing products,0.24163596675553
+Shopping,Tend to look out for adverts on,Personal finance/Banking products,0.15399715457524
+Shopping,Tend to look out for adverts on,Packaged foods products,0.145985864362916
+Shopping,Tend to look out for adverts on,"Gaming (e.g. consoles, PC, online) products",0.186983004492659
+Shopping,Tend to look out for adverts on,Healthy lifestyle products,0.230631962291555
+Shopping,Tend to look out for adverts on,Holiday/Travel products,0.25892615706861
+Shopping,Tend to look out for adverts on,"Home, DIY and decoration products",0.217743446162341
+Shopping,Tend to look out for adverts on,Luxury goods and services products,0.127370961092183
+Shopping,Tend to look out for adverts on,Medical conditions/pharmaceuticals products,0.146807798325372
+Shopping,Tend to look out for adverts on,"Music (e.g. downloads, streaming, CDs) products",0.194821355923561
+Shopping,Tend to look out for adverts on,Soft drinks products,0.182467737274862
+Shopping,Tend to look out for adverts on,Sport/Sportswear/Sports equipment products,0.164052839199897
+Shopping,Tend to look out for adverts on,Supermarkets products,0.236229449640046
+Shopping,Tend to look out for adverts on,"Consumer Technology (e.g. tablets, laptops, smartphones, smart watches) products",0.196588981437132
+Shopping,Tend to look out for adverts on,Telecom operators products,0.0820370835216416
+Lifestyle,Charities,Animal Welfare,0.133421328884583
+Lifestyle,Charities,Children's Welfare,0.110515297581292
+Lifestyle,Charities,Disability,0.0550475032213798
+Lifestyle,Charities,Medical,0.108272704701097
+Lifestyle,Charities,Overseas Development,0.0138964800977931
+Lifestyle,Charities,Environmental/wildlife,0.0423944538702752
+Lifestyle,Charities,Regularly donate to charity,0.175672743998261
+Lifestyle,Charities,Consider Charity Legacy,0.333715494724994
+Lifestyle,Interests & Hobbies,Foreign Travel,0.327832822354945
+Lifestyle,Interests & Hobbies,Gambling (offline),0.112010082004019
+Lifestyle,Interests & Hobbies,Healthy Eating,0.315938447278266
+Lifestyle,Interests & Hobbies,Meditation / mindfulness,0.0735630578672693
+Lifestyle,Interests & Hobbies,Organic Foods,0.0409682588738152
+Lifestyle,Interests & Hobbies,Has a pet,0.531518913330928
+Lifestyle,Interests & Hobbies,Playing Golf,0.0362760803557158
+Lifestyle,Interests & Hobbies,Acting dancing or other performing arts,0.034568250983921
+Lifestyle,Interests & Hobbies,Art and craft,0.164868419962672
+Lifestyle,Interests & Hobbies,Bird watching,0.0687000809281857
+Lifestyle,Interests & Hobbies,Collecting items of interest (e.g. stamps coins etc.),0.0881092366323083
+Lifestyle,Interests & Hobbies,Cooking,0.341236659994954
+Lifestyle,Interests & Hobbies,Cycling,0.0756747016210885
+Lifestyle,Interests & Hobbies,DIY,0.170545517012465
+Lifestyle,Interests & Hobbies,Exercising indoors (e.g. in a gym),0.164204251464906
+Lifestyle,Interests & Hobbies,Fishing,0.0342097999007822
+Lifestyle,Interests & Hobbies,Gardening,0.263232193619435
+Lifestyle,Interests & Hobbies,Hiking climbing or other outdoor pursuits,0.143132914348429
+Lifestyle,Interests & Hobbies,Knitting and sewing,0.103762210676988
+Lifestyle,Interests & Hobbies,Photography,0.119296439578147
+Lifestyle,Interests & Hobbies,Playing board games or cards,0.184290212177196
+Lifestyle,Interests & Hobbies,Playing games on devices,0.362363187054106
+Lifestyle,Interests & Hobbies,Playing musical instruments,0.0604523680609025
+Lifestyle,Interests & Hobbies,Playing sports,0.0940126770489588
+Lifestyle,Interests & Hobbies,Computer programming,0.0344329876666837
+Lifestyle,Interests & Hobbies,Reading,0.510701887503269
+Lifestyle,Interests & Hobbies,Singing,0.0765112656790827
+Lifestyle,Interests & Hobbies,Writing or composing,0.0571297396750934
+Lifestyle,Interests & Hobbies,Exercising outdoor (e.g. running cycling etc.),0.147251632880151
+Lifestyle,Interests & Hobbies,Doing puzzles crosswords etc.,0.3472440240597
+Lifestyle,Interests & Hobbies,Watching television,0.691400750907527
+Lifestyle,Interests & Hobbies,Helping out in the community,0.0636112939672396
+Lifestyle,Interests & Hobbies,Online entertainment (e.g. debating watching YouTube etc.),0.313176451904557
+Lifestyle,Places They Visit,Art galleries,0.160610078822746
+Lifestyle,Places They Visit,Ballet and dance performances,0.0403975973691848
+Lifestyle,Places They Visit,Cabaret,0.0270839644609571
+Lifestyle,Places They Visit,Comedy shows,0.175484671149051
+Lifestyle,Places They Visit,Concerts or live music events,0.283521462098987
+Lifestyle,Places They Visit,Cinema,0.417013979476286
+Lifestyle,Places They Visit,Exhibitions,0.149453097880538
+Lifestyle,Places They Visit,Fairs or the circus,0.0921414672096609
+Lifestyle,Places They Visit,Historical sites and attractions,0.328575844557639
+Lifestyle,Places They Visit,Museums,0.350367329649845
+Lifestyle,Places They Visit,Opera,0.0216401545497712
+Lifestyle,Places They Visit,Parks and gardens,0.443674289318883
+Lifestyle,Places They Visit,Places of worship,0.0658706235313897
+Lifestyle,Places They Visit,Pubs and nightclubs,0.318531981505745
+Lifestyle,Places They Visit,Restaurants and cafes,0.584635154009079
+Lifestyle,Places They Visit,Shopping malls / high street stores,0.37433473146949
+Lifestyle,Places They Visit,Sporting events,0.164635295726106
+Lifestyle,Places They Visit,Theme parks,0.158113091360875
+Lifestyle,Places They Visit,Theatre,0.22582974120857
+Lifestyle,Places They Visit,Musicals,0.191156515307401
+Lifestyle,Places They Visit,Variety shows,0.0479367570824191
+Lifestyle,Places They Visit,Zoos,0.277714232607839
+Lifestyle,Follows Sports,Football,0.340294402496875
+Lifestyle,Follows Sports,Rugby Union,0.132806469624865
+Lifestyle,Follows Sports,Rugby League,0.0692509025751614
+Lifestyle,Follows Sports,Athletics / Marathon,0.122375904304727
+Lifestyle,Follows Sports,Cricket,0.114322664559085
+Lifestyle,Follows Sports,Cycling,0.0570491616995173
+Lifestyle,Follows Sports,Motorsport,0.120942544897129
+Lifestyle,Follows Sports,Tennis,0.129373766341374
+Lifestyle,Follows Sports,Sailing,0.00950929882675935
+Lifestyle,Visited Pubs in the past 12 months,Premium,0.0326683761361143
+Lifestyle,Visited Pubs in the past 12 months,Mass Market,0.154713018090403
+Lifestyle,Visited Pubs in the past 12 months,Value,0.416744902438035
+Lifestyle,Restaurants - Most Often,Premium,0.0255524790433853
+Lifestyle,Restaurants - Most Often,Mass Market,0.216433612531202
+Lifestyle,Restaurants - Most Often,Value,0.12844382565766
+Lifestyle,Holiday Destination / Type,Holiday: short haul,0.208430774205652
+Lifestyle,Holiday Destination / Type,Holiday: long haul,0.0569569823118416
+Lifestyle,Holiday Destination / Type,Holiday: UK / Ireland,0.368337432725183
+Lifestyle,Holiday Destination / Type,Activity / Outdoor Sports,0.206846879490541
+Lifestyle,Holiday Destination / Type,Holiday: coach tour,0.0144210656818512
+Lifestyle,Holiday Destination / Type,Holiday: Cruise,0.0146718609314771
+Lifestyle,Holiday Destination / Type,Holiday: Weekend short break,0.283046108544903
+Lifestyle,Eating Habits,Eats meat,0.81097148196395
+Lifestyle,Eating Habits,"Pescatarian, flexitarian, other",0.13892781964625
+Lifestyle,Eating Habits,Vegetarian,0.0443108196417709
+Lifestyle,Eating Habits,Vegan,0.0135318325877341
+Environment,Action,Rarely keep the tap running while brushing teeth,0.693546088827372
+Environment,Action,Make an effort to cut down on the use of gas / electricity at home,0.731433024561332
+Environment,Action,Important when buying a car: environmentally friendly / low co2 emissions,0.343284969992548
+Environment,Attitudes,"If a brand I like expresses a view I agree with in advertisements, I am more likely to buy it from that brand",0.0846328946658553
+Environment,Attitudes,Fuel consumption is the most important feature when buying a new car,0.165135729620829
+Environment,Attitudes,I think brands should consider environmental sustainability when putting on events,0.247786979951084
+Environment,Attitudes,Climate change is the biggest threat to civilisation,0.242151519426095
+Environment,Attitudes,I always make an effort to recycle,0.421413570685787
+Environment,Attitudes,I consider myself an environmentalist,0.0745553185767507
+Environment,Attitudes,"I do not care if it is green energy, as long as it is cheap",0.229098894024017
+Environment,Attitudes,I do not care what my carbon footprint is,0.0668902683578772
+Environment,Attitudes,I think energy companies do not care about the environment,0.270039800220905
+Environment,Attitudes,I am actively trying to reduce my meat consumption,0.111403355506706
+Environment,Attitudes,I do not mind paying more for organic food,0.0453118986883566
+Environment,Attitudes,I like to look out for where my products are made or grown,0.0916778019974289
+Environment,Attitudes,I only buy products from companies that have ethics and values that I agree with,0.0344760492962066
+Environment,Attitudes,I make an effort to support British businesses,0.189042242772122
+Environment,Attitudes,I make an effort to support local businesses,0.142624808244585
+Community Safety,Crime Survey for England - Very Worried About:,Home being broken into,0.109836551264918
+Community Safety,Crime Survey for England - Very Worried About:,Being mugged and robbed,0.0641732078864866
+Community Safety,Crime Survey for England - Very Worried About:,Having my car stolen,0.0662857517079687
+Community Safety,Crime Survey for England - Very Worried About:,Things being stolen from my car,0.0635438648868208
+Community Safety,Crime Survey for England - Very Worried About:,Being physically attacked by strangers,0.0712949765157198
+Community Safety,Crime Survey for England - Very Worried About:,Being raped,0.0534547038793799
+Community Safety,Crime Survey for England - Very Worried About:,"Being attacked because of skin colour, ethnic origin or religion",0.0357701335067188
+Community Safety,Crime Survey for England - Police in this Area:,Can be relied on to be there when you need them,0.535145474266959
+Community Safety,Crime Survey for England - Police in this Area:,Would treat you with respect if you had contact with them,0.778616088317348
+Community Safety,Crime Survey for England - Police in this Area:,The police in this area treat everyone fairly regardless of who they are,0.586713207180675
+Community Safety,Crime Survey for England - Police in this Area:,The police in this area understand the issues that affect this community,0.564821819149199
+Community Safety,Crime Survey for England - Police in this Area:,The police in this area are dealing with the things that matter to this community,0.447120628851697
+Community Safety,Crime Survey for England - Police in this Area:,I have confidence in the police after taking everything into account,0.629410440215652
+Health,Behaviours,Current cigarette smoker,0.231752164277266
+Health,Behaviours,"I like to pursue a life of challenge, novelty and change",0.344712054628536
+Health,Behaviours,I worry a lot about myself,0.444621457722151
+Social Capital,Contentment,Dissatisfied with: Life overall,0.0872005362579553
+Social Capital,Contentment,Dissatisfied with: Health,0.130267351612931
+Social Capital,Contentment,Dissatisfied with: Income of household,0.130156995386805
+Social Capital,Contentment,Dissatisfied with: Job,0.0425669756125701
+Social Capital,Contentment,Dissatisfied with: Amount of leisure time,0.0974787055855621
+Social Capital,Contentment,Neither satisfied nor dissatisfied with: Life overall,0.468276669956688
+Social Capital,Contentment,Neither satisfied nor dissatisfied with: Health,0.456207923200705
+Social Capital,Contentment,Neither satisfied nor dissatisfied with: Income of household,0.528364878768409
+Social Capital,Contentment,Neither satisfied nor dissatisfied with: Job,0.392743533849536
+Social Capital,Contentment,Neither satisfied nor dissatisfied with: Amount of leisure time,0.523610929092068
+Social Capital,Contentment,Satisfied with: Life overall,0.444522793785356
+Social Capital,Contentment,Satisfied with: Health,0.413524725186363
+Social Capital,Contentment,Satisfied with: Income of household,0.341478125844784
+Social Capital,Contentment,Satisfied with: Job,0.564689490537893
+Social Capital,Contentment,Satisfied with: Amount of leisure time,0.378910365322369
+Channel Preference,"Receiving information related to local services (council, local health service, other public sector body)",Email,0.478019174320996
+Channel Preference,"Receiving information related to local services (council, local health service, other public sector body)",Face to face and / or visit,0.0454470481976002
+Channel Preference,"Receiving information related to local services (council, local health service, other public sector body)",Mail,0.208034866461843
+Channel Preference,"Receiving information related to local services (council, local health service, other public sector body)",Mobile app,0.0516012261828239
+Channel Preference,"Receiving information related to local services (council, local health service, other public sector body)","Social media, e.g. Facebook",0.0285931209366304
+Channel Preference,"Receiving information related to local services (council, local health service, other public sector body)",Telephone call (mobile / landline),0.0588250784398317
+Channel Preference,"Receiving information related to local services (council, local health service, other public sector body)",Text message,0.0644937848519264
+Channel Preference,"Receiving information related to local services (council, local health service, other public sector body)",Website (inc chatbot),0.0809881808127416
+Channel Preference,"Researching information about local services (council, local health service, other public sector body)",Email,0.208993479101426
+Channel Preference,"Researching information about local services (council, local health service, other public sector body)",Face to face and / or visit,0.0206599428812994
+Channel Preference,"Researching information about local services (council, local health service, other public sector body)",Mail,0.0770514374768722
+Channel Preference,"Researching information about local services (council, local health service, other public sector body)",Mobile app,0.0591606593228415
+Channel Preference,"Researching information about local services (council, local health service, other public sector body)","Social media, e.g. Facebook",0.0486550786054447
+Channel Preference,"Researching information about local services (council, local health service, other public sector body)",Telephone call (mobile / landline),0.0498340903698914
+Channel Preference,"Researching information about local services (council, local health service, other public sector body)",Text message,0.0308720693978403
+Channel Preference,"Researching information about local services (council, local health service, other public sector body)",Website (inc chatbot),0.497710322127272
+Channel Preference,Submitting information to Local Authority,Email,0.299611863763073
+Channel Preference,Submitting information to Local Authority,Face to face and / or visit,0.0617140903155138
+Channel Preference,Submitting information to Local Authority,Mail,0.0574698629352963
+Channel Preference,Submitting information to Local Authority,Mobile app,0.0953557564867803
+Channel Preference,Submitting information to Local Authority,"Social media, e.g. Facebook",0.0105135105845297
+Channel Preference,Submitting information to Local Authority,Telephone call (mobile / landline),0.0820607598598147
+Channel Preference,Submitting information to Local Authority,Text message,0.0330189542822047
+Channel Preference,Submitting information to Local Authority,Website (inc chatbot),0.349268282730563
+Channel Preference,"Making an enquiry (or complaint) about local services (council, local health service, other public sector body)",Email,0.33273894421951
+Channel Preference,"Making an enquiry (or complaint) about local services (council, local health service, other public sector body)",Face to face and / or visit,0.0521911281306831
+Channel Preference,"Making an enquiry (or complaint) about local services (council, local health service, other public sector body)",Mail,0.025257095715419
+Channel Preference,"Making an enquiry (or complaint) about local services (council, local health service, other public sector body)",Mobile app,0.0547027343604789
+Channel Preference,"Making an enquiry (or complaint) about local services (council, local health service, other public sector body)","Social media, e.g. Facebook",0.0333721172918827
+Channel Preference,"Making an enquiry (or complaint) about local services (council, local health service, other public sector body)",Telephone call (mobile / landline),0.35728566733886
+Channel Preference,"Making an enquiry (or complaint) about local services (council, local health service, other public sector body)",Text message,0.0117248037524363
+Channel Preference,"Making an enquiry (or complaint) about local services (council, local health service, other public sector body)",Website (inc chatbot),0.129949913639261
+Channel Preference,"Receiving information related to existing products and services from a utility provider, bank, retailer, leisure provider",Email,0.591308553866731
+Channel Preference,"Receiving information related to existing products and services from a utility provider, bank, retailer, leisure provider",Face to face and / or visit,0.0218255818010079
+Channel Preference,"Receiving information related to existing products and services from a utility provider, bank, retailer, leisure provider",Mail,0.13414951693561
+Channel Preference,"Receiving information related to existing products and services from a utility provider, bank, retailer, leisure provider",Mobile app,0.0655038368397319
+Channel Preference,"Receiving information related to existing products and services from a utility provider, bank, retailer, leisure provider","Social media, e.g. Facebook",0.032377035635344
+Channel Preference,"Receiving information related to existing products and services from a utility provider, bank, retailer, leisure provider",Telephone call (mobile / landline),0.0492678258119565
+Channel Preference,"Receiving information related to existing products and services from a utility provider, bank, retailer, leisure provider",Text message,0.0583798766109826
+Channel Preference,"Receiving information related to existing products and services from a utility provider, bank, retailer, leisure provider",Website (inc chatbot),0.041399859580921
+Channel Preference,"Receiving information related to new products and services from a utility provider, bank, retailer, leisure provider",Email,0.636033340284955
+Channel Preference,"Receiving information related to new products and services from a utility provider, bank, retailer, leisure provider",Face to face and / or visit,0.0174812720161952
+Channel Preference,"Receiving information related to new products and services from a utility provider, bank, retailer, leisure provider",Mail,0.156251814077123
+Channel Preference,"Receiving information related to new products and services from a utility provider, bank, retailer, leisure provider",Mobile app,0.033705103335221
+Channel Preference,"Receiving information related to new products and services from a utility provider, bank, retailer, leisure provider","Social media, e.g. Facebook",0.0442150026851338
+Channel Preference,"Receiving information related to new products and services from a utility provider, bank, retailer, leisure provider",Telephone call (mobile / landline),0.0296287023367012
+Channel Preference,"Receiving information related to new products and services from a utility provider, bank, retailer, leisure provider",Text message,0.0511475063558052
+Channel Preference,"Receiving information related to new products and services from a utility provider, bank, retailer, leisure provider",Website (inc chatbot),0.037904903265686
+Channel Preference,"Submitting information to a utility provider, bank, retailer, leisure provider",Email,0.289199169924891
+Channel Preference,"Submitting information to a utility provider, bank, retailer, leisure provider",Face to face and / or visit,0.0548154492510967
+Channel Preference,"Submitting information to a utility provider, bank, retailer, leisure provider",Mail,0.0427045271449749
+Channel Preference,"Submitting information to a utility provider, bank, retailer, leisure provider",Mobile app,0.199861915895257
+Channel Preference,"Submitting information to a utility provider, bank, retailer, leisure provider","Social media, e.g. Facebook",0.0200792232007755
+Channel Preference,"Submitting information to a utility provider, bank, retailer, leisure provider",Telephone call (mobile / landline),0.0827868531088357
+Channel Preference,"Submitting information to a utility provider, bank, retailer, leisure provider",Text message,0.0295989300347827
+Channel Preference,"Submitting information to a utility provider, bank, retailer, leisure provider",Website (inc chatbot),0.273975932716333
+Channel Preference,"Making An Enquiry (Or Complaint) About Held Products And Services To A Utility Provider, Bank, Retailer, Leisure Provider",Email,0.356779562740338
+Channel Preference,"Making An Enquiry (Or Complaint) About Held Products And Services To A Utility Provider, Bank, Retailer, Leisure Provider",Face to face and / or visit,0.0585314704333623
+Channel Preference,"Making An Enquiry (Or Complaint) About Held Products And Services To A Utility Provider, Bank, Retailer, Leisure Provider",Mail,0.0177193523805737
+Channel Preference,"Making An Enquiry (Or Complaint) About Held Products And Services To A Utility Provider, Bank, Retailer, Leisure Provider",Mobile app,0.0734506088680709
+Channel Preference,"Making An Enquiry (Or Complaint) About Held Products And Services To A Utility Provider, Bank, Retailer, Leisure Provider","Social media, e.g. Facebook",0.0186787024121396
+Channel Preference,"Making An Enquiry (Or Complaint) About Held Products And Services To A Utility Provider, Bank, Retailer, Leisure Provider",Telephone call (mobile / landline),0.305389493028606
+Channel Preference,"Making An Enquiry (Or Complaint) About Held Products And Services To A Utility Provider, Bank, Retailer, Leisure Provider",Text message,0.0220099137351384
+Channel Preference,"Making An Enquiry (Or Complaint) About Held Products And Services To A Utility Provider, Bank, Retailer, Leisure Provider",Website (inc chatbot),0.151010646581874

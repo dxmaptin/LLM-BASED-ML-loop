@@ -1,0 +1,5 @@
+concept_id,concept_name,predicted_intent,ground_truth_intent,error_pp,confidence
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,38.0,37.0,1.0,75
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,38.0,29.0,9.0,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,35.0,46.0,11.0,60
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,52.0,51.0,1.0,85

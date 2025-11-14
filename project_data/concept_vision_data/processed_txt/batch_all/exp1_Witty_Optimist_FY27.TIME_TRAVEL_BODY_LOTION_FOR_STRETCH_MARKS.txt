@@ -1,0 +1,54 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_FY27.TIME TRAVEL BODY LOTION FOR STRETCH MARKS.JPG
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**:
+   - Product Name: TIME TRAVEL BODY LOTION FOR STRETCH MARKS
+   - Brand: Soap & Glory
+
+2. **Product Description**:
+   - "Bounce back to gloriously smooth, velvety soft skin!"
+   - "New Soap & Glory’s Time Travel Body Lotion for Stretchmarks helps to improve the appearance of stretchmarks, so you can enjoy bouncy, velvety-soft skin in just 4 weeks!"
+
+3. **Product Category**:
+   - Body Lotion
+
+4. **Key Claims/Benefits**:
+   - Improves the appearance of stretch marks
+   - Rejuvenates the look & feel of stretched skin
+   - Provides 72-hour hydration
+   - Improves skin's elasticity in 4 weeks
+
+5. **Ingredients**:
+   - Patented peptide technology, Pepticology™
+   - Shea Butter & Ceramides
+   - Fragrance: A luxurious Soap & Glory Pear scent
+
+6. **Packaging Information**:
+   - Format: Tube
+   - Size: 200ml
+   - Price: £14.99
+
+7. **Usage Instructions**:
+   - "Apply on clean skin morning or evening focusing on areas where skin is stretched."
+
+8. **Visual Design Elements**:
+   - **Color scheme and dominant colors**: Pink and white
+   - **Imagery**: Includes both lifestyle imagery (people applying lotion) and product-only images (illustrations of the product)
+   - **Badges, labels, or special callouts**: "Active ingredients" and "Fragrance" sections
+   - **Overall design style**: Stylish with a clinical yet approachable feel
+
+9. **Target Audience Signals**:
+   - Visual cues suggest targeting individuals concerned with stretch marks, possibly post-pregnancy or weight change
+
+10. **Any Additional Text**:
+    - "Indulge every inch of your body with our world first patented peptide technology Pepticology™, combined with a curated blend of Shea Butter & Ceramides."
+
+**Analysis of Visual Elements**:
+- The design is clean and professional, with emphasis on efficacy and luxuriousness.
+- The product is presented with a sense of clinical credibility (mention of a 15-year research partnership).
+- Illustrations help reinforce the product’s usage and benefits in a visual manner.

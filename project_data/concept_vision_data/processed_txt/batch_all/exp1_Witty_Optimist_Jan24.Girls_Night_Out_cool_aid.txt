@@ -1,0 +1,53 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_Jan24.Girls Night Out cool aid.jpg
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**: 
+   - Cool Aid
+   - Soap & Glory
+
+2. **Product Description**: 
+   - Cooling pink jelly cream to plump and replenish skin, providing 100-hour hydration
+
+3. **Product Category**: 
+   - Jelly cream
+
+4. **Key Claims/Benefits**:
+   - Soothe and hydrate the skin
+   - Cooling and anti-inflammatory
+   - Skin rejuvenating ingredients
+   - Provides 100-hour hydration
+
+5. **Ingredients**: 
+   - Cherry blossom extract
+   - Hyaluronic acid
+
+6. **Packaging Information**: 
+   - An ‘emergency’ pouch designed to keep jelly cool
+   - 100g
+   - £7.99
+
+7. **Usage Instructions**:
+   1. Squeeze the jelly out of the pouch and apply to dry skin as a moisturizer or primer, leave to soak in.
+   2. For best results, leave in the fridge overnight for an extra cooling sensation on dehydrated, tired skin.
+
+8. **Visual Design Elements**:
+   - **Color scheme and dominant colors**: Lavender and pink tones dominate.
+   - **Lifestyle imagery or product-only**: Both lifestyle imagery and product illustrations are present.
+   - **Badges, labels, special callouts**: None explicitly stated as badges.
+   - **Overall design style**: Casual and playful with illustrative elements.
+
+9. **Target Audience Signals**:
+   - Imagery showing women using the product suggests it is targeted towards women.
+   - Language and illustrations suggest a youthful, fun vibe.
+
+10. **Any Additional Text**: 
+    - "GIRLS NIGHT OUT" at the top suggests a theme or occasion for use.
+    - "Woken up extra thirsty? Does your skin feel a little depleted? [...] leaving you with no regrets!"
+    - "Subtle scents of wild cherry and refreshing cucumber help to soothe the senses and soul"
+
+This analysis includes all visible textual information and insights about the visual elements based on the appearance and theme presented in the product concept image.

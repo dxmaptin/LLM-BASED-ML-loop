@@ -1,0 +1,19 @@
+================================================================================
+CONCEPT TEST DATA - QA REPORT
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Wide format rows: 48
+Long format rows: 480
+Number of waves: 4
+Duplicate (wave, concept_id) pairs: 24
+
+CONCEPTS PER WAVE
+--------------------------------------------------------------------------------
+  soap_glory_fy25_concept_test: 4 concepts
+  soap_glory_fy26_concept_test: 5 concepts
+  soap_glory_fy27_july_2024: 3 concepts
+  soap_glory_jan_24: 12 concepts
+
+All percentage columns in valid range (0-100)

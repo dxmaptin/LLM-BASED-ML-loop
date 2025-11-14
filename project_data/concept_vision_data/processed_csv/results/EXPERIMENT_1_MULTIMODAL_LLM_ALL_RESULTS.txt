@@ -1,0 +1,186 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+CONSOLIDATED RESULTS - ALL 3 TEST IMAGES
+================================================================================
+
+METHOD: Direct image → gpt-4o → Text output
+- No preprocessing required
+- Single API call per image
+- Captures both text and visual context natively
+- Most comprehensive single-pass analysis
+
+================================================================================
+
+
+################################################################################
+IMAGE 1 OF 3: Girls Night Out Cool Aid
+################################################################################
+
+Image: Witty Optimist_Jan24.Girls Night Out cool aid.jpg
+Method: Direct image → gpt-4o → Text output
+
+================================================================================
+
+1. **Product Name and Brand**:
+   - Cool Aid
+   - Soap & Glory
+
+2. **Product Description**:
+   - Cooling pink jelly cream to plump and replenish skin, providing 100-hour hydration
+
+3. **Product Category**:
+   - Jelly cream
+
+4. **Key Claims/Benefits**:
+   - Soothe and hydrate the skin
+   - Cooling and anti-inflammatory
+   - Skin rejuvenating ingredients
+   - 100-hour hydration
+
+5. **Ingredients**:
+   - Cherry blossom extract
+   - Hyaluronic acid
+
+6. **Packaging Information**:
+   - An 'emergency' pouch designed to keep jelly cool
+   - 100 g
+   - £7.99
+
+7. **Usage Instructions**:
+   1. Squeeze the jelly out of the pouch and apply to dry skin as a moisturizer or primer, leave to soak in.
+   2. For best results, leave in the fridge overnight for an extra cooling sensation on dehydrated, tired skin.
+
+8. **Visual Design Elements**:
+   - Color scheme: Dominant colors are pink and purple.
+   - Imagery: Both lifestyle imagery and product illustrations (people using the product and an image of the pouch).
+   - Special callouts: "GIRLS NIGHT OUT" text and brand logo.
+   - Overall design style: Playful and casual with illustrated elements and lifestyle focus.
+
+9. **Target Audience Signals**:
+   - Visuals and messaging focus on hydration and cooling, suggesting a target audience looking for skincare solutions.
+   - Use of the phrase "GIRLS NIGHT OUT" hints at a younger demographic possibly interested in nightlife or social activities.
+
+10. **Any Additional Text**:
+    - "No regrets!" ensuring confidence in product use.
+    - Fragrance description: "Subtle scents of wild cherry and refreshing cucumber help to soothe the senses and soul."
+
+The visual design combines casual and playful themes, with a modern look appealing to users seeking hydration and cooling effects for their skincare routine.
+
+
+################################################################################
+IMAGE 2 OF 3: Be Me Body Sprays
+################################################################################
+
+Image: Witty Optimist_FY25.S&G Be Me Body Sprays.JPG
+Method: Direct image → gpt-4o → Text output
+
+================================================================================
+
+1. **Product Name and Brand**:
+   - **Brand**: Soap & Glory
+   - **Product Name**: 'Be Me' Body Sprays from Soap & Glory
+
+2. **Product Description**:
+   - "I like to wear different fragrance for different occasions and its nice to find something unique, but my budget doesn't allow for all of this"
+   - Soap & Glory have concocted 3 body spray (100ml) mists each containing a secret sssshhh…magic ingredient which will adapt to your own skin to make you smell as gloriously individual as you are.
+   - Top off your pampering regime with a long lasting fine fragrance experience… without the premium price tag!
+   - Designed to compliment Soap & Glory's existing fragrance families of bodycare, they are available in 3 olfactive bases for bottom notes and the rest comes from you!
+   - FLORAL OP / CITRUS / GOURMAND
+
+3. **Product Category**:
+   - Body spray
+
+4. **Key Claims/Benefits**:
+   - Scent adapting molecules
+   - Long lasting claim
+   - Dermatologist approved
+   - No nasties
+   - 100% Vegan
+   - Not tested on animals
+
+5. **Ingredients**:
+   - A "secret magic ingredient" that adapts to your skin
+
+6. **Packaging Information**:
+   - Format: Body spray bottles
+   - Size: 100ml each
+
+7. **Usage Instructions**:
+   - Not explicitly detailed; implied to be a typical spray application.
+
+8. **Visual Design Elements**:
+   - **Color scheme and dominant colors**: Pink, white, and hints of soft colors associated with citrus, gourmand, and floral.
+   - **Is this lifestyle imagery (models/people) or product-only?**: Includes lifestyle imagery with models/people.
+   - **Any badges, labels, or special callouts**:
+     - Clean: Dermatologist approved, No nasties
+     - Innovative: Scent adapting molecules, Long lasting claim
+     - 100% Vegan: Not tested on animals…just picky humans!
+   - **Overall design style**: Playful and feminine with a luxurious twist.
+
+9. **Target Audience Signals**:
+   - Appeals to budget-conscious consumers looking for unique and personal fragrances. Focus on individuality and self-expression.
+
+10. **Any Additional Text**:
+   - "Don't be a copy cat! Mark your territory with your personalised scent"
+
+The design uses elegant and feminine imagery, with elements like flowers and a dreamy model, likely targeting those who appreciate beauty and self-expression with a touch of glamour.
+
+
+################################################################################
+IMAGE 3 OF 3: Mission Possible Body Lotion
+################################################################################
+
+Image: Witty Optimist_Jan24.Mission Possible Body Lotion.jpg
+Method: Direct image → gpt-4o → Text output
+
+================================================================================
+
+1. **Product Name and Brand**:
+   - Soap & Glory's Mission Possible Collection
+   - Time Travel Body Lotion
+
+2. **Product Description**:
+   - 'It never happened' skin damage body lotion, showcasing the magic of reversal and the beauty of renewal in just 4 weeks!
+   - Introducing the Soap & Glory Time Travel body lotion, a lightweight, fast absorbing cream that magically reverses visible signs of skin damage in just 4 weeks. Drawing on a 15-year research partnership between Soap & Glory and the University of Manchester, this world first patented formula, designed to be applied before bed, deeply penetrates the skin's surface to restore skin cells damaged by exposure to sun and harmful toxins, rapidly infusing the skin with a fresh natural glow to restore the best of you. Travel back in time to your 'pre-damage' skin!
+
+3. **Product Category**:
+   - Body Lotion
+
+4. **Key Claims/Benefits**:
+   - Magically reverses visible signs of skin damage in just 4 weeks
+   - Deeply penetrates the skin's surface to restore skin cells
+   - Rapidly infuses the skin with a fresh natural glow
+   - Functions as an after sun with unique healing properties
+
+5. **Ingredients**:
+   - Peptide technology, Pepticology™ contains Hyaluronic Acid, Vitamin C, and Niacinamide
+
+6. **Packaging Information**:
+   - Smooth cylinder pack with a controlled pumping system
+   - Size: 150 g
+   - Price: £14.99
+
+7. **Usage Instructions**:
+   - Apply liberally to areas in need e.g., sunspots, sensitive skin.
+   - Apply in the evening for best results. Also functions as an after sun.
+
+8. **Visual Design Elements**:
+   - Color scheme: Dominant colors include white, peach, and pastel pink.
+   - Imagery: Includes product imagery and illustrations of women applying the lotion.
+   - Badges/Labels: "NEW!" callout, Soap & Glory logo.
+   - Design style: Clinical and stylish with a focus on rejuvenation and self-care.
+
+9. **Target Audience Signals**:
+   - Imagery of women applying the lotion suggests it is targeted towards women.
+   - Focus on reversing skin damage and healing implies a target audience interested in skincare and anti-aging.
+
+10. **Any Additional Text**:
+   - Mission Possible
+   - 15% Boost
+
+This product concept combines skincare benefits with a sleek, appealing visual presentation aimed at conveying effectiveness and rejuvenation.
+
+
+================================================================================
+END OF EXPERIMENT 1 RESULTS
+================================================================================

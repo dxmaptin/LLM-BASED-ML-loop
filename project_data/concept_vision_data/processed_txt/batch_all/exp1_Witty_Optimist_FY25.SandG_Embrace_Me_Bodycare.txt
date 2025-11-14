@@ -1,0 +1,53 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_FY25.S&G Embrace Me Bodycare.JPG
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**: 
+   - Soap & Glory
+   - ‘Embrace Me’ bodycare from Soap & Glory’s Original Pink range
+
+2. **Product Description**: 
+   - “Luxury, sensorial solutions for real body concerns …making you feel the best you…always”
+
+3. **Product Category**: 
+   - Bodycare products
+
+4. **Key Claims/Benefits**: 
+   - PH balanced Sensitive Wash for irritation-free use.
+   - Sensorial Hemp Bath soak for relaxation and soothing, relieving pain, and providing hydration.
+   - Scar and Skin tone oil to improve scars, stretch marks, and uneven skin tone.
+   - ‘Cool fix’ Cooling Lotion to cool flushed skin with ceramides and menthol.
+
+5. **Ingredients**: 
+   - Plant extracts and vitamins.
+   - Ceramides and menthol in the cooling lotion.
+
+6. **Packaging Information**: 
+   - Not specified (Size, price not visible).
+
+7. **Usage Instructions**: 
+   - Not explicitly stated.
+
+8. **Visual Design Elements**:
+   - Color scheme: Pink and white are dominant.
+   - Imagery: Lifestyle imagery with diverse models.
+   - Special callouts: 
+     - NEW hypoallergenic version of Original Pink scent
+     - CLEAN: Dermatologist & gynaecologist approved
+     - INNOVATIVE: Solutions to help love the skin you’re in
+     - 100% VEGAN: Not tested on animals
+   - Overall design style: Simple, informative, somewhat clinical.
+
+9. **Target Audience Signals**: 
+   - Women with changing bodies and hormonal needs.
+   - Focus on comfort and confidence in one's skin.
+
+10. **Any Additional Text**: 
+    - “My skins needs can change throughout the month, along with my mood! … so I want a safe product I can trust to do its job, that still feels special and indulgent”
+    - Original Pink is described as a fruity chypre fragrance.
+
+The image contains a variety of visual cues suggesting focus on sensitive skin care, relaxation, and confidence. The usage of pink suggests a feminine target audience. The clean, vegan, and innovative attributes emphasize safety and efficacy aligned with modern skincare concerns.

@@ -1,0 +1,62 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_FY26.Nourishing .JPG
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**: 
+   - Soap & Glory Nourishing Solid Body Oil Stick
+
+2. **Product Description**: 
+   - “Get ready to glow from head-to-toe”
+   - “I want a quick, convenient way to deeply moisturise my dry skin and areas that require extra nourishment, but I don’t want to spend a lot of time rubbing in creams and oils”
+
+3. **Product Category**: 
+   - Solid Body Oil Stick
+
+4. **Key Claims/Benefits**: 
+   - Provides deepest moisture in an instant
+   - Handy twist-up applicator, no sticky hands
+   - Suitable for use on-the-go
+   - Effective for all skin types
+   - Perfect for dry patches, stretch marks, scars, and pregnant bumps
+   - Scented with Original Pink fragrance and Magnifi-coco fragrance
+   - Dermatologist approved
+   - Suitable for sensitive skin
+
+5. **Ingredients**:
+   - Coconut butter
+   - Vitamin E
+   - Rosehip Oil
+   - Rich in fatty acids and peptides
+   - Guarana
+
+6. **Packaging Information**: 
+   - No specific format, size, or price visible
+
+7. **Usage Instructions**:
+   - Twist-up applicator for easy use, no need to rub in
+
+8. **Visual Design Elements**:
+   - Color scheme: Pink and white
+   - Lifestyle imagery: Features models applying the product
+   - Badges/Labels: 
+      - Gentle: Dermatologist approved, Suitable for sensitive skin
+      - Nourishing: Formula is rich in vitamin E, rosehip oil, and guarana
+      - Kind to Planet: Made with no nasties and waterless format
+   - Design style: Casual but thoughtful, focusing on usability and appeal
+
+9. **Target Audience Signals**:
+   - Suitable for all skin types, especially sensitive skin
+   - Pregnancy-friendly
+
+10. **Any Additional Text**:
+    - “Mindful solutions for every inch of the body”
+    - "Get the deepest moisture in an instant!"
+    - Callouts for scent notes: Bergamot & Mandarin, Rose & Peach, Patchouli & Oakmoss
+    - “Suitable for sensitive skin”
+    - "Made with no nasties and waterless format"
+
+Overall, the image is styled to emphasize convenience, suitability for sensitive skin, and the eco-friendly nature of the product.

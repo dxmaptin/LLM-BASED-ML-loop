@@ -1,0 +1,101 @@
+{
+  "digital_adoption": {
+    "young": {
+      "mean_adoption": 0.25487328405999865,
+      "sample_size": 405,
+      "interpretation": "Young segments show LOW digital adoption (25.5%). Expect 20-40% agreement on digital behaviors."
+    },
+    "middle": {
+      "mean_adoption": 0.24388734517516952,
+      "sample_size": 405,
+      "interpretation": "Middle segments show LOW digital adoption (24.4%). Expect 20-40% agreement on digital behaviors."
+    },
+    "elderly": {
+      "mean_adoption": 0.22354265395610853,
+      "sample_size": 405,
+      "interpretation": "Elderly segments show LOW digital adoption (22.4%). Expect 20-40% agreement on digital behaviors."
+    }
+  },
+  "life_satisfaction": {
+    "high": {
+      "mean_satisfaction": 0.33333333333333304,
+      "sample_size": 45,
+      "interpretation": "High-income segments show LOWER life satisfaction (33.3%). Expect 20-35% agreement."
+    },
+    "middle": {
+      "mean_satisfaction": 0.333333333333333,
+      "sample_size": 45,
+      "interpretation": "Middle-income segments show LOWER life satisfaction (33.3%). Expect 20-35% agreement."
+    },
+    "low": {
+      "mean_satisfaction": 0.33333333333333287,
+      "sample_size": 45,
+      "interpretation": "Low-income segments show LOWER life satisfaction (33.3%). Expect 20-35% agreement."
+    }
+  },
+  "environmental": {
+    "young": {
+      "mean_environmental": 0.22387132627865894,
+      "sample_size": 321,
+      "interpretation": "Young segments show LOWER environmental focus (22.4%). Expect 15-30% agreement."
+    },
+    "middle": {
+      "mean_environmental": 0.2235971085517702,
+      "sample_size": 321,
+      "interpretation": "Middle segments show LOWER environmental focus (22.4%). Expect 15-30% agreement."
+    },
+    "elderly": {
+      "mean_environmental": 0.19914177754190557,
+      "sample_size": 321,
+      "interpretation": "Elderly segments show LOWER environmental focus (19.9%). Expect 15-30% agreement."
+    }
+  },
+  "financial": {
+    "young": {
+      "savings_propensity": 0.31913280499448693,
+      "borrowing_aversion": 0.26722822121196865,
+      "interpretation": "Young: MODERATE savings (31.9%), HIGHER borrowing aversion (26.7%)"
+    },
+    "middle": {
+      "savings_propensity": 0.31610102728719647,
+      "borrowing_aversion": 0.2681927155823313,
+      "interpretation": "Middle: MODERATE savings (31.6%), HIGHER borrowing aversion (26.8%)"
+    },
+    "elderly": {
+      "savings_propensity": 0.27724233756439837,
+      "borrowing_aversion": 0.2268961217088138,
+      "interpretation": "Elderly: LOWER savings focus (27.7%), HIGHER borrowing aversion (22.7%)"
+    }
+  },
+  "shopping": {
+    "high": {
+      "mean_value": 0.22158211321696314,
+      "sample_size": 162,
+      "interpretation": "High-income: 22.2% shopping engagement"
+    },
+    "middle": {
+      "mean_value": 0.17229775544612136,
+      "sample_size": 162,
+      "interpretation": "Middle-income: 17.2% shopping engagement"
+    },
+    "low": {
+      "mean_value": 0.19504403895340638,
+      "sample_size": 162,
+      "interpretation": "Low-income: 19.5% shopping engagement"
+    }
+  },
+  "age_income": {
+    "young_affluent": [
+      "flourishing_capital"
+    ],
+    "young_constrained": [],
+    "elderly_affluent": [],
+    "elderly_constrained": [],
+    "interpretation": {
+      "young_affluent": "Highest digital adoption, environmental values, financial confidence",
+      "young_constrained": "High digital, moderate environmental, financial stress impacts satisfaction",
+      "elderly_affluent": "Lower digital, moderate environmental, high satisfaction",
+      "elderly_constrained": "Low digital, lower environmental, resilience despite constraints"
+    }
+  }
+}

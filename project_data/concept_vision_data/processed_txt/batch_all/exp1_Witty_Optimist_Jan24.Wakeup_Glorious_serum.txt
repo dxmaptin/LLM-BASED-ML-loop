@@ -1,0 +1,54 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_Jan24.Wakeup Glorious serum.jpg
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+Sure, here's a detailed analysis:
+
+1. **Product Name and Brand**: 
+   - Product Name: Magni-Serum
+   - Brand: Soap & Glory
+
+2. **Product Description**: 
+   - A slow-release magnesium serum to restore muscles whilst you sleep
+
+3. **Product Category**: 
+   - Body Serum
+
+4. **Key Claims/Benefits**: 
+   - Deep conditioning
+   - Slow-release formula
+   - Targeted relief to tired, overworked muscles
+   - Works throughout an 8-hour sleep cycle
+
+5. **Ingredients**: 
+   - Magnesium
+
+6. **Packaging Information**: 
+   - Format: Glass pipette dropper bottle
+   - Size: 100 ml
+   - Price: £12.99
+
+7. **Usage Instructions**: 
+   1. Apply the serum directly on legs, arms, and torso, focusing on areas with muscle strain. Rub serum in with hands.
+   2. Alternatively, add serum to Soap & Glory body lotion and apply liberally across the body. Works while you sleep.
+
+8. **Visual Design Elements**:
+   - **Color Scheme and Dominant Colors**: Pink, purple, and white
+   - **Imagery**: Combination of lifestyle imagery (lavender field, person applying lotion) and product-only graphics
+   - **Badges/Labels**: "New Scent" badge
+   - **Overall Design Style**: Relaxing, spa-like, and slightly clinical yet visually engaging
+
+9. **Target Audience Signals**: 
+   - Visual cues of relaxation and self-care, indicating it is targeted towards individuals seeking muscle relief and rejuvenation, possibly after workouts or stressful days.
+
+10. **Any Additional Text**: 
+    - "Introducing Soap & Glory’s... Wake-up Glorious Collection"
+    - "Discover the rejuvenating power of Soap & Glory’s Magni-Serum, a ground-breaking deep conditioning body serum expertly crafted to revitalize your muscles as you rest."
+    - "Infused with a slow-release formula, the serum gently dispenses magnesium throughout an 8-hour sleep cycle, ensuring continuous, targeted relief to tired, overworked muscles so you can wake up feeling restored."
+    - "Apply on its own or add a few drops to your favourite Soap & Glory lotion or butter."
+
+This detailed information covers all the elements presented in the image.

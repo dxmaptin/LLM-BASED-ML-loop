@@ -1,0 +1,510 @@
+C:\Users\d.zhang\Desktop\Experiments\venv\Lib\site-packages\langchain_core\_api\deprecation.py:27: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
+================================================================================
+THOROUGH VERIFICATION: EXCLUSIVE_ADDRESSES
+================================================================================
+
+Checking ALL 10 test questions
+Looking for:
+  1. Likert scale options (strongly agree, slightly agree, etc.)
+  2. Proximal topline values
+  3. Exact question matches
+================================================================================
+
+================================================================================
+[1/10] I think brands should consider environmental sustainability when putting on events
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Attitudes
+  Option: I consider myself an environmentalist
+  Value: 0.0864165987443732
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Attitudes
+  Option: I think energy companies do not care about the environment
+  Value: 0.216227967624513
+  Relevance: 0.81
+
+Source 3:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Bought the last purchase online using any device
+  Option: Entertainment tickets (e.g. movie, theater, festivals, sporting events)
+  Value: 0.567961419235804
+  Relevance: 0.7
+
+Source 5:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Insurance and Pensions
+  Option: Plans to use other investments for retirement
+  Value: 0.14736289801595
+  Relevance: 0.68
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+[2/10] Make an effort to cut down on the use of gas / electricity at home
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Outgoings
+  Option: > Housing, water, electricity, gas and other fuels
+  Value: 222.999302948526
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Financial Attitudes
+  Option: I love the ease of using chat bots to get answers
+  Value: 0.364851905422355
+  Relevance: 0.97
+
+Source 3:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Digital Attitudes
+  Option: Computers confuse me, I'll never get used to them
+  Value: 0.177116077051593
+  Relevance: 0.91
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Attitudes
+  Option: I make an effort to support local businesses
+  Value: 0.150842914669825
+  Relevance: 0.89
+
+Source 5:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: Highest income, most valuable homes in the UK, directors / managers, highest levels of savings and
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+[3/10] Fuel consumption is the most important feature when buying a new car
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Action
+  Option: Important when buying a car: environmentally friendly / low co2 emissions
+  Value: 0.492433493595084
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Attitudes
+  Option: I think energy companies do not care about the environment
+  Value: 0.216227967624513
+  Relevance: 0.82
+
+Source 3:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Financial Attitudes
+  Option: It is important to be well insured for everything
+  Value: 0.0845683842508036
+  Relevance: 0.77
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Researched the last purchase online before buying
+  Option: Pet care
+  Value: 0.256847304292011
+  Relevance: 0.75
+
+Source 5:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+[4/10] I don't like the idea of being in debt
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Interests & Hobbies
+  Option: Helping out in the community
+  Value: 0.110919148527677
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Attitudes
+  Option: Climate change is the biggest threat to civilisation
+  Value: 0.273455360315782
+  Relevance: 0.95
+
+Source 3:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: House Move
+  Option: Individual likely to move
+  Value: 0.229801785601749
+  Relevance: 0.85
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Financial Attitudes
+  Option: I do not mind taking risks with my money
+  Value: 0.375867180175075
+  Relevance: 0.76
+
+Source 5:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: properties, found mainly in the centre of London or South East suburbs.
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+[5/10] I am very good at managing money
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Outgoings
+  Option: > Miscellaneous goods and services
+  Value: 123.562888943871
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Crime Survey for England - Very Worried About:
+  Option: Having my car stolen
+  Value: 0.0359862080614884
+  Relevance: 0.96
+
+Source 3:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Manage savings account
+  Option: Online at home or work
+  Value: 0.37989413897165
+  Relevance: 0.94
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Car type
+  Option: Main car: Privately owned
+  Value: 0.796463765727376
+  Relevance: 0.88
+
+Source 5:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: Concerned about climate change, but likely to have a very high carbon footprint
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+[6/10] It is important to be well insured for everything
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Attitudes
+  Option: Fuel consumption is the most important feature when buying a new car
+  Value: 0.133986148465831
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Tend to look out for adverts on
+  Option: Cinema products
+  Value: 0.346246697883102
+  Relevance: 0.93
+
+Source 3:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Clothing & Footwear Stores
+  Option: Mass Market
+  Value: 0.574983236185247
+  Relevance: 0.91
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Tend to look out for adverts on
+  Option: Soft drinks products
+  Value: 0.170804459094642
+  Relevance: 0.9
+
+Source 5:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: How to reach them — Internet usage: Moderate
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+[7/10] Healthy Eating
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Eating Habits
+  Option: Vegan
+  Value: 0.0102391645584128
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Eating Habits
+  Option: Eats meat
+  Value: 0.511179701639557
+  Relevance: 0.97
+
+Source 3:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Eating Habits
+  Option: Vegetarian
+  Value: 0.0389509337035394
+  Relevance: 0.95
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Eating Habits
+  Option: Pescatarian, flexitarian, other
+  Value: 0.486290195495641
+  Relevance: 0.92
+
+Source 5:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+[8/10] Financial security after retirement is your own responsibility
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Insurance and Pensions
+  Option: Plans to use other investments for retirement
+  Value: 0.14736289801595
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Financial Attitudes
+  Option: I only save for a specific purpose
+  Value: 0.389439020533222
+  Relevance: 0.86
+
+Source 3:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Financial Attitudes
+  Option: I trust financial price comparison sites
+  Value: 0.705305117447229
+  Relevance: 0.83
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Financial Attitudes
+  Option: Switching utilities suppliers is well worth the effort
+  Value: 0.274610318045161
+  Relevance: 0.82
+
+Source 5:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+[9/10] Switching utilities suppliers is well worth the effort
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Places They Visit
+  Option: Sporting events
+  Value: 0.216013984293844
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Outgoings
+  Option: Council tax, utilities, water, structure insurance, NI domestic rates
+  Value: 6640.040521557
+  Relevance: 0.89
+
+Source 3:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Places They Visit
+  Option: Places of worship
+  Value: 0.178428940470919
+  Relevance: 0.88
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Outgoings
+  Option: > Housing, water, electricity, gas and other fuels
+  Value: 222.999302948526
+  Relevance: 0.86
+
+Source 5:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+[10/10] I like to use cash when making purchases
+================================================================================
+
+ALL TOP SOURCES (checking for contamination):
+--------------------------------------------------------------------------------
+
+Source 1:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Bought the last purchase online using any device
+  Option: Alcoholic drinks
+  Value: 0.452415001789172
+  Relevance: 0.98
+
+Source 2:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Bought the last purchase online using any device
+  Option: Pet care
+  Value: 0.325574474377116
+  Relevance: 0.95
+
+Source 3:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Bought the last purchase online using any device
+  Option: Home appliances
+  Value: 0.566458250292089
+  Relevance: 0.88
+
+Source 4:
+  Type: quant
+  File: ACORN_exclusive_addresses.csv
+  Question/Topic: Bought the last purchase online using any device
+  Option: Holiday / travel
+  Value: 0.714071444060769
+  Relevance: 0.84
+
+Source 5:
+  Type: qual
+  File: exclusive_addresses_profile.txt
+  Question/Topic: 
+  Excerpt: How to reach them — Internet usage: Moderate
+
+Proximal Topline: None
+
+[OK] No contamination detected for this question
+
+================================================================================
+FINAL VERDICT
+================================================================================
+
+[OK] NO CONTAMINATION DETECTED IN ANY OF THE 10 QUESTIONS
+[RESULT] IR AGENT IS CLEAN
+================================================================================

@@ -1,0 +1,80 @@
+
+================================================================================
+FILE: Witty Optimist_S&G Jan'24 Verbatims V2.xlsx
+================================================================================
+
+Sheet names: ['UK Likes', 'UK Dislikes', 'UK range verbatims', 'US Likes', 'US Dislikes', 'US range verbatims']
+
+Examining sheet: UK Likes
+
+Shape: (5, 12)
+
+Columns (12):
+   1. Soap & Glory Girl's Night Out Stardust Stick  : (LIKES_STD) LIKES
+   2. Soap & Glory Girl's Night Out Refresh Queen  : (LIKES_STD) LIKES
+   3. Soap & Glory Girl's Night Out Cool Aid  : (LIKES_STD) LIKES
+   4. Soap & Glory Liquid Lingerie Its Blur-fect!  : (LIKES_STD) LIKES
+   5. Soap & Glory Liquid Lingerie Glow Gloves  : (LIKES_STD) LIKES
+   6. Soap & Glory Liquid Lingerie Glow-on  : (LIKES_STD) LIKES
+   7. Soap & Glory Mission Possible Bounce Back Body Balm  : (LIKES_STD) LIKES
+   8. Soap & Glory Mission Possible Time Travel Body Lotion  : (LIKES_STD) LIKES
+   9. Soap & Glory Mission Possible Smooth Operator Elixir  : (LIKES_STD) LIKES
+  10. Soap & Glory Wake-Up Glorious Slumberland Soak  : (LIKES_STD) LIKES
+  11. Soap & Glory Wake-Up Glorious Magni-Serum  : (LIKES_STD) LIKES
+  12. Soap & Glory Wake-Up Glorious Press Play Spray  : (LIKES_STD) LIKES
+
+First row sample:
+  Soap & Glory Girl's Night Out Stardust Stick  : (LIKES_STD) LIKES: the glowy finish
+  Soap & Glory Girl's Night Out Refresh Queen  : (LIKES_STD) LIKES: Love the cooling concept
+  Soap & Glory Girl's Night Out Cool Aid  : (LIKES_STD) LIKES: practical everyday product
+  Soap & Glory Liquid Lingerie Its Blur-fect!  : (LIKES_STD) LIKES: Liked all
+  Soap & Glory Liquid Lingerie Glow Gloves  : (LIKES_STD) LIKES: Great hands - my hands are so rough from over washing
+  Soap & Glory Liquid Lingerie Glow-on  : (LIKES_STD) LIKES: Getting rid of my wrinkles perfect
+  Soap & Glory Mission Possible Bounce Back Body Balm  : (LIKES_STD) LIKES: The packaging and the concept. Erasing stretchmarks
+  Soap & Glory Mission Possible Time Travel Body Lotion  : (LIKES_STD) LIKES: The concept. Erase wrinkles and time lines. The packaging
+
+================================================================================
+FILE: Witty Optimist_S&G FY25 Verbatims V2.xlsx
+================================================================================
+
+Sheet names: ['UK Likes', 'UK Dislikes', 'US Likes', 'US Dislikes']
+
+Examining sheet: UK Likes
+
+Shape: (5, 4)
+
+Columns (4):
+   1. S&G Be Me Body Sprays  : (LIKES_STD) LIKES
+   2. S&G Embrace Me Bodycare  : (LIKES_STD) LIKES
+   3. S&G Original Pink Suncare  : (LIKES_STD) LIKES
+   4. S&G Rebalancing Probiotic Bodycare  : (LIKES_STD) LIKES
+
+First row sample:
+  S&G Be Me Body Sprays  : (LIKES_STD) LIKES: It’s soap & glory
+  S&G Embrace Me Bodycare  : (LIKES_STD) LIKES: Pics & info
+  S&G Original Pink Suncare  : (LIKES_STD) LIKES: Pics
+  S&G Rebalancing Probiotic Bodycare  : (LIKES_STD) LIKES: That is taylor made for the individual
+
+================================================================================
+FILE: Witty Optimist_S&G FY26 Verbatims V2.xlsx
+================================================================================
+
+Sheet names: ['UK Likes', 'UK Dislikes', 'US Likes', 'US Dislikes']
+
+Examining sheet: UK Likes
+
+Shape: (5, 5)
+
+Columns (5):
+   1. Exfoliationg Body Scrub And Massage Bar  : (LIKES_STD) LIKES
+   2. Nourishing Solid Body Oil Stick  : (LIKES_STD) LIKES
+   3. PH Sensitive Skin Body Wash  : (LIKES_STD) LIKES
+   4. PH 'V' Friendly Scent-sitive Bath Bomb  : (LIKES_STD) LIKES
+   5. Skin Benefit Scrub Collection X3  : (LIKES_STD) LIKES
+
+First row sample:
+  Exfoliationg Body Scrub And Massage Bar  : (LIKES_STD) LIKES: It's vegan and kind to skin and suitable for all. Skin types
+  Nourishing Solid Body Oil Stick  : (LIKES_STD) LIKES: Nourishing and cool
+  PH Sensitive Skin Body Wash  : (LIKES_STD) LIKES: I love it's vegan and the aloe Vera and it's dermatologist approved
+  PH 'V' Friendly Scent-sitive Bath Bomb  : (LIKES_STD) LIKES: It's not tested on animals and it's vegan
+  Skin Benefit Scrub Collection X3  : (LIKES_STD) LIKES: Great for your skin

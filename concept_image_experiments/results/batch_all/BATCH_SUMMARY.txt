@@ -1,0 +1,110 @@
+================================================================================
+BATCH PROCESSING SUMMARY
+================================================================================
+
+Total images processed: 24
+Successful: 24
+Failed: 0
+Time elapsed: 504.04 seconds
+Average time per image: 21.00 seconds
+
+================================================================================
+PROCESSED FILES
+================================================================================
+
+
+Witty Optimist_FY25.S&G Be Me Body Sprays.JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY25.SandG_Be_Me_Body_Sprays.txt
+
+Witty Optimist_FY25.S&G Embrace Me Bodycare.JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY25.SandG_Embrace_Me_Bodycare.txt
+
+Witty Optimist_FY25.S&G Original Pink Suncare.JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY25.SandG_Original_Pink_Suncare.txt
+
+Witty Optimist_FY25.S&G Rebalancing Probiotic Bodycare .JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY25.SandG_Rebalancing_Probiotic_Bodycare_.txt
+
+Witty Optimist_FY26.Exfoliating Body Scrub and Massage Bar.JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY26.Exfoliating_Body_Scrub_and_Massage_Bar.txt
+
+Witty Optimist_FY26.Nourishing .JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY26.Nourishing_.txt
+
+Witty Optimist_FY26.Skin benefit scrub collection.JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY26.Skin_benefit_scrub_collection.txt
+
+Witty Optimist_FY26.pH V friendly .JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY26.pH_V_friendly_.txt
+
+Witty Optimist_FY26.pH sensitive.JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY26.pH_sensitive.txt
+
+Witty Optimist_FY27.SOAP & GLORY’S ‘GLOW-ON’ GRADUAL TAN LOTION.JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY27.SOAP_and_GLORY’S_‘GLOW-ON’_GRADUAL_TAN_LOTION.txt
+
+Witty Optimist_FY27.TIME TRAVEL BODY LOTION FOR STRETCH MARKS.JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY27.TIME_TRAVEL_BODY_LOTION_FOR_STRETCH_MARKS.txt
+
+Witty Optimist_FY27.TIME TRAVEL ‘GLOW-ON’ GRADUAL TAN LOTION.JPG
+  Status: success
+  Output: exp1_Witty_Optimist_FY27.TIME_TRAVEL_‘GLOW-ON’_GRADUAL_TAN_LOTION.txt
+
+Witty Optimist_Jan24.Girls Night Out cool aid.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Girls_Night_Out_cool_aid.txt
+
+Witty Optimist_Jan24.Girls Night Out refresh queen.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Girls_Night_Out_refresh_queen.txt
+
+Witty Optimist_Jan24.Girls Night Out stick.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Girls_Night_Out_stick.txt
+
+Witty Optimist_Jan24.Liquid Lingerie Blur-fect.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Liquid_Lingerie_Blur-fect.txt
+
+Witty Optimist_Jan24.Liquid Lingerie Glow gloves.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Liquid_Lingerie_Glow_gloves.txt
+
+Witty Optimist_Jan24.Liquid Lingerie Glow-on.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Liquid_Lingerie_Glow-on.txt
+
+Witty Optimist_Jan24.Mission Possible Body Lotion.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Mission_Possible_Body_Lotion.txt
+
+Witty Optimist_Jan24.Mission Possible Body balm.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Mission_Possible_Body_balm.txt
+
+Witty Optimist_Jan24.Mission Possible elixir.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Mission_Possible_elixir.txt
+
+Witty Optimist_Jan24.Wakeup Glorious serum.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Wakeup_Glorious_serum.txt
+
+Witty Optimist_Jan24.Wakeup Glorious soak.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Wakeup_Glorious_soak.txt
+
+Witty Optimist_Jan24.Wakeup Glorious spritz.jpg
+  Status: success
+  Output: exp1_Witty_Optimist_Jan24.Wakeup_Glorious_spritz.txt

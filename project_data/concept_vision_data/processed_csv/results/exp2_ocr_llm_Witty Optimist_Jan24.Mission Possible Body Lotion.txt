@@ -1,0 +1,117 @@
+================================================================================
+EXPERIMENT 2: OCR + LLM (UPDATED)
+================================================================================
+
+Image: Witty Optimist_Jan24.Mission Possible Body Lotion.jpg
+Method: Image → GPT-4o Vision OCR → gpt-4o Enhancement
+Note: Using GPT-4o Vision as OCR (Tesseract alternative)
+================================================================================
+
+RAW OCR OUTPUT:
+--------------------------------------------------------------------------------
+```plaintext
+MISSION POSSIBLE
+
+Introducing Soap & Glory’s...
+Mission Possible Collection
+
+Time Travel Body Lotion
+
+'It never happened' skin damage body lotion,
+showcasing the magic of reversal and the
+beauty of renewal in just 4 weeks!
+
+Introducing the Soap & Glory Time Travel body lotion, a
+lightweight, fast absorbing cream that magically reverses visible
+signs of skin damage in just 4 weeks. Drawing on a 15-year
+research partnership between Soap & Glory and the University of
+Manchester, this world first patented formula, designed to be applied
+before bed, deeply penetrates the skin’s surface to restore skin
+cells damaged by exposure to sun and harmful toxins, rapidly infusing
+the skin with a fresh natural glow to restore the best of you. Travel
+back in time to your 'pre-damage’ skin!
+
+Packaging format
+
+• A smooth, cylinder pack with a controlled pumping system designed to
+  carefully dispense active ingredients
+
+Active ingredients
+
+• A world first peptide technology, Pepticology™ contains Hyaluronic
+  Acid, Vitamin C and Niacinamide, to reverse visible signs of skin
+  damage for healthy looking skin
+
+Fragrance
+
+• Soap & Glory’s Original Pink fragrance with a youthful citrus lift
+
+How to use
+
+1 Apply liberally to areas in need e.g.
+  sunspots, sensitive skin.
+  
+2 Apply in the evening for best result. Also functions
+  as an after sun with its unique healing properties
+
+150 g   £14.99
+
+So cool
+
+SOAP&GLORY
+```
+
+================================================================================
+
+LLM ENHANCED OUTPUT:
+--------------------------------------------------------------------------------
+**Product Concept Analysis**
+
+**Product Name and Brand**
+- **Brand:** Soap & Glory
+- **Product Name:** Time Travel Body Lotion
+- **Collection:** Mission Possible Collection
+
+**Product Description**
+- A lightweight, fast-absorbing body lotion designed to reverse visible signs of skin damage within 4 weeks. It aims to restore a fresh, natural glow by repairing skin cells damaged by sun exposure and harmful toxins.
+
+**Product Category**
+- Body Lotion/Skincare
+
+**Key Claims and Benefits**
+- Magically reverses visible signs of skin damage in just 4 weeks.
+- Restores previously damaged skin to a healthier state.
+- Provides skin with a fresh, natural glow.
+- Utilizes a world-first patented formula developed in partnership with the University of Manchester.
+
+**Ingredients or Formulation Details**
+- **Active Ingredients:**
+  - Pepticology™ (a unique peptide technology)
+  - Hyaluronic Acid
+  - Vitamin C
+  - Niacinamide
+
+**Packaging Format and Specifications**
+- Comes in a smooth, cylindrical pack.
+- Features a controlled pumping system for precise dispensing of active ingredients.
+
+**Usage Instructions**
+1. Apply liberally to areas in need, such as sunspots and sensitive skin.
+2. For optimal results, apply in the evening. Can also be used as an after sun care with unique healing properties.
+
+**Price and Size Information**
+- **Size:** 150 g
+- **Price:** £14.99
+
+**Taglines or Marketing Messages**
+- "It never happened" skin damage body lotion
+- Showcases the magic of reversal and the beauty of renewal
+- Travel back in time to your 'pre-damage’ skin!
+- "So cool" (implying the lotion’s soothing or refreshing qualities)
+
+**Fragrance**
+- Features Soap & Glory’s Original Pink fragrance with a youthful citrus lift.
+
+**Notes**
+- Critical information such as specific clinical test results or detailed formulation percentages is not provided.
+- No explicit customer testimonials or specific dermatological endorsements are mentioned.

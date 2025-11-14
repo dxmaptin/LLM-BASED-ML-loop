@@ -1,0 +1,54 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_Jan24.Mission Possible Body Lotion.jpg
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+Sure! Here's the detailed analysis of the image:
+
+1. **Product Name and Brand**:
+   - Product Name: **Time Travel Body Lotion**
+   - Brand: **Soap & Glory**
+
+2. **Product Description**:
+   - "'It never happened’ skin damage body lotion, showcasing the magic of reversal and the beauty of renewal in just 4 weeks!"
+
+3. **Product Category**:
+   - Body Lotion
+
+4. **Key Claims/Benefits**:
+   - Reverses visible signs of skin damage in just 4 weeks
+   - Deeply penetrates the skin’s surface
+   - Restores skin cells damaged by exposure to sun and harmful toxins
+   - Provides a fresh natural glow
+   - Functions as an after sun
+
+5. **Ingredients**:
+   - Active Ingredients: Pepticology™ contains Hyaluronic Acid, Vitamin C, and Niacinamide
+
+6. **Packaging Information**:
+   - Format: Smooth, cylinder pack with a controlled pumping system
+   - Size: 150 g
+   - Price: £14.99
+
+7. **Usage Instructions**:
+   - Apply liberally to areas in need e.g., sunspots, sensitive skin.
+   - Apply in the evening for best result. Also functions as an after sun with its unique healing properties.
+
+8. **Visual Design Elements**:
+   - **Color Scheme**: Dominant colors include blue, pink, white, and coral/peach.
+   - **Imagery**: Includes product-only shots, illustrations, and lifestyle imagery with a model.
+   - **Badges/Labels**: None explicitly mentioned.
+   - **Design Style**: A mix of clinical and playful with a clean, modern aesthetic.
+
+9. **Target Audience Signals**:
+   - Likely targeting adults interested in skincare and anti-aging solutions, focus on renewal and skin repair.
+
+10. **Any Additional Text**:
+   - "Mission Possible Collection"
+   - "Introducing Soap & Glory’s..."
+   - "Fragrance: Soap & Glory's Original Pink fragrance with a youthful citrus lift."
+
+Feel free to ask if you have any more questions!

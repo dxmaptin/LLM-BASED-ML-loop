@@ -1,0 +1,307 @@
+### Concept: Concept
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Country of Birth | Rest of Europe value=0.0206 | relevance=0.80
+- [quant] ACORN_prosperous_professionals.csv | Manage current account | By phone value=0.1461 | relevance=0.79
+- [quant] ACORN_prosperous_professionals.csv | Arrange current account | By phone value=0.0311 | relevance=0.77
+- [quant] ACORN_prosperous_professionals.csv | Country of Birth | Other value=0.0555 | relevance=0.76
+- [qual] prosperous_professionals_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Country of Birth | Rest of Europe | value=0.0206 (file=ACORN_prosperous_professionals.csv, relevance=0.80)
+Manage current account | By phone | value=0.1461 (file=ACORN_prosperous_professionals.csv, relevance=0.79)
+Arrange current account | By phone | value=0.0311 (file=ACORN_prosperous_professionals.csv, relevance=0.77)
+Country of Birth | Other | value=0.0555 (file=ACORN_prosperous_professionals.csv, relevance=0.76)
+
+Qualitative summary:
+================================================== (file=prosperous_professionals_profile.txt, relevance=0.50)
+
+Weight hints:
+- Country of Birth -> Rest of Europe (value=0.02)
+- Manage current account -> By phone (value=0.15)
+- Arrange current account -> By phone (value=0.03)
+- Country of Birth -> Other (value=0.06)
+- Quote: "=================================================="
+
+
+### Concept: I think brands should consider environmental sustainability when putting on events
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Attitudes | I consider myself an environmentalist value=0.1078 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Attitudes | I think energy companies do not care about the environment value=0.2982 | relevance=0.94
+- [quant] ACORN_prosperous_professionals.csv | Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) value=0.5711 | relevance=0.91
+- [quant] ACORN_prosperous_professionals.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.1659 | relevance=0.89
+- [qual] prosperous_professionals_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | I consider myself an environmentalist | value=0.1078 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2982 (file=ACORN_prosperous_professionals.csv, relevance=0.94)
+Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) | value=0.5711 (file=ACORN_prosperous_professionals.csv, relevance=0.91)
+Insurance and Pensions | Plans to use other investments for retirement | value=0.1659 (file=ACORN_prosperous_professionals.csv, relevance=0.89)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=prosperous_professionals_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> I consider myself an environmentalist (value=0.11)
+- Attitudes -> I think energy companies do not care about the environment (value=0.30)
+- Bought the last purchase online using any device -> Entertainment tickets (e.g. movie, theater, festivals, sporting events) (value=0.57)
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.17)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Make an effort to cut down on the use of gas / electricity at home
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=143.8864 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Financial Attitudes | I love the ease of using chat bots to get answers value=0.3062 | relevance=0.97
+- [quant] ACORN_prosperous_professionals.csv | Digital Attitudes | Computers confuse me, I'll never get used to them value=0.1778 | relevance=0.93
+- [quant] ACORN_prosperous_professionals.csv | Attitudes | I make an effort to support local businesses value=0.1299 | relevance=0.92
+- [qual] prosperous_professionals_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Outgoings | > Housing, water, electricity, gas and other fuels | value=143.8864 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Financial Attitudes | I love the ease of using chat bots to get answers | value=0.3062 (file=ACORN_prosperous_professionals.csv, relevance=0.97)
+Digital Attitudes | Computers confuse me, I'll never get used to them | value=0.1778 (file=ACORN_prosperous_professionals.csv, relevance=0.93)
+Attitudes | I make an effort to support local businesses | value=0.1299 (file=ACORN_prosperous_professionals.csv, relevance=0.92)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=prosperous_professionals_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=143.89)
+- Financial Attitudes -> I love the ease of using chat bots to get answers (value=0.31)
+- Digital Attitudes -> Computers confuse me, I'll never get used to them (value=0.18)
+- Attitudes -> I make an effort to support local businesses (value=0.13)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Fuel consumption is the most important feature when buying a new car
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Action | Important when buying a car: environmentally friendly / low co2 emissions value=0.4568 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Attitudes | I think energy companies do not care about the environment value=0.2982 | relevance=0.86
+- [quant] ACORN_prosperous_professionals.csv | Financial Attitudes | It is important to be well insured for everything value=0.1118 | relevance=0.83
+- [quant] ACORN_prosperous_professionals.csv | Researched the last purchase online before buying | Pet care value=0.2371 | relevance=0.81
+- [qual] prosperous_professionals_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Action | Important when buying a car: environmentally friendly / low co2 emissions | value=0.4568 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2982 (file=ACORN_prosperous_professionals.csv, relevance=0.86)
+Financial Attitudes | It is important to be well insured for everything | value=0.1118 (file=ACORN_prosperous_professionals.csv, relevance=0.83)
+Researched the last purchase online before buying | Pet care | value=0.2371 (file=ACORN_prosperous_professionals.csv, relevance=0.81)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=prosperous_professionals_profile.txt, relevance=0.68)
+
+Weight hints:
+- Action -> Important when buying a car: environmentally friendly / low co2 emissions (value=0.46)
+- Attitudes -> I think energy companies do not care about the environment (value=0.30)
+- Financial Attitudes -> It is important to be well insured for everything (value=0.11)
+- Researched the last purchase online before buying -> Pet care (value=0.24)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I don't like the idea of being in debt
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Interests & Hobbies | Helping out in the community value=0.1172 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Attitudes | Climate change is the biggest threat to civilisation value=0.2714 | relevance=0.96
+- [quant] ACORN_prosperous_professionals.csv | House Move | Individual likely to move value=0.2706 | relevance=0.94
+- [quant] ACORN_prosperous_professionals.csv | Financial Attitudes | I do not mind taking risks with my money value=0.2742 | relevance=0.91
+- [qual] prosperous_professionals_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Interests & Hobbies | Helping out in the community | value=0.1172 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Attitudes | Climate change is the biggest threat to civilisation | value=0.2714 (file=ACORN_prosperous_professionals.csv, relevance=0.96)
+House Move | Individual likely to move | value=0.2706 (file=ACORN_prosperous_professionals.csv, relevance=0.94)
+Financial Attitudes | I do not mind taking risks with my money | value=0.2742 (file=ACORN_prosperous_professionals.csv, relevance=0.91)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=prosperous_professionals_profile.txt, relevance=0.68)
+
+Weight hints:
+- Interests & Hobbies -> Helping out in the community (value=0.12)
+- Attitudes -> Climate change is the biggest threat to civilisation (value=0.27)
+- House Move -> Individual likely to move (value=0.27)
+- Financial Attitudes -> I do not mind taking risks with my money (value=0.27)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I am very good at managing money
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Outgoings | > Miscellaneous goods and services value=54.6415 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Crime Survey for England - Very Worried About: | Having my car stolen value=0.0365 | relevance=0.96
+- [quant] ACORN_prosperous_professionals.csv | Manage savings account | Online at home or work value=0.3253 | relevance=0.95
+- [quant] ACORN_prosperous_professionals.csv | Car type | Main car: Privately owned value=0.7391 | relevance=0.91
+- [qual] prosperous_professionals_profile.txt | relevance=0.68 | ACORN Class: Prosperous Professionals
+
+Quantitative summary:
+Outgoings | > Miscellaneous goods and services | value=54.6415 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Crime Survey for England - Very Worried About: | Having my car stolen | value=0.0365 (file=ACORN_prosperous_professionals.csv, relevance=0.96)
+Manage savings account | Online at home or work | value=0.3253 (file=ACORN_prosperous_professionals.csv, relevance=0.95)
+Car type | Main car: Privately owned | value=0.7391 (file=ACORN_prosperous_professionals.csv, relevance=0.91)
+
+Qualitative summary:
+ACORN Class: Prosperous Professionals (file=prosperous_professionals_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Miscellaneous goods and services (value=54.64)
+- Crime Survey for England - Very Worried About: -> Having my car stolen (value=0.04)
+- Manage savings account -> Online at home or work (value=0.33)
+- Car type -> Main car: Privately owned (value=0.74)
+- Quote: "ACORN Class: Prosperous Professionals"
+
+
+### Concept: It is important to be well insured for everything
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Attitudes | Fuel consumption is the most important feature when buying a new car value=0.1186 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Tend to look out for adverts on | Cinema products value=0.2737 | relevance=0.93
+- [quant] ACORN_prosperous_professionals.csv | Clothing & Footwear Stores | Mass Market value=0.5807 | relevance=0.92
+- [quant] ACORN_prosperous_professionals.csv | Tend to look out for adverts on | Soft drinks products value=0.1866 | relevance=0.90
+- [qual] prosperous_professionals_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | Fuel consumption is the most important feature when buying a new car | value=0.1186 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Tend to look out for adverts on | Cinema products | value=0.2737 (file=ACORN_prosperous_professionals.csv, relevance=0.93)
+Clothing & Footwear Stores | Mass Market | value=0.5807 (file=ACORN_prosperous_professionals.csv, relevance=0.92)
+Tend to look out for adverts on | Soft drinks products | value=0.1866 (file=ACORN_prosperous_professionals.csv, relevance=0.90)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=prosperous_professionals_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> Fuel consumption is the most important feature when buying a new car (value=0.12)
+- Tend to look out for adverts on -> Cinema products (value=0.27)
+- Clothing & Footwear Stores -> Mass Market (value=0.58)
+- Tend to look out for adverts on -> Soft drinks products (value=0.19)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Healthy Eating
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Eating Habits | Vegan value=0.0135 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Eating Habits | Eats meat value=0.7203 | relevance=0.97
+- [quant] ACORN_prosperous_professionals.csv | Eating Habits | Vegetarian value=0.0438 | relevance=0.95
+- [quant] ACORN_prosperous_professionals.csv | Eating Habits | Pescatarian, flexitarian, other value=0.2172 | relevance=0.92
+- [qual] prosperous_professionals_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Eating Habits | Vegan | value=0.0135 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Eating Habits | Eats meat | value=0.7203 (file=ACORN_prosperous_professionals.csv, relevance=0.97)
+Eating Habits | Vegetarian | value=0.0438 (file=ACORN_prosperous_professionals.csv, relevance=0.95)
+Eating Habits | Pescatarian, flexitarian, other | value=0.2172 (file=ACORN_prosperous_professionals.csv, relevance=0.92)
+
+Qualitative summary:
+================================================== (file=prosperous_professionals_profile.txt, relevance=0.50)
+
+Weight hints:
+- Eating Habits -> Vegan (value=0.01)
+- Eating Habits -> Eats meat (value=0.72)
+- Eating Habits -> Vegetarian (value=0.04)
+- Eating Habits -> Pescatarian, flexitarian, other (value=0.22)
+- Quote: "=================================================="
+
+
+### Concept: Financial security after retirement is your own responsibility
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.1659 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Financial Attitudes | I only save for a specific purpose value=0.2998 | relevance=0.96
+- [quant] ACORN_prosperous_professionals.csv | Financial Attitudes | I trust financial price comparison sites value=0.5354 | relevance=0.95
+- [quant] ACORN_prosperous_professionals.csv | Financial Attitudes | Switching utilities suppliers is well worth the effort value=0.3426 | relevance=0.94
+- [qual] prosperous_professionals_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Insurance and Pensions | Plans to use other investments for retirement | value=0.1659 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Financial Attitudes | I only save for a specific purpose | value=0.2998 (file=ACORN_prosperous_professionals.csv, relevance=0.96)
+Financial Attitudes | I trust financial price comparison sites | value=0.5354 (file=ACORN_prosperous_professionals.csv, relevance=0.95)
+Financial Attitudes | Switching utilities suppliers is well worth the effort | value=0.3426 (file=ACORN_prosperous_professionals.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=prosperous_professionals_profile.txt, relevance=0.50)
+
+Weight hints:
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.17)
+- Financial Attitudes -> I only save for a specific purpose (value=0.30)
+- Financial Attitudes -> I trust financial price comparison sites (value=0.54)
+- Financial Attitudes -> Switching utilities suppliers is well worth the effort (value=0.34)
+- Quote: "=================================================="
+
+
+### Concept: Switching utilities suppliers is well worth the effort
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Places They Visit | Sporting events value=0.2205 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates value=4164.2971 | relevance=0.96
+- [quant] ACORN_prosperous_professionals.csv | Places They Visit | Places of worship value=0.1272 | relevance=0.95
+- [quant] ACORN_prosperous_professionals.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=143.8864 | relevance=0.94
+- [qual] prosperous_professionals_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Places They Visit | Sporting events | value=0.2205 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates | value=4164.2971 (file=ACORN_prosperous_professionals.csv, relevance=0.96)
+Places They Visit | Places of worship | value=0.1272 (file=ACORN_prosperous_professionals.csv, relevance=0.95)
+Outgoings | > Housing, water, electricity, gas and other fuels | value=143.8864 (file=ACORN_prosperous_professionals.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=prosperous_professionals_profile.txt, relevance=0.50)
+
+Weight hints:
+- Places They Visit -> Sporting events (value=0.22)
+- Outgoings -> Council tax, utilities, water, structure insurance, NI domestic rates (value=4164.30)
+- Places They Visit -> Places of worship (value=0.13)
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=143.89)
+- Quote: "=================================================="
+
+
+### Concept: I like to use cash when making purchases
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_prosperous_professionals.csv | Bought the last purchase online using any device | Alcoholic drinks value=0.2450 | relevance=0.98
+- [quant] ACORN_prosperous_professionals.csv | Bought the last purchase online using any device | Pet care value=0.2212 | relevance=0.96
+- [quant] ACORN_prosperous_professionals.csv | Bought the last purchase online using any device | Home appliances value=0.5355 | relevance=0.93
+- [quant] ACORN_prosperous_professionals.csv | Bought the last purchase online using any device | Holiday / travel value=0.6596 | relevance=0.91
+- [qual] prosperous_professionals_profile.txt | relevance=0.68 | ACORN Class: Prosperous Professionals
+
+Quantitative summary:
+Bought the last purchase online using any device | Alcoholic drinks | value=0.2450 (file=ACORN_prosperous_professionals.csv, relevance=0.98)
+Bought the last purchase online using any device | Pet care | value=0.2212 (file=ACORN_prosperous_professionals.csv, relevance=0.96)
+Bought the last purchase online using any device | Home appliances | value=0.5355 (file=ACORN_prosperous_professionals.csv, relevance=0.93)
+Bought the last purchase online using any device | Holiday / travel | value=0.6596 (file=ACORN_prosperous_professionals.csv, relevance=0.91)
+
+Qualitative summary:
+ACORN Class: Prosperous Professionals (file=prosperous_professionals_profile.txt, relevance=0.68)
+
+Weight hints:
+- Bought the last purchase online using any device -> Alcoholic drinks (value=0.24)
+- Bought the last purchase online using any device -> Pet care (value=0.22)
+- Bought the last purchase online using any device -> Home appliances (value=0.54)
+- Bought the last purchase online using any device -> Holiday / travel (value=0.66)
+- Quote: "ACORN Class: Prosperous Professionals"
+

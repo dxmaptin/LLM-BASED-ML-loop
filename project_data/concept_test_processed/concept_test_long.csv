@@ -1,0 +1,481 @@
+wave,concept_id,concept_name,brand,franchise_name,category,is_priced,metric,value
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,59.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,58.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,53.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,74.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,67.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,65.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,69.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,65.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,73.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,63.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,63.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,70.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,59.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,61.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,60.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,53.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,56.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,53.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,53.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,42.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,53.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,47.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,46.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,41.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,85.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,82.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,76.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,87.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,84.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,75.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,99.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,85.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,82.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,95.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,90.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,78.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,81.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,86.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,target_top2box_intent,75.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,74.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,72.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,82.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,76.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,58.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,69.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,66.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,60.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,target_top2box_intent,53.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,47.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,45.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,41.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,60.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,53.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,55.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,57.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,55.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,59.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,51.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,44.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,58.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,47.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,52.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,46.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,38.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,37.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,34.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,33.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,39.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,34.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,33.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,31.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,24.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,73.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,62.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,69.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,82.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,81.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,75.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,86.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,81.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,68.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,74.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,68.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,70.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,59.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,73.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,appeal_pcttop_2,56.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,56.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,52.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,57.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,48.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,52.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,43.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,41.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,40.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,appeal_pcttop_2,25.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,45.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,45.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,51.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,68.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,72.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,65.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,64.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,65.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,62.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,63.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,49.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,66.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,53.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,60.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,63.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,40.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,37.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,55.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,35.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,35.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,37.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,39.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,42.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,35.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,84.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,64.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,74.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,93.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,80.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,84.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,87.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,70.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,79.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,72.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,71.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,78.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,59.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,59.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,uniqueness_pcttop_2,67.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,58.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,47.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,66.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,46.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,49.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,57.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,47.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,50.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,uniqueness_pcttop_2,44.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,31.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,33.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,35.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,43.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,41.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,38.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,31.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,40.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,41.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,27.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,37.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,46.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,33.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,35.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,28.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,36.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,28.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,24.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,28.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,28.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,25.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,23.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,21.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,16.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,68.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,60.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,61.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,44.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,41.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,38.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,56.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,49.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,44.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,55.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,58.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,61.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,57.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,62.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,relevance_pcttop_2,53.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,53.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,47.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,39.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,43.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,43.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,35.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,41.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,31.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,relevance_pcttop_2,27.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,69.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,68.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,69.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,85.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,81.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,70.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,78.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,75.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,81.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,71.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,71.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,82.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,70.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,71.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,71.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,64.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,64.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,64.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,65.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,59.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,66.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,60.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,61.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,60.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,87.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,89.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,81.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,90.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,94.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,95.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,98.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,93.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,81.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,96.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,86.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,94.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,84.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,86.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,excitement_pcttop_2,83.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,87.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,84.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,85.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,85.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,80.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,82.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,76.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,81.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,excitement_pcttop_2,90.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,68.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,60.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,67.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,74.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,66.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,71.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,67.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,70.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,73.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,67.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,61.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,71.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,61.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,65.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,70.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,45.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,42.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,53.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,39.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,40.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,50.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,51.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,48.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,48.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,80.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,75.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,75.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,83.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,82.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,78.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,69.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,74.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,72.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,85.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,81.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,85.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,76.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,76.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,price_value_pcttop_2,86.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,53.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,42.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,56.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,43.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,44.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,50.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,58.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,42.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,price_value_pcttop_2,45.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,35.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,39.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,27.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,31.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,30.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,43.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,33.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,42.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,32.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,34.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,40.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,32.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,30.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,44.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,30.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,34.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,30.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,21.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,31.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,28.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,24.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,21.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,26.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,20.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,50.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,63.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,59.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,64.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,60.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,72.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,59.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,48.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,43.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,46.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,49.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,49.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,51.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,68.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,believability_pcttop,39.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,49.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,40.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,36.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,51.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,40.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,38.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,36.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,34.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,believability_pcttop,30.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,66.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,68.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,61.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,73.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,67.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,71.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,68.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,63.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,71.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,66.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,68.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,73.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,65.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,72.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,63.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,60.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,62.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,53.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,61.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,58.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,53.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,47.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,54.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,47.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,74.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,78.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,77.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,88.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,68.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,84.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,88.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,79.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,76.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,74.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,69.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,77.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,73.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,81.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,understanding_pcttop_3,75.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,80.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,78.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,74.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,78.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,77.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,77.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,66.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,71.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,understanding_pcttop_3,68.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,50.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,40.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,39.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,53.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,52.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,50.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,48.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,47.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,53.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,42.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,52.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,51.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,48.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,46.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,37.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,27.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,25.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,23.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,23.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,20.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,28.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,27.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,24.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,21.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,72.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,70.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,75.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,63.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,54.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,55.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,69.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,64.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,52.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,75.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,64.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,63.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,69.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,73.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,trial,55.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,40.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,34.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,39.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,34.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,28.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,41.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,43.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,33.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,trial,29.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,45.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,34.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,33.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,47.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,47.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,45.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,43.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,42.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,48.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,38.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,46.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,46.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,43.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,40.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,33.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,25.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,23.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,22.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,21.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,18.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,26.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,24.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,22.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,19.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_magni_serum,Soap & Glory Wake-Up Glorious Magni-Serum​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,64.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_slumberland_soak,Soap & Glory Wake-Up Glorious Slumberland Soak​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,62.0
+soap_glory_jan_24,soap_glory_wake_up_glorious_press_play_spray,Soap & Glory Wake-Up Glorious Press Play Spray​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,68.0
+soap_glory_jan_24,soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,57.0
+soap_glory_jan_24,soap_glory_girls_night_out_cool_aid,Soap & Glory Girl's Night Out Cool Aid​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,50.0
+soap_glory_jan_24,soap_glory_girls_night_out_stardust_stick,Soap & Glory Girl's Night Out Stardust Stick​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,50.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_its_blur_fect,Soap & Glory Liquid Lingerie It’s Blur-fect!​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,62.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_on,Soap & Glory Liquid Lingerie Glow-on​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,57.0
+soap_glory_jan_24,soap_glory_liquid_lingerie_glow_gloves,Soap & Glory Liquid Lingerie Glow Gloves​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,45.0
+soap_glory_jan_24,soap_glory_mission_possible_bounce_back_body_balm,Soap & Glory Mission Possible Bounce Back Body Balm​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,67.0
+soap_glory_jan_24,soap_glory_mission_possible_time_travel_body_lotion,Soap & Glory Mission Possible Time Travel Body Lotion​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,57.0
+soap_glory_jan_24,soap_glory_mission_possible_smooth_operator_elixir,Soap & Glory Mission Possible Smooth Operator Elixir​,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,56.0
+soap_glory_fy27_july_2024,time_travel_glow_on_gradual_tan_lotion,Time Travel 'Glow-On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,65.0
+soap_glory_fy27_july_2024,sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,67.0
+soap_glory_fy27_july_2024,time_travel_body_lotion_for_stretch_marks,Time Travel Body Lotion For Stretch Marks,Soap & Glory,Soap & Glory,Bath & Body Care,True,inc_trial_brand,52.0
+soap_glory_fy26_concept_test,exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,36.0
+soap_glory_fy26_concept_test,ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,31.0
+soap_glory_fy26_concept_test,nourishing_solid_body_oil_stick,Nourishing Solid Body Oil Stick,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,36.0
+soap_glory_fy26_concept_test,skin_benefit_scrub_collection_x3,Skin Benefit Scrub Collection x3,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,30.0
+soap_glory_fy26_concept_test,ph_v_friendly_scent_sitive_bath_bomb,pH 'V' friendly Scent-sitive bath Bomb,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,25.0
+soap_glory_fy25_concept_test,sg_original_pink_suncare,S&G Original Pink Suncare,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,37.0
+soap_glory_fy25_concept_test,sg_embrace_me_bodycare,S&G Embrace Me Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,38.0
+soap_glory_fy25_concept_test,sg_be_me_body_sprays,S&G Be Me Body Sprays,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,29.0
+soap_glory_fy25_concept_test,sg_rebalancing_probiotic_bodycare,S&G Rebalancing Probiotic Bodycare,Soap & Glory,Soap & Glory,Bath & Body Care,False,inc_trial_brand,27.0

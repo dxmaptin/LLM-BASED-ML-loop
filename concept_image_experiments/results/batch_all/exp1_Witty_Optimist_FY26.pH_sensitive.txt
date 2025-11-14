@@ -1,0 +1,57 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_FY26.pH sensitive.JPG
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**: 
+   - Soap & Glory
+   - pH Sensitive Skin Body Wash
+
+2. **Product Description**: 
+   - Feel naturally clean, all the freshness without the irritation
+
+3. **Product Category**: 
+   - Body wash
+
+4. **Key Claims/Benefits**: 
+   - Gently cleanses skin
+   - Suitable for sensitive skin
+   - Soap-free formula
+   - Hypoallergenic fragrance
+   - pH balanced
+   - Does not strip or irritate sensitive skin
+   - Protects natural microbiome
+   - Dermatologist approved
+   - Lightweight fragrance
+   - 100% Vegan and not tested on animals
+
+5. **Ingredients**: 
+   - Aloe Vera
+   - Oatmeal
+
+6. **Packaging Information**: 
+   - No specific format, size, or price visible
+
+7. **Usage Instructions**: 
+   - Not explicitly provided 
+
+8. **Visual Design Elements**:
+   - **Color scheme and dominant colors**: Pink, white
+   - **Imagery**: Lifestyle imagery with a person taking a shower and pouring product; additional floral and citrus elements
+   - **Badges, labels, callouts**: 
+     - "GENTLE Dermatologist approved, Suitable for sensitive skin. / Hypoallergenic fragrance"
+     - "INGREDIENTS Aloe Vera, Oatmeal"
+     - "100% VEGAN Not tested on animals...just picky humans!"
+   - **Overall design style**: Playful, gentle, and feminine
+
+9. **Target Audience Signals**: 
+   - Women with sensitive skin, emphasis on gentle care and dermatological testing suggests targeting those with sensitive skin needs
+
+10. **Any Additional Text**: 
+   - “I want to feel fresh, clean and luxuriously pampered everyday without the risk of irritating my sensitive skin…”
+   - "Beautifully scented, sensorial shower products can sometimes disturb delicate and sensitive skin types."
+   - "Mindful solutions for every inch of the body"
+   - "Original Pink: Our fruity chypre fragrance - crisp bergamot, crushed green leaves and mandarin, a gorgeous bouquet of rose, jasmine and violet. combined to complete our cult-classic signature scent."

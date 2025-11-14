@@ -1,0 +1,82 @@
+# WITTY OPTIMIST PREDICTION EVALUATION REPORT
+================================================================================
+
+## Overall Performance Metrics
+
+- **R² Score:** 0.284
+- **Mean Absolute Error (MAE):** 5.50 percentage points
+- **Root Mean Squared Error (RMSE):** 7.14 percentage points
+- **Mean Error (Bias):** +0.00pp (unbiased)
+- **Error Range:** 1.00pp - 11.00pp
+
+## Interpretation
+
+**POOR** - R² < 0.4 indicates weak predictive power. Playbook needs refinement.
+
+MAE of 5.50pp means predictions are off by ±5.50 percentage points on average.
+
+## Per-Concept Results
+
+| Concept | Predicted | Actual | Error | Error % |
+|---------|-----------|--------|-------|---------|
+| Exfoliationg Body Scrub and Massage Bar | 38.0% | 37.0% | +1.0pp | +2.7% |
+| Soap & Glory Girl's Night Out Refresh Queen | 52.0% | 51.0% | +1.0pp | +2.0% |
+| pH Sensitive Skin Body Wash | 38.0% | 29.0% | +9.0pp | +31.0% |
+| S&G's 'Glow On' Gradual Tan Lotion | 35.0% | 46.0% | -11.0pp | -23.9% |
+
+## Analysis of Errors
+
+**Best Prediction:**
+- Concept: Exfoliationg Body Scrub and Massage Bar
+- Error: 1.00pp
+
+**Worst Prediction:**
+- Concept: S&G's 'Glow On' Gradual Tan Lotion
+- Error: 11.00pp
+
+## Prediction Reasoning (Sample)
+
+### Exfoliationg Body Scrub and Massage Bar
+
+**Predicted:** 38.0%
+**Actual:** 37.0%
+
+**Rationale:** The concept appeals to the Witty Optimist segment with its innovative combination of exfoliation and massage, and its vegan, skin-friendly claims. However, moderate uniqueness and price value perceptions slightly suppress purchase intent, resulting in a prediction of 38%.
+
+**Visual Signals:** ergonomically designed body scrub bar, available in multiple scents, vegan and kind to skin
+
+### pH Sensitive Skin Body Wash
+
+**Predicted:** 38%
+**Actual:** 29.0%
+
+**Rationale:** The concept appeals to the Witty Optimist segment with its focus on natural, vegan ingredients and suitability for sensitive skin, which are appreciated features. However, the lack of visual data and some feedback indicating it doesn't stand out from competitors slightly dampen the excitement. Thus, the predicted purchase intent is 38%.
+
+**Visual Signals:** No visual data available
+
+
+## Comparison to Baseline
+
+- **Random Baseline (mean prediction):** R² = 0.0
+- **Our Model:** R² = 0.284
+- **Improvement:** 28.4% of variance explained
+
+## Recommendations for Improvement
+
+1. **Refine Playbook:** Analyze error patterns and update reasoning principles
+2. **More Training Data:** Pattern discovery from more concepts may improve accuracy
+3. **Feature Engineering:** Consider additional signals (pricing, brand equity, etc.)
+4. **Ensemble Approach:** Combine multiple prediction methods
+
+## Next Steps
+
+1. Review error analysis above
+2. Update playbook based on learnings: `C:\Users\d.zhang\Desktop\Experiments\project_data\witty_optimist_runs/seed_prompt/witty_optimist_playbook.txt`
+3. Re-run predictions: `python run_witty_optimist_pipeline.py`
+4. Re-evaluate: `python calculate_r2_witty_optimist.py`
+
+---
+
+*Evaluation Date: 2025-11-12 14:54:10*
+*Training Concepts: 20*
+*Holdout Concepts: 4*

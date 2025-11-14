@@ -1,0 +1,61 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_Jan24.Liquid Lingerie Blur-fect.jpg
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+Sure, here is the detailed analysis of the product concept image:
+
+1. **Product Name and Brand**:
+   - **Product Name**: It's Blur-fect!
+   - **Brand**: Soap & Glory
+
+2. **Product Description**:
+   - "A skin perfecting body primer that blurs uneven tone and texture, elevating the look of bare skin with a beautiful shimmer."
+
+3. **Product Category**:
+   - Body primer
+
+4. **Key Claims/Benefits**:
+   - Skin perfecting
+   - Blurs uneven tone and texture
+   - Radiance enhancing
+   - Transfer proof
+   - Airbrush effect
+   - Illuminates skin's natural color
+   - Gives a 'lit from within' glow
+   - Ideal for showing more skin in summer
+
+5. **Ingredients**:
+   - Micro pigment sheen capsules for blurring and glow effect
+   - Mica for intense shimmer
+   - Available with or without SPF
+
+6. **Packaging Information**:
+   - Glossy tube with roller for even gel dispense
+   - 'Massage feel' application
+   - Size: 125 ml
+   - Price: £14.99
+
+7. **Usage Instructions**:
+   - Apply a thin layer of gel across the whole body using the massage applicator.
+   - Wait 30 seconds before wearing clothes.
+
+8. **Visual Design Elements**:
+   - **Color Scheme and Dominant Colors**: Pink, white, and hints of black
+   - **Imagery**: Combination of both lifestyle (models/people) and product-only illustrations
+   - **Badges/Labels**: "New Scent"
+   - **Design Style**: Playful and casual with a touch of glamour
+
+9. **Target Audience Signals**:
+   - Suggested use in summer for more skin exposure
+   - Shimmer and glow effects suggest targeting those interested in beauty and glamour
+
+10. **Any Additional Text**:
+    - "Introducing Soap & Glory's... Liquid Lingerie Collection"
+    - "Mimicking the feeling of slipping into an outfit that fits you perfectly, one size fits all takes on a new meaning..."
+    - "Fragrance: A foundational scent of Madagascan vanilla bean"
+
+This product concept is designed to appeal to individuals seeking a body primer that enhances skin appearance with a glowing finish, suitable for summer use. The playful and glamorous visual design aligns with the brand's beauty-focused target audience.

@@ -1,0 +1,53 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_Jan24.Liquid Lingerie Glow-on.jpg
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**:
+   - Product Name: Glow-on
+   - Brand: Soap & Glory
+
+2. **Product Description**:
+   - "Illumination stick balm to 'top-up' skin glow, helping to improve radiance and definition."
+
+3. **Product Category**:
+   - Stick Balm
+
+4. **Key Claims/Benefits**:
+   - Blends into the skin perfectly
+   - Intensifies natural contours
+   - Sculpted and illuminated finish
+   - Adds aesthetic highlights
+   - Functional hydrating nourishment
+   - No-spill, no-mess solution
+
+5. **Ingredients**:
+   - Shea butter for rich lasting hydration
+   - Castor oil for moisture and gloss-like glow
+
+6. **Packaging Information**:
+   - Format: Stick
+   - Size: 70 g
+   - Price: £12.99
+
+7. **Usage Instructions**:
+   1. "Seamlessly blend balm into collarbones and shoulders where light naturally catches, enhancing the body with a shimmering glow."
+   2. "For deeper nourishment, lightly tap or massage into the skin."
+   3. "Perfect for pre-perfume application to boost fragrance intensity."
+
+8. **Visual Design Elements**:
+   - **Color scheme and dominant colors**: Dominantly pink and white, with black text.
+   - **Imagery**: Includes lifestyle imagery with illustrations of people using the product.
+   - **Badges/Labels**: "New Scent" label.
+   - **Design style**: Playful with a hint of sophistication.
+
+9. **Target Audience Signals**:
+   - The playful design suggests a youthful audience interested in beauty and skincare.
+
+10. **Any Additional Text**:
+    - "Introducing Soap & Glory's... Liquid Lingerie Collection"
+
+The image uses bold and italicized text to emphasize key benefits and features. The illustrations show diverse users applying the product and checking their appearance, enhancing the playful yet practical appeal of the product.

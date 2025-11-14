@@ -1,0 +1,169 @@
+C:\Users\d.zhang\Desktop\Experiments\venv\Lib\site-packages\langchain_core\_api\deprecation.py:27: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
+================================================================================
+MULTI-CLASS GENERALIZATION TEST
+================================================================================
+Testing 5 diverse ACORN classes
+Using iteration 4 prompt (general, no class-specific)
+================================================================================
+
+Loading ground truth...
+Loaded 44 classes
+
+================================================================================
+Testing: exclusive_addresses
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  30.2% | Error:   0.2pp [OK]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  72.3% | Error:   2.7pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  13.4% | Error:   1.6pp [OK]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  42.3% | Error:   2.7pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  62.6% | Error:   2.4pp [OK]
+[6/10] It is important to be well insured for everything...
+  Pred:  12.0% | Actual:   8.5% | Error:   3.5pp [WARN]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  46.2% | Error:   1.2pp [OK]
+[8/10] Financial security after retirement is your own re...
+  Pred:  54.0% | Actual:  56.4% | Error:   2.4pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  25.0% | Actual:  27.5% | Error:   2.5pp [OK]
+[10/10] I like to use cash when making purchases...
+  Pred:  45.0% | Actual:  27.6% | Error:  17.4pp [FAIL]
+
+--------------------------------------------------------------------------------
+Results for exclusive_addresses:
+  R2 Score: 0.9116
+  MAE: 3.65pp
+  Excellent (<3pp): 8/10
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing: cash-strapped_families
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  27.1% | Error:   2.9pp [OK]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  70.0% | Actual:  72.4% | Error:   2.4pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  35.0% | Actual:  18.9% | Error:  16.1pp [FAIL]
+[4/10] I don't like the idea of being in debt...
+  Pred:  70.0% | Actual:  43.9% | Error:  26.1pp [FAIL]
+[5/10] I am very good at managing money...
+  Pred:  40.0% | Actual:  48.7% | Error:   8.7pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  12.4% | Error:  12.6pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  31.4% | Error:   8.6pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  40.0% | Actual:  47.6% | Error:   7.6pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  35.0% | Actual:  31.5% | Error:   3.5pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  65.0% | Actual:  41.3% | Error:  23.7pp [FAIL]
+
+--------------------------------------------------------------------------------
+Results for cash-strapped_families:
+  R2 Score: 0.2872
+  MAE: 11.22pp
+  Excellent (<3pp): 2/10
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing: traditional_homeowners
+================================================================================
+[1/10] I think brands should consider environmental susta... - NO GROUND TRUTH
+[2/10] Make an effort to cut down on the use of gas / ele... - NO GROUND TRUTH
+[3/10] Fuel consumption is the most important feature whe... - NO GROUND TRUTH
+[4/10] I don't like the idea of being in debt... - NO GROUND TRUTH
+[5/10] I am very good at managing money... - NO GROUND TRUTH
+[6/10] It is important to be well insured for everything... - NO GROUND TRUTH
+[7/10] Healthy Eating... - NO GROUND TRUTH
+[8/10] Financial security after retirement is your own re... - NO GROUND TRUTH
+[9/10] Switching utilities suppliers is well worth the ef... - NO GROUND TRUTH
+[10/10] I like to use cash when making purchases... - NO GROUND TRUTH
+[ERROR] No valid predictions for traditional_homeowners
+
+================================================================================
+Testing: up-and-coming_urbanites
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  40.0% | Actual:  30.8% | Error:   9.2pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  70.0% | Actual:  69.8% | Error:   0.2pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  25.0% | Actual:  10.1% | Error:  14.9pp [FAIL]
+[4/10] I don't like the idea of being in debt...
+  Pred:  65.0% | Actual:  47.7% | Error:  17.3pp [FAIL]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  52.3% | Error:  12.7pp [FAIL]
+[6/10] It is important to be well insured for everything...
+  Pred:  12.0% | Actual:  11.3% | Error:   0.7pp [OK]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  46.0% | Error:   6.0pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  54.0% | Actual:  52.9% | Error:   1.1pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  33.6% | Error:   6.4pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  35.0% | Actual:  29.2% | Error:   5.8pp [WARN]
+
+--------------------------------------------------------------------------------
+Results for up-and-coming_urbanites:
+  R2 Score: 0.7278
+  MAE: 7.44pp
+  Excellent (<3pp): 3/10
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing: upmarket_families
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  30.2% | Error:   0.2pp [OK]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  72.9% | Error:   2.1pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  25.0% | Actual:  11.8% | Error:  13.2pp [FAIL]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  42.3% | Error:   2.7pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  70.0% | Error:   5.0pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  12.0% | Actual:  13.1% | Error:   1.1pp [OK]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  43.9% | Error:   1.1pp [OK]
+[8/10] Financial security after retirement is your own re...
+  Pred:  55.0% | Actual:  71.2% | Error:  16.2pp [FAIL]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  34.1% | Error:   5.9pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  35.0% | Actual:  26.7% | Error:   8.3pp [WARN]
+
+--------------------------------------------------------------------------------
+Results for upmarket_families:
+  R2 Score: 0.8786
+  MAE: 5.58pp
+  Excellent (<3pp): 5/10
+--------------------------------------------------------------------------------
+
+================================================================================
+SUMMARY ACROSS ALL CLASSES
+================================================================================
+
+Class                                R2      MAE  Excellent
+--------------------------------------------------------------------------------
+exclusive_addresses              0.9116     3.65   8/10 
+cash-strapped_families           0.2872    11.22   2/10 
+up-and-coming_urbanites          0.7278     7.44   3/10 
+upmarket_families                0.8786     5.58   5/10 
+
+================================================================================
+Average R2: 0.7013
+Average MAE: 6.97pp
+Total Excellent: 18/40
+
+[SUCCESS] Average R2 = 0.7013 > 0.7 target!
+================================================================================

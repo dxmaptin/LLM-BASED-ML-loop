@@ -1,0 +1,57 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_Jan24.Wakeup Glorious spritz.jpg
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+Certainly! Here’s a detailed extraction and analysis from the image:
+
+1. **Product Name and Brand**: 
+   - Product Name: Press Play Spritz
+   - Brand: Soap & Glory
+
+2. **Product Description**: 
+   - An invigorating face and body spray to awaken your senses
+   - Hit refresh on your routine with Soap & Glory’s Press Play Spritz, a light, tingly spritz designed to awaken your senses and energize your spirit. Just a quick mist is all it takes to transition to a state of vibrant alertness, at any time of day. Infused with invigorating ingredients that stimulate both mind and body, Press Play Spritz is your go-to solution for starting the day, or simply getting through the day, with clarity and zest.
+
+3. **Product Category**: 
+   - Face and body spray
+
+4. **Key Claims/Benefits**:
+   - Awakens your senses
+   - Energizes your spirit
+   - Invigorating ingredients that stimulate both mind and body
+   - Offers clarity and zest
+
+5. **Ingredients**:
+   - Active ingredients include:
+     - Caffeine to wake up tired skin and improve blood circulation
+     - Peppermint extract for a light tingle on the skin
+
+6. **Packaging Information**: 
+   - Format: Spray bottle with mist nozzle
+   - Metal pack that feels cold and refreshing
+   - Size: 90 ml
+   - Price: £7.99
+
+7. **Usage Instructions**:
+   - Spritz all over face and body whenever you need a sensory refresh.
+   - Reapply throughout the day for a quick boost or pick me up.
+
+8. **Visual Design Elements**:
+   - Color scheme: Dominant colors are pink and orange with highlights of yellow and black text.
+   - Imagery: Combination of lifestyle imagery and product illustrations; includes people and product usage.
+   - Badges/Labels: "New Scent"
+   - Design Style: Playful yet slightly clinical due to description and illustrations.
+
+9. **Target Audience Signals**:
+   - Designed for individuals seeking a refreshing and energizing daily skincare solution.
+   - Appeals to those who appreciate aromatic and sensory experiences.
+
+10. **Any Additional Text**:
+    - “Wake-up Glorious Collection”
+    - “New Scent”
+
+The overall presentation suggests a vibrant, energetic product aimed at refreshing the user and incorporating both aesthetic and functional aspects for easy daily use.

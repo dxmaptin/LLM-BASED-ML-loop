@@ -1,0 +1,57 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_Jan24.Girls Night Out stick.jpg
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**:
+   - **Name**: Stardust Stick
+   - **Brand**: Soap & Glory
+
+2. **Product Description**:
+   - Introducing Soap & Glory's... Girls Night Out Collection
+   - A nourishing skin balm that blends into the skin, adding a glamorous stardust glow boost.
+
+3. **Product Category**:
+   - Skin balm
+
+4. **Key Claims/Benefits**:
+   - Glistening stardust skin finish
+   - Applied anywhere on the body
+   - Eliminates mess and effort
+   - Targets specific areas (temples, arms, toes)
+   - No spillage
+   - Gentle moisturizing benefits
+
+5. **Ingredients**:
+   - Biodegradable 'glitter'
+   - Shea butter for rich lasting hydration
+   - Vitamin E for protection and boost of natural skin barrier
+
+6. **Packaging Information**:
+   - Stick format
+   - Provides a no-spill, no-mess experience
+   - Size: 70g
+   - Price: £9.99
+
+7. **Usage Instructions**:
+   1. Apply and blend into areas like chest, arms, and legs with one simple stroke of the stick.
+   2. Reapply for a heavier stardust finish.
+
+8. **Visual Design Elements**:
+   - **Color Scheme**: Purple, pink, white, black
+   - **Imagery**: Lifestyle imagery with models; illustrations showing product use
+   - **Badges/Labels**: 880 Scent badge indicating fragrance
+   - **Design Style**: Playful and glamorous
+
+9. **Target Audience Signals**:
+   - Girls Night Out Collection suggests a target audience of women or young adults
+
+10. **Any Additional Text**:
+    - Branding statement about adding a glamorous finish
+    - Packaging features the "Stardust Stick" with stars
+
+**Analysis**:
+The product is positioned as a fun, glamorous addition to a beauty routine, especially for social events like a "Girls Night Out". Its biodegradable glitter appeals to environmentally conscious consumers. The stick format emphasizes convenience and ease of use, suitable for on-the-go application. The design and imagery suggest a youthful, playful brand personality aimed at those who enjoy a bit of sparkle and fun in their beauty products.

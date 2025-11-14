@@ -1,0 +1,55 @@
+================================================================================
+COMBINED VERBATIMS - SUMMARY
+================================================================================
+
+DATASET SIZES
+--------------------------------------------------------------------------------
+Full dataset (with Period): 2,673 rows
+Training dataset (no Period): 2,673 rows
+
+PERIOD DISTRIBUTION
+--------------------------------------------------------------------------------
+  FY25: 442 verbatims
+  FY26: 699 verbatims
+  Jan24: 1,532 verbatims
+
+MARKET DISTRIBUTION
+--------------------------------------------------------------------------------
+  US: 1,391 verbatims
+  UK: 1,282 verbatims
+
+SENTIMENT DISTRIBUTION
+--------------------------------------------------------------------------------
+  Likes: 1,767 verbatims
+  Dislikes: 559 verbatims
+  Range: 347 verbatims
+
+UNIQUE CONCEPTS: 30
+
+TOP 10 CONCEPTS
+--------------------------------------------------------------------------------
+   1. Ph 'V' Friendly Scent-Sitive Bath Bomb: 149 verbatims
+   2. Exfoliationg Body Scrub And Massage Bar: 141 verbatims
+   3. Nourishing Solid Body Oil Stick: 139 verbatims
+   4. Ph Sensitive Skin Body Wash: 136 verbatims
+   5. Skin Benefit Scrub Collection X3: 134 verbatims
+   6. Soap & Glory Mission Possible Time Travel Body Lotion​: 116 verbatims
+   7. Soap & Glory Mission Possible Smooth Operator Elixir​: 114 verbatims
+   8. Soap & Glory Mission Possible Bounce Back Body Balm​: 109 verbatims
+   9. Soap & Glory Girl'S Night Out Stardust Stick​: 103 verbatims
+  10. Soap & Glory Girl'S Night Out Refresh Queen​: 100 verbatims
+
+================================================================================
+TRAINING FORMAT
+================================================================================
+
+Training columns (exclude Period):
+  1. Market (UK/US)
+  2. Sentiment (Likes/Dislikes/Range)
+  3. Concept (standardized name)
+  4. Verbatim (cleaned text)
+
+Period kept as metadata for:
+  - QA checks
+  - Temporal drift analysis
+  - Train/test splits by wave

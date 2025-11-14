@@ -1,0 +1,307 @@
+### Concept: Concept
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Country of Birth | Rest of Europe value=0.0273 | relevance=0.80
+- [quant] ACORN_not_private_households.csv | Manage current account | By phone value=0.2326 | relevance=0.79
+- [quant] ACORN_not_private_households.csv | Arrange current account | By phone value=0.1416 | relevance=0.77
+- [quant] ACORN_not_private_households.csv | Country of Birth | Other value=0.0190 | relevance=0.76
+- [qual] not_private_households_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Country of Birth | Rest of Europe | value=0.0273 (file=ACORN_not_private_households.csv, relevance=0.80)
+Manage current account | By phone | value=0.2326 (file=ACORN_not_private_households.csv, relevance=0.79)
+Arrange current account | By phone | value=0.1416 (file=ACORN_not_private_households.csv, relevance=0.77)
+Country of Birth | Other | value=0.0190 (file=ACORN_not_private_households.csv, relevance=0.76)
+
+Qualitative summary:
+================================================== (file=not_private_households_profile.txt, relevance=0.50)
+
+Weight hints:
+- Country of Birth -> Rest of Europe (value=0.03)
+- Manage current account -> By phone (value=0.23)
+- Arrange current account -> By phone (value=0.14)
+- Country of Birth -> Other (value=0.02)
+- Quote: "=================================================="
+
+
+### Concept: I think brands should consider environmental sustainability when putting on events
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Attitudes | I consider myself an environmentalist value=0.1906 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Attitudes | I think energy companies do not care about the environment value=0.3267 | relevance=0.93
+- [quant] ACORN_not_private_households.csv | Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) value=0.6230 | relevance=0.90
+- [quant] ACORN_not_private_households.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.0820 | relevance=0.89
+- [qual] not_private_households_profile.txt | relevance=0.68 | ACORN Class: Not Private Households
+
+Quantitative summary:
+Attitudes | I consider myself an environmentalist | value=0.1906 (file=ACORN_not_private_households.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.3267 (file=ACORN_not_private_households.csv, relevance=0.93)
+Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) | value=0.6230 (file=ACORN_not_private_households.csv, relevance=0.90)
+Insurance and Pensions | Plans to use other investments for retirement | value=0.0820 (file=ACORN_not_private_households.csv, relevance=0.89)
+
+Qualitative summary:
+ACORN Class: Not Private Households (file=not_private_households_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> I consider myself an environmentalist (value=0.19)
+- Attitudes -> I think energy companies do not care about the environment (value=0.33)
+- Bought the last purchase online using any device -> Entertainment tickets (e.g. movie, theater, festivals, sporting events) (value=0.62)
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.08)
+- Quote: "ACORN Class: Not Private Households"
+
+
+### Concept: Make an effort to cut down on the use of gas / electricity at home
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=101.7477 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Financial Attitudes | I love the ease of using chat bots to get answers value=0.5700 | relevance=0.97
+- [quant] ACORN_not_private_households.csv | Digital Attitudes | Computers confuse me, I'll never get used to them value=0.1807 | relevance=0.93
+- [quant] ACORN_not_private_households.csv | Attitudes | I make an effort to support local businesses value=0.2286 | relevance=0.92
+- [qual] not_private_households_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Outgoings | > Housing, water, electricity, gas and other fuels | value=101.7477 (file=ACORN_not_private_households.csv, relevance=0.98)
+Financial Attitudes | I love the ease of using chat bots to get answers | value=0.5700 (file=ACORN_not_private_households.csv, relevance=0.97)
+Digital Attitudes | Computers confuse me, I'll never get used to them | value=0.1807 (file=ACORN_not_private_households.csv, relevance=0.93)
+Attitudes | I make an effort to support local businesses | value=0.2286 (file=ACORN_not_private_households.csv, relevance=0.92)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=not_private_households_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=101.75)
+- Financial Attitudes -> I love the ease of using chat bots to get answers (value=0.57)
+- Digital Attitudes -> Computers confuse me, I'll never get used to them (value=0.18)
+- Attitudes -> I make an effort to support local businesses (value=0.23)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Fuel consumption is the most important feature when buying a new car
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Action | Important when buying a car: environmentally friendly / low co2 emissions value=0.3639 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Attitudes | I think energy companies do not care about the environment value=0.3267 | relevance=0.86
+- [quant] ACORN_not_private_households.csv | Financial Attitudes | It is important to be well insured for everything value=0.1752 | relevance=0.83
+- [quant] ACORN_not_private_households.csv | Researched the last purchase online before buying | Pet care value=0.2890 | relevance=0.81
+- [qual] not_private_households_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Action | Important when buying a car: environmentally friendly / low co2 emissions | value=0.3639 (file=ACORN_not_private_households.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.3267 (file=ACORN_not_private_households.csv, relevance=0.86)
+Financial Attitudes | It is important to be well insured for everything | value=0.1752 (file=ACORN_not_private_households.csv, relevance=0.83)
+Researched the last purchase online before buying | Pet care | value=0.2890 (file=ACORN_not_private_households.csv, relevance=0.81)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=not_private_households_profile.txt, relevance=0.68)
+
+Weight hints:
+- Action -> Important when buying a car: environmentally friendly / low co2 emissions (value=0.36)
+- Attitudes -> I think energy companies do not care about the environment (value=0.33)
+- Financial Attitudes -> It is important to be well insured for everything (value=0.18)
+- Researched the last purchase online before buying -> Pet care (value=0.29)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I don't like the idea of being in debt
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Interests & Hobbies | Helping out in the community value=0.1286 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Attitudes | Climate change is the biggest threat to civilisation value=0.2418 | relevance=0.96
+- [quant] ACORN_not_private_households.csv | House Move | Individual likely to move value=0.2245 | relevance=0.94
+- [quant] ACORN_not_private_households.csv | Financial Attitudes | I do not mind taking risks with my money value=0.4382 | relevance=0.91
+- [qual] not_private_households_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Interests & Hobbies | Helping out in the community | value=0.1286 (file=ACORN_not_private_households.csv, relevance=0.98)
+Attitudes | Climate change is the biggest threat to civilisation | value=0.2418 (file=ACORN_not_private_households.csv, relevance=0.96)
+House Move | Individual likely to move | value=0.2245 (file=ACORN_not_private_households.csv, relevance=0.94)
+Financial Attitudes | I do not mind taking risks with my money | value=0.4382 (file=ACORN_not_private_households.csv, relevance=0.91)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=not_private_households_profile.txt, relevance=0.68)
+
+Weight hints:
+- Interests & Hobbies -> Helping out in the community (value=0.13)
+- Attitudes -> Climate change is the biggest threat to civilisation (value=0.24)
+- House Move -> Individual likely to move (value=0.22)
+- Financial Attitudes -> I do not mind taking risks with my money (value=0.44)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I am very good at managing money
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Outgoings | > Miscellaneous goods and services value=31.7089 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Crime Survey for England - Very Worried About: | Having my car stolen value=0.0358 | relevance=0.96
+- [quant] ACORN_not_private_households.csv | Manage savings account | Online at home or work value=0.2208 | relevance=0.94
+- [quant] ACORN_not_private_households.csv | Car type | Main car: Privately owned value=0.6231 | relevance=0.90
+- [qual] not_private_households_profile.txt | relevance=0.68 | ACORN Class: Not Private Households
+
+Quantitative summary:
+Outgoings | > Miscellaneous goods and services | value=31.7089 (file=ACORN_not_private_households.csv, relevance=0.98)
+Crime Survey for England - Very Worried About: | Having my car stolen | value=0.0358 (file=ACORN_not_private_households.csv, relevance=0.96)
+Manage savings account | Online at home or work | value=0.2208 (file=ACORN_not_private_households.csv, relevance=0.94)
+Car type | Main car: Privately owned | value=0.6231 (file=ACORN_not_private_households.csv, relevance=0.90)
+
+Qualitative summary:
+ACORN Class: Not Private Households (file=not_private_households_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Miscellaneous goods and services (value=31.71)
+- Crime Survey for England - Very Worried About: -> Having my car stolen (value=0.04)
+- Manage savings account -> Online at home or work (value=0.22)
+- Car type -> Main car: Privately owned (value=0.62)
+- Quote: "ACORN Class: Not Private Households"
+
+
+### Concept: It is important to be well insured for everything
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Attitudes | Fuel consumption is the most important feature when buying a new car value=0.1868 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Tend to look out for adverts on | Cinema products value=0.3355 | relevance=0.93
+- [quant] ACORN_not_private_households.csv | Clothing & Footwear Stores | Mass Market value=0.6035 | relevance=0.92
+- [quant] ACORN_not_private_households.csv | Tend to look out for adverts on | Soft drinks products value=0.2361 | relevance=0.90
+- [qual] not_private_households_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | Fuel consumption is the most important feature when buying a new car | value=0.1868 (file=ACORN_not_private_households.csv, relevance=0.98)
+Tend to look out for adverts on | Cinema products | value=0.3355 (file=ACORN_not_private_households.csv, relevance=0.93)
+Clothing & Footwear Stores | Mass Market | value=0.6035 (file=ACORN_not_private_households.csv, relevance=0.92)
+Tend to look out for adverts on | Soft drinks products | value=0.2361 (file=ACORN_not_private_households.csv, relevance=0.90)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=not_private_households_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> Fuel consumption is the most important feature when buying a new car (value=0.19)
+- Tend to look out for adverts on -> Cinema products (value=0.34)
+- Clothing & Footwear Stores -> Mass Market (value=0.60)
+- Tend to look out for adverts on -> Soft drinks products (value=0.24)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Healthy Eating
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Eating Habits | Vegan value=0.0208 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Eating Habits | Eats meat value=0.6789 | relevance=0.97
+- [quant] ACORN_not_private_households.csv | Eating Habits | Vegetarian value=0.0846 | relevance=0.95
+- [quant] ACORN_not_private_households.csv | Eating Habits | Pescatarian, flexitarian, other value=0.1999 | relevance=0.92
+- [qual] not_private_households_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Eating Habits | Vegan | value=0.0208 (file=ACORN_not_private_households.csv, relevance=0.98)
+Eating Habits | Eats meat | value=0.6789 (file=ACORN_not_private_households.csv, relevance=0.97)
+Eating Habits | Vegetarian | value=0.0846 (file=ACORN_not_private_households.csv, relevance=0.95)
+Eating Habits | Pescatarian, flexitarian, other | value=0.1999 (file=ACORN_not_private_households.csv, relevance=0.92)
+
+Qualitative summary:
+================================================== (file=not_private_households_profile.txt, relevance=0.50)
+
+Weight hints:
+- Eating Habits -> Vegan (value=0.02)
+- Eating Habits -> Eats meat (value=0.68)
+- Eating Habits -> Vegetarian (value=0.08)
+- Eating Habits -> Pescatarian, flexitarian, other (value=0.20)
+- Quote: "=================================================="
+
+
+### Concept: Financial security after retirement is your own responsibility
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.0820 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Financial Attitudes | I only save for a specific purpose value=0.4134 | relevance=0.96
+- [quant] ACORN_not_private_households.csv | Financial Attitudes | I trust financial price comparison sites value=0.5272 | relevance=0.95
+- [quant] ACORN_not_private_households.csv | Financial Attitudes | Switching utilities suppliers is well worth the effort value=0.3429 | relevance=0.94
+- [qual] not_private_households_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Insurance and Pensions | Plans to use other investments for retirement | value=0.0820 (file=ACORN_not_private_households.csv, relevance=0.98)
+Financial Attitudes | I only save for a specific purpose | value=0.4134 (file=ACORN_not_private_households.csv, relevance=0.96)
+Financial Attitudes | I trust financial price comparison sites | value=0.5272 (file=ACORN_not_private_households.csv, relevance=0.95)
+Financial Attitudes | Switching utilities suppliers is well worth the effort | value=0.3429 (file=ACORN_not_private_households.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=not_private_households_profile.txt, relevance=0.50)
+
+Weight hints:
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.08)
+- Financial Attitudes -> I only save for a specific purpose (value=0.41)
+- Financial Attitudes -> I trust financial price comparison sites (value=0.53)
+- Financial Attitudes -> Switching utilities suppliers is well worth the effort (value=0.34)
+- Quote: "=================================================="
+
+
+### Concept: Switching utilities suppliers is well worth the effort
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Places They Visit | Sporting events value=0.2266 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates value=3022.4157 | relevance=0.96
+- [quant] ACORN_not_private_households.csv | Places They Visit | Places of worship value=0.1880 | relevance=0.95
+- [quant] ACORN_not_private_households.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=101.7477 | relevance=0.94
+- [qual] not_private_households_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Places They Visit | Sporting events | value=0.2266 (file=ACORN_not_private_households.csv, relevance=0.98)
+Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates | value=3022.4157 (file=ACORN_not_private_households.csv, relevance=0.96)
+Places They Visit | Places of worship | value=0.1880 (file=ACORN_not_private_households.csv, relevance=0.95)
+Outgoings | > Housing, water, electricity, gas and other fuels | value=101.7477 (file=ACORN_not_private_households.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=not_private_households_profile.txt, relevance=0.50)
+
+Weight hints:
+- Places They Visit -> Sporting events (value=0.23)
+- Outgoings -> Council tax, utilities, water, structure insurance, NI domestic rates (value=3022.42)
+- Places They Visit -> Places of worship (value=0.19)
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=101.75)
+- Quote: "=================================================="
+
+
+### Concept: I like to use cash when making purchases
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_not_private_households.csv | Bought the last purchase online using any device | Alcoholic drinks value=0.2548 | relevance=0.98
+- [quant] ACORN_not_private_households.csv | Bought the last purchase online using any device | Pet care value=0.3111 | relevance=0.96
+- [quant] ACORN_not_private_households.csv | Bought the last purchase online using any device | Home appliances value=0.5279 | relevance=0.93
+- [quant] ACORN_not_private_households.csv | Bought the last purchase online using any device | Holiday / travel value=0.6593 | relevance=0.91
+- [qual] not_private_households_profile.txt | relevance=0.68 | ACORN Class: Not Private Households
+
+Quantitative summary:
+Bought the last purchase online using any device | Alcoholic drinks | value=0.2548 (file=ACORN_not_private_households.csv, relevance=0.98)
+Bought the last purchase online using any device | Pet care | value=0.3111 (file=ACORN_not_private_households.csv, relevance=0.96)
+Bought the last purchase online using any device | Home appliances | value=0.5279 (file=ACORN_not_private_households.csv, relevance=0.93)
+Bought the last purchase online using any device | Holiday / travel | value=0.6593 (file=ACORN_not_private_households.csv, relevance=0.91)
+
+Qualitative summary:
+ACORN Class: Not Private Households (file=not_private_households_profile.txt, relevance=0.68)
+
+Weight hints:
+- Bought the last purchase online using any device -> Alcoholic drinks (value=0.25)
+- Bought the last purchase online using any device -> Pet care (value=0.31)
+- Bought the last purchase online using any device -> Home appliances (value=0.53)
+- Bought the last purchase online using any device -> Holiday / travel (value=0.66)
+- Quote: "ACORN Class: Not Private Households"
+

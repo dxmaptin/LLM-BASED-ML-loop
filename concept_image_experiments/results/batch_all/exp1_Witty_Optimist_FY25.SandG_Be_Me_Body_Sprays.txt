@@ -1,0 +1,56 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_FY25.S&G Be Me Body Sprays.JPG
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+Sure, here’s a detailed extraction and analysis:
+
+1. **Product Name and Brand**: 
+   - SOAP & GLORY
+   - ‘Be Me’ Body Sprays from Soap & Glory
+
+2. **Product Description**: 
+   - "Don’t be a copy cat! Mark your territory with your personalised scent"
+   - “I like to wear different fragrance for different occasions and its nice to find something unique, but my budget doesn’t allow for all of this”
+   - "Soap & Glory have concocted 3 body spray (100ml) mists each containing a secret sssshhh…magic ingredient which will adapt to your own skin to make you smell as gloriously individual as you are. Top off your pampering regime with a long lasting fine fragrance experience… without the premium price tag!"
+   - "Designed to compliment Soap & Glory’s existing fragrance families of bodycare, they are available in 3 olfactive bases for bottom notes and the rest comes from you!"
+
+3. **Product Category**: 
+   - Body spray
+
+4. **Key Claims/Benefits**: 
+   - Long lasting fine fragrance experience
+   - Unique scent for individuality
+   - Affordable
+   - CLEAN: Dermatologist approved, no nasties
+   - INNOVATIVE: Scent adapting molecules, long lasting claim
+   - 100% VEGAN: Not tested on animals, just picky humans!
+
+5. **Ingredients**: 
+   - Secret magic ingredient (general mention; specifics not provided)
+
+6. **Packaging Information**: 
+   - 100ml mists
+   - No specific price mentioned
+
+7. **Usage Instructions**: 
+   - Not specifically mentioned
+
+8. **Visual Design Elements**:
+   - Color scheme and dominant colors: Pink, white, with some elements of gold and other soft pastel colors.
+   - Imagery: Combination of lifestyle (model) and product imagery
+   - Badges/Labels: CLEAN, INNOVATIVE, 100% VEGAN
+   - Design style: Playful and feminine with a touch of elegance
+
+9. **Target Audience Signals**: 
+   - Appeals to individuals looking for unique and personalized fragrances
+   - Budget-conscious consumers who still want quality
+   - Vegan and cruelty-free product preference
+
+10. **Any Additional Text**: 
+    - "FLORAL OP / CITRUS / GOURMAND"
+
+Overall, the product is positioned as an affordable, innovative, and vegan-friendly body spray that offers a personalized scent experience. The design and imagery appeal to a young, trendy audience looking for individuality and quality.

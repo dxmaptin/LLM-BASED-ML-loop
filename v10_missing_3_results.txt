@@ -1,0 +1,106 @@
+C:\Users\d.zhang\Desktop\Experiments\venv\Lib\site-packages\langchain_core\_api\deprecation.py:27: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
+================================================================================
+TESTING V10 ON 3 MISSING ACORN CLASSES
+================================================================================
+Classes to test: 3
+  - limited_budgets
+  - traditional_homeowners
+  - urban_diversity
+================================================================================
+
+Loading ground truth...
+Loaded ground truth for 22 classes
+Initializing estimator...
+
+[1/3]
+
+================================================================================
+Testing: limited_budgets
+================================================================================
+[1/10] I think brands should consider environmental susta... - NO GROUND TRUTH
+[2/10] Make an effort to cut down on the use of gas / ele... - NO GROUND TRUTH
+[3/10] Fuel consumption is the most important feature whe... - NO GROUND TRUTH
+[4/10] I don't like the idea of being in debt... 
+  Pred:  45.0% | Actual:  42.0% | Error:   3.0pp [OK]
+[5/10] I am very good at managing money... 
+  Pred:  50.0% | Actual:  51.5% | Error:   1.5pp [OK]
+[6/10] It is important to be well insured for everything... 
+  Pred:  12.0% | Actual:  12.7% | Error:   0.7pp [OK]
+[7/10] Healthy Eating... 
+  Pred:  40.0% | Actual:  31.5% | Error:   8.5pp [FAIL]
+[8/10] Financial security after retirement is your own re... - NO GROUND TRUTH
+[9/10] Switching utilities suppliers is well worth the ef... - NO GROUND TRUTH
+[10/10] I like to use cash when making purchases... 
+  Pred:  42.0% | Actual:  41.9% | Error:   0.1pp [OK]
+
+--------------------------------------------------------------------------------
+R2: 0.9041 | MAE: 2.75pp | Excellent: 4/5
+--------------------------------------------------------------------------------
+
+[2/3]
+
+================================================================================
+Testing: traditional_homeowners
+================================================================================
+[1/10] I think brands should consider environmental susta... - NO GROUND TRUTH
+[2/10] Make an effort to cut down on the use of gas / ele... - NO GROUND TRUTH
+[3/10] Fuel consumption is the most important feature whe... - NO GROUND TRUTH
+[4/10] I don't like the idea of being in debt... 
+  Pred:  44.0% | Actual:  43.5% | Error:   0.5pp [OK]
+[5/10] I am very good at managing money... 
+  Pred:  62.0% | Actual:  58.2% | Error:   3.8pp [WARN]
+[6/10] It is important to be well insured for everything... 
+  Pred:  10.0% | Actual:  14.0% | Error:   4.0pp [WARN]
+[7/10] Healthy Eating... 
+  Pred:  40.0% | Actual:  35.8% | Error:   4.2pp [WARN]
+[8/10] Financial security after retirement is your own re... - NO GROUND TRUTH
+[9/10] Switching utilities suppliers is well worth the ef... - NO GROUND TRUTH
+[10/10] I like to use cash when making purchases... 
+  Pred:  28.0% | Actual:  33.9% | Error:   5.9pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.9194 | MAE: 3.68pp | Excellent: 1/5
+--------------------------------------------------------------------------------
+
+[3/3]
+
+================================================================================
+Testing: urban_diversity
+================================================================================
+[1/10] I think brands should consider environmental susta... - NO GROUND TRUTH
+[2/10] Make an effort to cut down on the use of gas / ele... - NO GROUND TRUTH
+[3/10] Fuel consumption is the most important feature whe... - NO GROUND TRUTH
+[4/10] I don't like the idea of being in debt... 
+  Pred:  45.0% | Actual:  43.5% | Error:   1.5pp [OK]
+[5/10] I am very good at managing money... 
+  Pred:  55.0% | Actual:  51.2% | Error:   3.8pp [WARN]
+[6/10] It is important to be well insured for everything... 
+  Pred:  11.0% | Actual:  13.3% | Error:   2.3pp [OK]
+[7/10] Healthy Eating... 
+  Pred:  45.0% | Actual:  36.2% | Error:   8.8pp [FAIL]
+[8/10] Financial security after retirement is your own re... - NO GROUND TRUTH
+[9/10] Switching utilities suppliers is well worth the ef... - NO GROUND TRUTH
+[10/10] I like to use cash when making purchases... 
+  Pred:  36.0% | Actual:  41.9% | Error:   5.9pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.8391 | MAE: 4.45pp | Excellent: 2/5
+--------------------------------------------------------------------------------
+
+================================================================================
+SUMMARY: V10 ON 3 MISSING CLASSES
+================================================================================
+
+Class                                    R2       MAE    Excellent    Status
+--------------------------------------------------------------------------------
+limited_budgets                          0.9041   2.75   4/5          PASS
+traditional_homeowners                   0.9194   3.68   1/5          PASS
+urban_diversity                          0.8391   4.45   2/5          PASS
+================================================================================
+Average R2: 0.8875
+Average MAE: 3.63pp
+Classes with R2 > 0.7: 3/3
+================================================================================
+
+Results saved to: v10_missing_3_classes_results.csv

@@ -1,0 +1,60 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_FY25.S&G Rebalancing Probiotic Bodycare .JPG
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**:
+   - Soap & Glory
+   - Re-balancing Probiotic Bodycare from Soap & Glory
+
+2. **Product Description**:
+   - "Frequent bathing and washing can compromise the skin barrier and disrupt the natural good flora. Our Rebalancing Probiotic bodycare gently deep cleanses skin, soothes dryness and captures impurities whilst boosting skins natural defenses.... luxurious, delightfully sensorial bodycare to ensure a happy, healthy cared for….. YOU!"
+
+3. **Product Category**:
+   - Body wash, lotion, and scrub
+
+4. **Key Claims/Benefits**:
+   - Deep cleanses skin
+   - Soothes dryness
+   - Captures impurities
+   - Boosts natural defenses
+   - Supports skin resistance to natural aggressors
+   - Long-lasting hydration
+   - Exfoliates while maintaining moisture barrier
+   - Dermatologist approved
+   - Safe for sensitive skin
+   - Maintains natural skin barrier and pH
+   - Contains lipids and ceramides for extra nourishment
+   - New fresh hypoallergenic fragrance
+
+5. **Ingredients**:
+   - Vitamin C (mentioned in probiotic body lotion)
+
+6. **Packaging Information**:
+   - Not specified in the text.
+
+7. **Usage Instructions**:
+   - Not explicitly given in the text.
+
+8. **Visual Design Elements**:
+   - **Color Scheme and Dominant Colors**: Pink, white, and black
+   - **Imagery**: Lifestyle imagery with models/people
+   - **Badges/Labels/Callouts**:
+     - “Body Biome: The ‘all over facial’.”
+     - "GENTLE: Dermatologist approved, safe for sensitive skin."
+     - "HYDRATING: Lipids and ceramides to quench thirsty skin."
+     - "Hypoallergenic: NEW fresh fragrance"
+   - **Overall Design Style**: Clean and clinical with a touch of luxury
+
+9. **Target Audience Signals**:
+   - Individuals seeking sensitive skin solutions
+   - Those interested in skincare and wellness
+
+10. **Additional Text**:
+    - "Get ready for your own personal wellness ceremony…"
+    - "HEALTH FIRST."
+
+This product is positioned for consumers looking for luxurious and effective skincare routines that gently support and protect skin health while also emphasizing mental wellness through pleasant sensory experiences.

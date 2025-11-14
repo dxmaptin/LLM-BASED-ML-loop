@@ -1,0 +1,23 @@
+================================================================================
+VERBATIM PROCESSING - QA REPORT
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total verbatims: 1309
+Total respondents: 1049
+Unique concepts: 25
+
+WAVE COVERAGE
+--------------------------------------------------------------------------------
+  FY25: 4 concepts
+  FY26: 5 concepts
+  Jan24: 16 concepts
+
+TOP CONCEPTS
+--------------------------------------------------------------------------------
+  ph_v_friendly_scent_sitive_bath_bomb: 76 verbatims
+  ph_sensitive_skin_body_wash: 70 verbatims
+  nourishing_solid_body_oil_stick: 68 verbatims
+  exfoliationg_body_scrub_and_massage_bar: 68 verbatims
+  skin_benefit_scrub_collection_x3: 67 verbatims

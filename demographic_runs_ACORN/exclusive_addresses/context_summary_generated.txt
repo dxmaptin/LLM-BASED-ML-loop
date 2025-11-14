@@ -1,0 +1,307 @@
+### Concept: Concept
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Country of Birth | Rest of Europe value=0.0099 | relevance=0.80
+- [quant] ACORN_exclusive_addresses.csv | Manage current account | By phone value=0.1720 | relevance=0.79
+- [quant] ACORN_exclusive_addresses.csv | Arrange current account | By phone value=0.0896 | relevance=0.76
+- [quant] ACORN_exclusive_addresses.csv | Country of Birth | Other value=0.0538 | relevance=0.69
+- [qual] exclusive_addresses_profile.txt | relevance=0.50 | The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Quantitative summary:
+Country of Birth | Rest of Europe | value=0.0099 (file=ACORN_exclusive_addresses.csv, relevance=0.80)
+Manage current account | By phone | value=0.1720 (file=ACORN_exclusive_addresses.csv, relevance=0.79)
+Arrange current account | By phone | value=0.0896 (file=ACORN_exclusive_addresses.csv, relevance=0.76)
+Country of Birth | Other | value=0.0538 (file=ACORN_exclusive_addresses.csv, relevance=0.69)
+
+Qualitative summary:
+The most affluent in the population, who have no financial concerns and live in the most expensive (file=exclusive_addresses_profile.txt, relevance=0.50)
+
+Weight hints:
+- Country of Birth -> Rest of Europe (value=0.01)
+- Manage current account -> By phone (value=0.17)
+- Arrange current account -> By phone (value=0.09)
+- Country of Birth -> Other (value=0.05)
+- Quote: "The most affluent in the population, who have no financial concerns and live in the most expensive"
+
+
+### Concept: I think brands should consider environmental sustainability when putting on events
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Attitudes | I consider myself an environmentalist value=0.0864 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Attitudes | I think energy companies do not care about the environment value=0.2162 | relevance=0.81
+- [qual] exclusive_addresses_profile.txt | relevance=0.79 | The most affluent in the population, who have no financial concerns and live in the most expensive
+- [quant] ACORN_exclusive_addresses.csv | Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) value=0.5680 | relevance=0.70
+- [quant] ACORN_exclusive_addresses.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.1474 | relevance=0.68
+
+Quantitative summary:
+Attitudes | I consider myself an environmentalist | value=0.0864 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2162 (file=ACORN_exclusive_addresses.csv, relevance=0.81)
+Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) | value=0.5680 (file=ACORN_exclusive_addresses.csv, relevance=0.70)
+Insurance and Pensions | Plans to use other investments for retirement | value=0.1474 (file=ACORN_exclusive_addresses.csv, relevance=0.68)
+
+Qualitative summary:
+The most affluent in the population, who have no financial concerns and live in the most expensive (file=exclusive_addresses_profile.txt, relevance=0.79)
+
+Weight hints:
+- Attitudes -> I consider myself an environmentalist (value=0.09)
+- Attitudes -> I think energy companies do not care about the environment (value=0.22)
+- Quote: "The most affluent in the population, who have no financial concerns and live in the most expensive"
+- Bought the last purchase online using any device -> Entertainment tickets (e.g. movie, theater, festivals, sporting events) (value=0.57)
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.15)
+
+
+### Concept: Make an effort to cut down on the use of gas / electricity at home
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=222.9993 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Financial Attitudes | I love the ease of using chat bots to get answers value=0.3649 | relevance=0.97
+- [quant] ACORN_exclusive_addresses.csv | Digital Attitudes | Computers confuse me, I'll never get used to them value=0.1771 | relevance=0.91
+- [quant] ACORN_exclusive_addresses.csv | Attitudes | I make an effort to support local businesses value=0.1508 | relevance=0.89
+- [qual] exclusive_addresses_profile.txt | relevance=0.68 | Highest income, most valuable homes in the UK, directors / managers, highest levels of savings and
+
+Quantitative summary:
+Outgoings | > Housing, water, electricity, gas and other fuels | value=222.9993 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Financial Attitudes | I love the ease of using chat bots to get answers | value=0.3649 (file=ACORN_exclusive_addresses.csv, relevance=0.97)
+Digital Attitudes | Computers confuse me, I'll never get used to them | value=0.1771 (file=ACORN_exclusive_addresses.csv, relevance=0.91)
+Attitudes | I make an effort to support local businesses | value=0.1508 (file=ACORN_exclusive_addresses.csv, relevance=0.89)
+
+Qualitative summary:
+Highest income, most valuable homes in the UK, directors / managers, highest levels of savings and (file=exclusive_addresses_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=223.00)
+- Financial Attitudes -> I love the ease of using chat bots to get answers (value=0.36)
+- Digital Attitudes -> Computers confuse me, I'll never get used to them (value=0.18)
+- Attitudes -> I make an effort to support local businesses (value=0.15)
+- Quote: "Highest income, most valuable homes in the UK, directors / managers, highest levels of savings and"
+
+
+### Concept: Fuel consumption is the most important feature when buying a new car
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Action | Important when buying a car: environmentally friendly / low co2 emissions value=0.4924 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Attitudes | I think energy companies do not care about the environment value=0.2162 | relevance=0.82
+- [quant] ACORN_exclusive_addresses.csv | Financial Attitudes | It is important to be well insured for everything value=0.0846 | relevance=0.77
+- [quant] ACORN_exclusive_addresses.csv | Researched the last purchase online before buying | Pet care value=0.2568 | relevance=0.75
+- [qual] exclusive_addresses_profile.txt | relevance=0.68 | The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Quantitative summary:
+Action | Important when buying a car: environmentally friendly / low co2 emissions | value=0.4924 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2162 (file=ACORN_exclusive_addresses.csv, relevance=0.82)
+Financial Attitudes | It is important to be well insured for everything | value=0.0846 (file=ACORN_exclusive_addresses.csv, relevance=0.77)
+Researched the last purchase online before buying | Pet care | value=0.2568 (file=ACORN_exclusive_addresses.csv, relevance=0.75)
+
+Qualitative summary:
+The most affluent in the population, who have no financial concerns and live in the most expensive (file=exclusive_addresses_profile.txt, relevance=0.68)
+
+Weight hints:
+- Action -> Important when buying a car: environmentally friendly / low co2 emissions (value=0.49)
+- Attitudes -> I think energy companies do not care about the environment (value=0.22)
+- Financial Attitudes -> It is important to be well insured for everything (value=0.08)
+- Researched the last purchase online before buying -> Pet care (value=0.26)
+- Quote: "The most affluent in the population, who have no financial concerns and live in the most expensive"
+
+
+### Concept: I don't like the idea of being in debt
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Interests & Hobbies | Helping out in the community value=0.1109 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Attitudes | Climate change is the biggest threat to civilisation value=0.2735 | relevance=0.95
+- [quant] ACORN_exclusive_addresses.csv | House Move | Individual likely to move value=0.2298 | relevance=0.85
+- [quant] ACORN_exclusive_addresses.csv | Financial Attitudes | I do not mind taking risks with my money value=0.3759 | relevance=0.76
+- [qual] exclusive_addresses_profile.txt | relevance=0.68 | properties, found mainly in the centre of London or South East suburbs.
+
+Quantitative summary:
+Interests & Hobbies | Helping out in the community | value=0.1109 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Attitudes | Climate change is the biggest threat to civilisation | value=0.2735 (file=ACORN_exclusive_addresses.csv, relevance=0.95)
+House Move | Individual likely to move | value=0.2298 (file=ACORN_exclusive_addresses.csv, relevance=0.85)
+Financial Attitudes | I do not mind taking risks with my money | value=0.3759 (file=ACORN_exclusive_addresses.csv, relevance=0.76)
+
+Qualitative summary:
+properties, found mainly in the centre of London or South East suburbs. (file=exclusive_addresses_profile.txt, relevance=0.68)
+
+Weight hints:
+- Interests & Hobbies -> Helping out in the community (value=0.11)
+- Attitudes -> Climate change is the biggest threat to civilisation (value=0.27)
+- House Move -> Individual likely to move (value=0.23)
+- Financial Attitudes -> I do not mind taking risks with my money (value=0.38)
+- Quote: "properties, found mainly in the centre of London or South East suburbs."
+
+
+### Concept: I am very good at managing money
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Outgoings | > Miscellaneous goods and services value=123.5629 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Crime Survey for England - Very Worried About: | Having my car stolen value=0.0360 | relevance=0.96
+- [quant] ACORN_exclusive_addresses.csv | Manage savings account | Online at home or work value=0.3799 | relevance=0.94
+- [quant] ACORN_exclusive_addresses.csv | Car type | Main car: Privately owned value=0.7965 | relevance=0.88
+- [qual] exclusive_addresses_profile.txt | relevance=0.68 | Concerned about climate change, but likely to have a very high carbon footprint
+
+Quantitative summary:
+Outgoings | > Miscellaneous goods and services | value=123.5629 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Crime Survey for England - Very Worried About: | Having my car stolen | value=0.0360 (file=ACORN_exclusive_addresses.csv, relevance=0.96)
+Manage savings account | Online at home or work | value=0.3799 (file=ACORN_exclusive_addresses.csv, relevance=0.94)
+Car type | Main car: Privately owned | value=0.7965 (file=ACORN_exclusive_addresses.csv, relevance=0.88)
+
+Qualitative summary:
+Concerned about climate change, but likely to have a very high carbon footprint (file=exclusive_addresses_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Miscellaneous goods and services (value=123.56)
+- Crime Survey for England - Very Worried About: -> Having my car stolen (value=0.04)
+- Manage savings account -> Online at home or work (value=0.38)
+- Car type -> Main car: Privately owned (value=0.80)
+- Quote: "Concerned about climate change, but likely to have a very high carbon footprint"
+
+
+### Concept: It is important to be well insured for everything
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Attitudes | Fuel consumption is the most important feature when buying a new car value=0.1340 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Tend to look out for adverts on | Cinema products value=0.3462 | relevance=0.93
+- [quant] ACORN_exclusive_addresses.csv | Clothing & Footwear Stores | Mass Market value=0.5750 | relevance=0.91
+- [quant] ACORN_exclusive_addresses.csv | Tend to look out for adverts on | Soft drinks products value=0.1708 | relevance=0.90
+- [qual] exclusive_addresses_profile.txt | relevance=0.68 | How to reach them — Internet usage: Moderate
+
+Quantitative summary:
+Attitudes | Fuel consumption is the most important feature when buying a new car | value=0.1340 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Tend to look out for adverts on | Cinema products | value=0.3462 (file=ACORN_exclusive_addresses.csv, relevance=0.93)
+Clothing & Footwear Stores | Mass Market | value=0.5750 (file=ACORN_exclusive_addresses.csv, relevance=0.91)
+Tend to look out for adverts on | Soft drinks products | value=0.1708 (file=ACORN_exclusive_addresses.csv, relevance=0.90)
+
+Qualitative summary:
+How to reach them — Internet usage: Moderate (file=exclusive_addresses_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> Fuel consumption is the most important feature when buying a new car (value=0.13)
+- Tend to look out for adverts on -> Cinema products (value=0.35)
+- Clothing & Footwear Stores -> Mass Market (value=0.57)
+- Tend to look out for adverts on -> Soft drinks products (value=0.17)
+- Quote: "How to reach them — Internet usage: Moderate"
+
+
+### Concept: Healthy Eating
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Eating Habits | Vegan value=0.0102 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Eating Habits | Eats meat value=0.5112 | relevance=0.97
+- [quant] ACORN_exclusive_addresses.csv | Eating Habits | Vegetarian value=0.0390 | relevance=0.95
+- [quant] ACORN_exclusive_addresses.csv | Eating Habits | Pescatarian, flexitarian, other value=0.4863 | relevance=0.92
+- [qual] exclusive_addresses_profile.txt | relevance=0.50 | The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Quantitative summary:
+Eating Habits | Vegan | value=0.0102 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Eating Habits | Eats meat | value=0.5112 (file=ACORN_exclusive_addresses.csv, relevance=0.97)
+Eating Habits | Vegetarian | value=0.0390 (file=ACORN_exclusive_addresses.csv, relevance=0.95)
+Eating Habits | Pescatarian, flexitarian, other | value=0.4863 (file=ACORN_exclusive_addresses.csv, relevance=0.92)
+
+Qualitative summary:
+The most affluent in the population, who have no financial concerns and live in the most expensive (file=exclusive_addresses_profile.txt, relevance=0.50)
+
+Weight hints:
+- Eating Habits -> Vegan (value=0.01)
+- Eating Habits -> Eats meat (value=0.51)
+- Eating Habits -> Vegetarian (value=0.04)
+- Eating Habits -> Pescatarian, flexitarian, other (value=0.49)
+- Quote: "The most affluent in the population, who have no financial concerns and live in the most expensive"
+
+
+### Concept: Financial security after retirement is your own responsibility
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.1474 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Financial Attitudes | I only save for a specific purpose value=0.3894 | relevance=0.86
+- [quant] ACORN_exclusive_addresses.csv | Financial Attitudes | I trust financial price comparison sites value=0.7053 | relevance=0.83
+- [quant] ACORN_exclusive_addresses.csv | Financial Attitudes | Switching utilities suppliers is well worth the effort value=0.2746 | relevance=0.82
+- [qual] exclusive_addresses_profile.txt | relevance=0.68 | The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Quantitative summary:
+Insurance and Pensions | Plans to use other investments for retirement | value=0.1474 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Financial Attitudes | I only save for a specific purpose | value=0.3894 (file=ACORN_exclusive_addresses.csv, relevance=0.86)
+Financial Attitudes | I trust financial price comparison sites | value=0.7053 (file=ACORN_exclusive_addresses.csv, relevance=0.83)
+Financial Attitudes | Switching utilities suppliers is well worth the effort | value=0.2746 (file=ACORN_exclusive_addresses.csv, relevance=0.82)
+
+Qualitative summary:
+The most affluent in the population, who have no financial concerns and live in the most expensive (file=exclusive_addresses_profile.txt, relevance=0.68)
+
+Weight hints:
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.15)
+- Financial Attitudes -> I only save for a specific purpose (value=0.39)
+- Financial Attitudes -> I trust financial price comparison sites (value=0.71)
+- Financial Attitudes -> Switching utilities suppliers is well worth the effort (value=0.27)
+- Quote: "The most affluent in the population, who have no financial concerns and live in the most expensive"
+
+
+### Concept: Switching utilities suppliers is well worth the effort
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Places They Visit | Sporting events value=0.2160 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates value=6640.0405 | relevance=0.89
+- [quant] ACORN_exclusive_addresses.csv | Places They Visit | Places of worship value=0.1784 | relevance=0.88
+- [quant] ACORN_exclusive_addresses.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=222.9993 | relevance=0.86
+- [qual] exclusive_addresses_profile.txt | relevance=0.68 | The most affluent in the population, who have no financial concerns and live in the most expensive
+
+Quantitative summary:
+Places They Visit | Sporting events | value=0.2160 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates | value=6640.0405 (file=ACORN_exclusive_addresses.csv, relevance=0.89)
+Places They Visit | Places of worship | value=0.1784 (file=ACORN_exclusive_addresses.csv, relevance=0.88)
+Outgoings | > Housing, water, electricity, gas and other fuels | value=222.9993 (file=ACORN_exclusive_addresses.csv, relevance=0.86)
+
+Qualitative summary:
+The most affluent in the population, who have no financial concerns and live in the most expensive (file=exclusive_addresses_profile.txt, relevance=0.68)
+
+Weight hints:
+- Places They Visit -> Sporting events (value=0.22)
+- Outgoings -> Council tax, utilities, water, structure insurance, NI domestic rates (value=6640.04)
+- Places They Visit -> Places of worship (value=0.18)
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=223.00)
+- Quote: "The most affluent in the population, who have no financial concerns and live in the most expensive"
+
+
+### Concept: I like to use cash when making purchases
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_exclusive_addresses.csv | Bought the last purchase online using any device | Alcoholic drinks value=0.4524 | relevance=0.98
+- [quant] ACORN_exclusive_addresses.csv | Bought the last purchase online using any device | Pet care value=0.3256 | relevance=0.95
+- [quant] ACORN_exclusive_addresses.csv | Bought the last purchase online using any device | Home appliances value=0.5665 | relevance=0.88
+- [quant] ACORN_exclusive_addresses.csv | Bought the last purchase online using any device | Holiday / travel value=0.7141 | relevance=0.84
+- [qual] exclusive_addresses_profile.txt | relevance=0.68 | How to reach them — Internet usage: Moderate
+
+Quantitative summary:
+Bought the last purchase online using any device | Alcoholic drinks | value=0.4524 (file=ACORN_exclusive_addresses.csv, relevance=0.98)
+Bought the last purchase online using any device | Pet care | value=0.3256 (file=ACORN_exclusive_addresses.csv, relevance=0.95)
+Bought the last purchase online using any device | Home appliances | value=0.5665 (file=ACORN_exclusive_addresses.csv, relevance=0.88)
+Bought the last purchase online using any device | Holiday / travel | value=0.7141 (file=ACORN_exclusive_addresses.csv, relevance=0.84)
+
+Qualitative summary:
+How to reach them — Internet usage: Moderate (file=exclusive_addresses_profile.txt, relevance=0.68)
+
+Weight hints:
+- Bought the last purchase online using any device -> Alcoholic drinks (value=0.45)
+- Bought the last purchase online using any device -> Pet care (value=0.33)
+- Bought the last purchase online using any device -> Home appliances (value=0.57)
+- Bought the last purchase online using any device -> Holiday / travel (value=0.71)
+- Quote: "How to reach them — Internet usage: Moderate"
+

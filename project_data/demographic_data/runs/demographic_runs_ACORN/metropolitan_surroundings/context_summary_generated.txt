@@ -1,0 +1,307 @@
+### Concept: Concept
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Country of Birth | Rest of Europe value=0.0185 | relevance=0.80
+- [quant] ACORN_metropolitan_surroundings.csv | Manage current account | By phone value=0.1559 | relevance=0.79
+- [quant] ACORN_metropolitan_surroundings.csv | Arrange current account | By phone value=0.0515 | relevance=0.77
+- [quant] ACORN_metropolitan_surroundings.csv | Country of Birth | Other value=0.1131 | relevance=0.76
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Country of Birth | Rest of Europe | value=0.0185 (file=ACORN_metropolitan_surroundings.csv, relevance=0.80)
+Manage current account | By phone | value=0.1559 (file=ACORN_metropolitan_surroundings.csv, relevance=0.79)
+Arrange current account | By phone | value=0.0515 (file=ACORN_metropolitan_surroundings.csv, relevance=0.77)
+Country of Birth | Other | value=0.1131 (file=ACORN_metropolitan_surroundings.csv, relevance=0.76)
+
+Qualitative summary:
+================================================== (file=metropolitan_surroundings_profile.txt, relevance=0.50)
+
+Weight hints:
+- Country of Birth -> Rest of Europe (value=0.02)
+- Manage current account -> By phone (value=0.16)
+- Arrange current account -> By phone (value=0.05)
+- Country of Birth -> Other (value=0.11)
+- Quote: "=================================================="
+
+
+### Concept: I think brands should consider environmental sustainability when putting on events
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Attitudes | I consider myself an environmentalist value=0.0758 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Attitudes | I think energy companies do not care about the environment value=0.2869 | relevance=0.94
+- [quant] ACORN_metropolitan_surroundings.csv | Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) value=0.5187 | relevance=0.91
+- [quant] ACORN_metropolitan_surroundings.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.1204 | relevance=0.89
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | I consider myself an environmentalist | value=0.0758 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2869 (file=ACORN_metropolitan_surroundings.csv, relevance=0.94)
+Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) | value=0.5187 (file=ACORN_metropolitan_surroundings.csv, relevance=0.91)
+Insurance and Pensions | Plans to use other investments for retirement | value=0.1204 (file=ACORN_metropolitan_surroundings.csv, relevance=0.89)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=metropolitan_surroundings_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> I consider myself an environmentalist (value=0.08)
+- Attitudes -> I think energy companies do not care about the environment (value=0.29)
+- Bought the last purchase online using any device -> Entertainment tickets (e.g. movie, theater, festivals, sporting events) (value=0.52)
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.12)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Make an effort to cut down on the use of gas / electricity at home
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=130.5040 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Financial Attitudes | I love the ease of using chat bots to get answers value=0.3494 | relevance=0.97
+- [quant] ACORN_metropolitan_surroundings.csv | Digital Attitudes | Computers confuse me, I'll never get used to them value=0.1623 | relevance=0.93
+- [quant] ACORN_metropolitan_surroundings.csv | Attitudes | I make an effort to support local businesses value=0.1363 | relevance=0.92
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Outgoings | > Housing, water, electricity, gas and other fuels | value=130.5040 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Financial Attitudes | I love the ease of using chat bots to get answers | value=0.3494 (file=ACORN_metropolitan_surroundings.csv, relevance=0.97)
+Digital Attitudes | Computers confuse me, I'll never get used to them | value=0.1623 (file=ACORN_metropolitan_surroundings.csv, relevance=0.93)
+Attitudes | I make an effort to support local businesses | value=0.1363 (file=ACORN_metropolitan_surroundings.csv, relevance=0.92)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=metropolitan_surroundings_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=130.50)
+- Financial Attitudes -> I love the ease of using chat bots to get answers (value=0.35)
+- Digital Attitudes -> Computers confuse me, I'll never get used to them (value=0.16)
+- Attitudes -> I make an effort to support local businesses (value=0.14)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Fuel consumption is the most important feature when buying a new car
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Action | Important when buying a car: environmentally friendly / low co2 emissions value=0.4290 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Attitudes | I think energy companies do not care about the environment value=0.2869 | relevance=0.86
+- [quant] ACORN_metropolitan_surroundings.csv | Financial Attitudes | It is important to be well insured for everything value=0.1288 | relevance=0.83
+- [quant] ACORN_metropolitan_surroundings.csv | Researched the last purchase online before buying | Pet care value=0.2054 | relevance=0.81
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Action | Important when buying a car: environmentally friendly / low co2 emissions | value=0.4290 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2869 (file=ACORN_metropolitan_surroundings.csv, relevance=0.86)
+Financial Attitudes | It is important to be well insured for everything | value=0.1288 (file=ACORN_metropolitan_surroundings.csv, relevance=0.83)
+Researched the last purchase online before buying | Pet care | value=0.2054 (file=ACORN_metropolitan_surroundings.csv, relevance=0.81)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=metropolitan_surroundings_profile.txt, relevance=0.68)
+
+Weight hints:
+- Action -> Important when buying a car: environmentally friendly / low co2 emissions (value=0.43)
+- Attitudes -> I think energy companies do not care about the environment (value=0.29)
+- Financial Attitudes -> It is important to be well insured for everything (value=0.13)
+- Researched the last purchase online before buying -> Pet care (value=0.21)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I don't like the idea of being in debt
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Interests & Hobbies | Helping out in the community value=0.1173 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Attitudes | Climate change is the biggest threat to civilisation value=0.2782 | relevance=0.96
+- [quant] ACORN_metropolitan_surroundings.csv | House Move | Individual likely to move value=0.1805 | relevance=0.94
+- [quant] ACORN_metropolitan_surroundings.csv | Financial Attitudes | I do not mind taking risks with my money value=0.3299 | relevance=0.91
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Interests & Hobbies | Helping out in the community | value=0.1173 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Attitudes | Climate change is the biggest threat to civilisation | value=0.2782 (file=ACORN_metropolitan_surroundings.csv, relevance=0.96)
+House Move | Individual likely to move | value=0.1805 (file=ACORN_metropolitan_surroundings.csv, relevance=0.94)
+Financial Attitudes | I do not mind taking risks with my money | value=0.3299 (file=ACORN_metropolitan_surroundings.csv, relevance=0.91)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=metropolitan_surroundings_profile.txt, relevance=0.68)
+
+Weight hints:
+- Interests & Hobbies -> Helping out in the community (value=0.12)
+- Attitudes -> Climate change is the biggest threat to civilisation (value=0.28)
+- House Move -> Individual likely to move (value=0.18)
+- Financial Attitudes -> I do not mind taking risks with my money (value=0.33)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I am very good at managing money
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Outgoings | > Miscellaneous goods and services value=54.6993 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Crime Survey for England - Very Worried About: | Having my car stolen value=0.0460 | relevance=0.96
+- [quant] ACORN_metropolitan_surroundings.csv | Manage savings account | Online at home or work value=0.2357 | relevance=0.95
+- [quant] ACORN_metropolitan_surroundings.csv | Car type | Main car: Privately owned value=0.6880 | relevance=0.91
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.68 | ACORN Class: Metropolitan Surroundings
+
+Quantitative summary:
+Outgoings | > Miscellaneous goods and services | value=54.6993 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Crime Survey for England - Very Worried About: | Having my car stolen | value=0.0460 (file=ACORN_metropolitan_surroundings.csv, relevance=0.96)
+Manage savings account | Online at home or work | value=0.2357 (file=ACORN_metropolitan_surroundings.csv, relevance=0.95)
+Car type | Main car: Privately owned | value=0.6880 (file=ACORN_metropolitan_surroundings.csv, relevance=0.91)
+
+Qualitative summary:
+ACORN Class: Metropolitan Surroundings (file=metropolitan_surroundings_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Miscellaneous goods and services (value=54.70)
+- Crime Survey for England - Very Worried About: -> Having my car stolen (value=0.05)
+- Manage savings account -> Online at home or work (value=0.24)
+- Car type -> Main car: Privately owned (value=0.69)
+- Quote: "ACORN Class: Metropolitan Surroundings"
+
+
+### Concept: It is important to be well insured for everything
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Attitudes | Fuel consumption is the most important feature when buying a new car value=0.1663 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Tend to look out for adverts on | Cinema products value=0.2815 | relevance=0.93
+- [quant] ACORN_metropolitan_surroundings.csv | Clothing & Footwear Stores | Mass Market value=0.5706 | relevance=0.92
+- [quant] ACORN_metropolitan_surroundings.csv | Tend to look out for adverts on | Soft drinks products value=0.2459 | relevance=0.90
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | Fuel consumption is the most important feature when buying a new car | value=0.1663 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Tend to look out for adverts on | Cinema products | value=0.2815 (file=ACORN_metropolitan_surroundings.csv, relevance=0.93)
+Clothing & Footwear Stores | Mass Market | value=0.5706 (file=ACORN_metropolitan_surroundings.csv, relevance=0.92)
+Tend to look out for adverts on | Soft drinks products | value=0.2459 (file=ACORN_metropolitan_surroundings.csv, relevance=0.90)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=metropolitan_surroundings_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> Fuel consumption is the most important feature when buying a new car (value=0.17)
+- Tend to look out for adverts on -> Cinema products (value=0.28)
+- Clothing & Footwear Stores -> Mass Market (value=0.57)
+- Tend to look out for adverts on -> Soft drinks products (value=0.25)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Healthy Eating
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Eating Habits | Vegan value=0.0113 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Eating Habits | Eats meat value=0.6489 | relevance=0.97
+- [quant] ACORN_metropolitan_surroundings.csv | Eating Habits | Vegetarian value=0.0435 | relevance=0.95
+- [quant] ACORN_metropolitan_surroundings.csv | Eating Habits | Pescatarian, flexitarian, other value=0.2862 | relevance=0.92
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Eating Habits | Vegan | value=0.0113 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Eating Habits | Eats meat | value=0.6489 (file=ACORN_metropolitan_surroundings.csv, relevance=0.97)
+Eating Habits | Vegetarian | value=0.0435 (file=ACORN_metropolitan_surroundings.csv, relevance=0.95)
+Eating Habits | Pescatarian, flexitarian, other | value=0.2862 (file=ACORN_metropolitan_surroundings.csv, relevance=0.92)
+
+Qualitative summary:
+================================================== (file=metropolitan_surroundings_profile.txt, relevance=0.50)
+
+Weight hints:
+- Eating Habits -> Vegan (value=0.01)
+- Eating Habits -> Eats meat (value=0.65)
+- Eating Habits -> Vegetarian (value=0.04)
+- Eating Habits -> Pescatarian, flexitarian, other (value=0.29)
+- Quote: "=================================================="
+
+
+### Concept: Financial security after retirement is your own responsibility
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.1204 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Financial Attitudes | I only save for a specific purpose value=0.3360 | relevance=0.96
+- [quant] ACORN_metropolitan_surroundings.csv | Financial Attitudes | I trust financial price comparison sites value=0.4753 | relevance=0.95
+- [quant] ACORN_metropolitan_surroundings.csv | Financial Attitudes | Switching utilities suppliers is well worth the effort value=0.2945 | relevance=0.94
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Insurance and Pensions | Plans to use other investments for retirement | value=0.1204 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Financial Attitudes | I only save for a specific purpose | value=0.3360 (file=ACORN_metropolitan_surroundings.csv, relevance=0.96)
+Financial Attitudes | I trust financial price comparison sites | value=0.4753 (file=ACORN_metropolitan_surroundings.csv, relevance=0.95)
+Financial Attitudes | Switching utilities suppliers is well worth the effort | value=0.2945 (file=ACORN_metropolitan_surroundings.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=metropolitan_surroundings_profile.txt, relevance=0.50)
+
+Weight hints:
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.12)
+- Financial Attitudes -> I only save for a specific purpose (value=0.34)
+- Financial Attitudes -> I trust financial price comparison sites (value=0.48)
+- Financial Attitudes -> Switching utilities suppliers is well worth the effort (value=0.29)
+- Quote: "=================================================="
+
+
+### Concept: Switching utilities suppliers is well worth the effort
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Places They Visit | Sporting events value=0.2109 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates value=3615.7171 | relevance=0.96
+- [quant] ACORN_metropolitan_surroundings.csv | Places They Visit | Places of worship value=0.1625 | relevance=0.95
+- [quant] ACORN_metropolitan_surroundings.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=130.5040 | relevance=0.94
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Places They Visit | Sporting events | value=0.2109 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates | value=3615.7171 (file=ACORN_metropolitan_surroundings.csv, relevance=0.96)
+Places They Visit | Places of worship | value=0.1625 (file=ACORN_metropolitan_surroundings.csv, relevance=0.95)
+Outgoings | > Housing, water, electricity, gas and other fuels | value=130.5040 (file=ACORN_metropolitan_surroundings.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=metropolitan_surroundings_profile.txt, relevance=0.50)
+
+Weight hints:
+- Places They Visit -> Sporting events (value=0.21)
+- Outgoings -> Council tax, utilities, water, structure insurance, NI domestic rates (value=3615.72)
+- Places They Visit -> Places of worship (value=0.16)
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=130.50)
+- Quote: "=================================================="
+
+
+### Concept: I like to use cash when making purchases
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_metropolitan_surroundings.csv | Bought the last purchase online using any device | Alcoholic drinks value=0.2295 | relevance=0.98
+- [quant] ACORN_metropolitan_surroundings.csv | Bought the last purchase online using any device | Pet care value=0.2527 | relevance=0.96
+- [quant] ACORN_metropolitan_surroundings.csv | Bought the last purchase online using any device | Home appliances value=0.5131 | relevance=0.93
+- [quant] ACORN_metropolitan_surroundings.csv | Bought the last purchase online using any device | Holiday / travel value=0.6151 | relevance=0.91
+- [qual] metropolitan_surroundings_profile.txt | relevance=0.68 | ACORN Class: Metropolitan Surroundings
+
+Quantitative summary:
+Bought the last purchase online using any device | Alcoholic drinks | value=0.2295 (file=ACORN_metropolitan_surroundings.csv, relevance=0.98)
+Bought the last purchase online using any device | Pet care | value=0.2527 (file=ACORN_metropolitan_surroundings.csv, relevance=0.96)
+Bought the last purchase online using any device | Home appliances | value=0.5131 (file=ACORN_metropolitan_surroundings.csv, relevance=0.93)
+Bought the last purchase online using any device | Holiday / travel | value=0.6151 (file=ACORN_metropolitan_surroundings.csv, relevance=0.91)
+
+Qualitative summary:
+ACORN Class: Metropolitan Surroundings (file=metropolitan_surroundings_profile.txt, relevance=0.68)
+
+Weight hints:
+- Bought the last purchase online using any device -> Alcoholic drinks (value=0.23)
+- Bought the last purchase online using any device -> Pet care (value=0.25)
+- Bought the last purchase online using any device -> Home appliances (value=0.51)
+- Bought the last purchase online using any device -> Holiday / travel (value=0.62)
+- Quote: "ACORN Class: Metropolitan Surroundings"
+

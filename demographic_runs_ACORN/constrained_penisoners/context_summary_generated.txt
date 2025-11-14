@@ -1,0 +1,307 @@
+### Concept: Concept
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Country of Birth | Rest of Europe value=0.0170 | relevance=0.80
+- [quant] ACORN_constrained_penisoners.csv | Manage current account | By phone value=0.1182 | relevance=0.79
+- [quant] ACORN_constrained_penisoners.csv | Arrange current account | By phone value=0.0330 | relevance=0.77
+- [quant] ACORN_constrained_penisoners.csv | Country of Birth | Other value=0.0196 | relevance=0.76
+- [qual] constrained_penisoners_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Country of Birth | Rest of Europe | value=0.0170 (file=ACORN_constrained_penisoners.csv, relevance=0.80)
+Manage current account | By phone | value=0.1182 (file=ACORN_constrained_penisoners.csv, relevance=0.79)
+Arrange current account | By phone | value=0.0330 (file=ACORN_constrained_penisoners.csv, relevance=0.77)
+Country of Birth | Other | value=0.0196 (file=ACORN_constrained_penisoners.csv, relevance=0.76)
+
+Qualitative summary:
+================================================== (file=constrained_penisoners_profile.txt, relevance=0.50)
+
+Weight hints:
+- Country of Birth -> Rest of Europe (value=0.02)
+- Manage current account -> By phone (value=0.12)
+- Arrange current account -> By phone (value=0.03)
+- Country of Birth -> Other (value=0.02)
+- Quote: "=================================================="
+
+
+### Concept: I think brands should consider environmental sustainability when putting on events
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Attitudes | I consider myself an environmentalist value=0.0722 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Attitudes | I think energy companies do not care about the environment value=0.2935 | relevance=0.94
+- [quant] ACORN_constrained_penisoners.csv | Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) value=0.3538 | relevance=0.91
+- [quant] ACORN_constrained_penisoners.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.0974 | relevance=0.89
+- [qual] constrained_penisoners_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | I consider myself an environmentalist | value=0.0722 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2935 (file=ACORN_constrained_penisoners.csv, relevance=0.94)
+Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) | value=0.3538 (file=ACORN_constrained_penisoners.csv, relevance=0.91)
+Insurance and Pensions | Plans to use other investments for retirement | value=0.0974 (file=ACORN_constrained_penisoners.csv, relevance=0.89)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=constrained_penisoners_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> I consider myself an environmentalist (value=0.07)
+- Attitudes -> I think energy companies do not care about the environment (value=0.29)
+- Bought the last purchase online using any device -> Entertainment tickets (e.g. movie, theater, festivals, sporting events) (value=0.35)
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.10)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Make an effort to cut down on the use of gas / electricity at home
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=76.7069 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Financial Attitudes | I love the ease of using chat bots to get answers value=0.2008 | relevance=0.97
+- [quant] ACORN_constrained_penisoners.csv | Digital Attitudes | Computers confuse me, I'll never get used to them value=0.1576 | relevance=0.93
+- [quant] ACORN_constrained_penisoners.csv | Attitudes | I make an effort to support local businesses value=0.1256 | relevance=0.92
+- [qual] constrained_penisoners_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Outgoings | > Housing, water, electricity, gas and other fuels | value=76.7069 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Financial Attitudes | I love the ease of using chat bots to get answers | value=0.2008 (file=ACORN_constrained_penisoners.csv, relevance=0.97)
+Digital Attitudes | Computers confuse me, I'll never get used to them | value=0.1576 (file=ACORN_constrained_penisoners.csv, relevance=0.93)
+Attitudes | I make an effort to support local businesses | value=0.1256 (file=ACORN_constrained_penisoners.csv, relevance=0.92)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=constrained_penisoners_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=76.71)
+- Financial Attitudes -> I love the ease of using chat bots to get answers (value=0.20)
+- Digital Attitudes -> Computers confuse me, I'll never get used to them (value=0.16)
+- Attitudes -> I make an effort to support local businesses (value=0.13)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Fuel consumption is the most important feature when buying a new car
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Action | Important when buying a car: environmentally friendly / low co2 emissions value=0.3093 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Attitudes | I think energy companies do not care about the environment value=0.2935 | relevance=0.86
+- [quant] ACORN_constrained_penisoners.csv | Financial Attitudes | It is important to be well insured for everything value=0.1098 | relevance=0.83
+- [quant] ACORN_constrained_penisoners.csv | Researched the last purchase online before buying | Pet care value=0.1687 | relevance=0.81
+- [qual] constrained_penisoners_profile.txt | relevance=0.68 | ACORN Class: Constrained Penisoners
+
+Quantitative summary:
+Action | Important when buying a car: environmentally friendly / low co2 emissions | value=0.3093 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2935 (file=ACORN_constrained_penisoners.csv, relevance=0.86)
+Financial Attitudes | It is important to be well insured for everything | value=0.1098 (file=ACORN_constrained_penisoners.csv, relevance=0.83)
+Researched the last purchase online before buying | Pet care | value=0.1687 (file=ACORN_constrained_penisoners.csv, relevance=0.81)
+
+Qualitative summary:
+ACORN Class: Constrained Penisoners (file=constrained_penisoners_profile.txt, relevance=0.68)
+
+Weight hints:
+- Action -> Important when buying a car: environmentally friendly / low co2 emissions (value=0.31)
+- Attitudes -> I think energy companies do not care about the environment (value=0.29)
+- Financial Attitudes -> It is important to be well insured for everything (value=0.11)
+- Researched the last purchase online before buying -> Pet care (value=0.17)
+- Quote: "ACORN Class: Constrained Penisoners"
+
+
+### Concept: I don't like the idea of being in debt
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Interests & Hobbies | Helping out in the community value=0.0748 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Attitudes | Climate change is the biggest threat to civilisation value=0.2105 | relevance=0.96
+- [quant] ACORN_constrained_penisoners.csv | House Move | Individual likely to move value=0.2941 | relevance=0.94
+- [quant] ACORN_constrained_penisoners.csv | Financial Attitudes | I do not mind taking risks with my money value=0.1654 | relevance=0.91
+- [qual] constrained_penisoners_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Interests & Hobbies | Helping out in the community | value=0.0748 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Attitudes | Climate change is the biggest threat to civilisation | value=0.2105 (file=ACORN_constrained_penisoners.csv, relevance=0.96)
+House Move | Individual likely to move | value=0.2941 (file=ACORN_constrained_penisoners.csv, relevance=0.94)
+Financial Attitudes | I do not mind taking risks with my money | value=0.1654 (file=ACORN_constrained_penisoners.csv, relevance=0.91)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=constrained_penisoners_profile.txt, relevance=0.68)
+
+Weight hints:
+- Interests & Hobbies -> Helping out in the community (value=0.07)
+- Attitudes -> Climate change is the biggest threat to civilisation (value=0.21)
+- House Move -> Individual likely to move (value=0.29)
+- Financial Attitudes -> I do not mind taking risks with my money (value=0.17)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I am very good at managing money
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Outgoings | > Miscellaneous goods and services value=18.3587 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Crime Survey for England - Very Worried About: | Having my car stolen value=0.0843 | relevance=0.96
+- [quant] ACORN_constrained_penisoners.csv | Manage savings account | Online at home or work value=0.1861 | relevance=0.94
+- [quant] ACORN_constrained_penisoners.csv | Car type | Main car: Privately owned value=0.6557 | relevance=0.88
+- [qual] constrained_penisoners_profile.txt | relevance=0.68 | ACORN Class: Constrained Penisoners
+
+Quantitative summary:
+Outgoings | > Miscellaneous goods and services | value=18.3587 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Crime Survey for England - Very Worried About: | Having my car stolen | value=0.0843 (file=ACORN_constrained_penisoners.csv, relevance=0.96)
+Manage savings account | Online at home or work | value=0.1861 (file=ACORN_constrained_penisoners.csv, relevance=0.94)
+Car type | Main car: Privately owned | value=0.6557 (file=ACORN_constrained_penisoners.csv, relevance=0.88)
+
+Qualitative summary:
+ACORN Class: Constrained Penisoners (file=constrained_penisoners_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Miscellaneous goods and services (value=18.36)
+- Crime Survey for England - Very Worried About: -> Having my car stolen (value=0.08)
+- Manage savings account -> Online at home or work (value=0.19)
+- Car type -> Main car: Privately owned (value=0.66)
+- Quote: "ACORN Class: Constrained Penisoners"
+
+
+### Concept: It is important to be well insured for everything
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Attitudes | Fuel consumption is the most important feature when buying a new car value=0.1900 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Tend to look out for adverts on | Cinema products value=0.1718 | relevance=0.93
+- [quant] ACORN_constrained_penisoners.csv | Clothing & Footwear Stores | Mass Market value=0.4997 | relevance=0.92
+- [quant] ACORN_constrained_penisoners.csv | Tend to look out for adverts on | Soft drinks products value=0.1337 | relevance=0.90
+- [qual] constrained_penisoners_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | Fuel consumption is the most important feature when buying a new car | value=0.1900 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Tend to look out for adverts on | Cinema products | value=0.1718 (file=ACORN_constrained_penisoners.csv, relevance=0.93)
+Clothing & Footwear Stores | Mass Market | value=0.4997 (file=ACORN_constrained_penisoners.csv, relevance=0.92)
+Tend to look out for adverts on | Soft drinks products | value=0.1337 (file=ACORN_constrained_penisoners.csv, relevance=0.90)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=constrained_penisoners_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> Fuel consumption is the most important feature when buying a new car (value=0.19)
+- Tend to look out for adverts on -> Cinema products (value=0.17)
+- Clothing & Footwear Stores -> Mass Market (value=0.50)
+- Tend to look out for adverts on -> Soft drinks products (value=0.13)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Healthy Eating
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Eating Habits | Vegan value=0.0278 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Eating Habits | Eats meat value=0.7740 | relevance=0.97
+- [quant] ACORN_constrained_penisoners.csv | Eating Habits | Vegetarian value=0.0321 | relevance=0.95
+- [quant] ACORN_constrained_penisoners.csv | Eating Habits | Pescatarian, flexitarian, other value=0.1756 | relevance=0.92
+- [qual] constrained_penisoners_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Eating Habits | Vegan | value=0.0278 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Eating Habits | Eats meat | value=0.7740 (file=ACORN_constrained_penisoners.csv, relevance=0.97)
+Eating Habits | Vegetarian | value=0.0321 (file=ACORN_constrained_penisoners.csv, relevance=0.95)
+Eating Habits | Pescatarian, flexitarian, other | value=0.1756 (file=ACORN_constrained_penisoners.csv, relevance=0.92)
+
+Qualitative summary:
+================================================== (file=constrained_penisoners_profile.txt, relevance=0.50)
+
+Weight hints:
+- Eating Habits -> Vegan (value=0.03)
+- Eating Habits -> Eats meat (value=0.77)
+- Eating Habits -> Vegetarian (value=0.03)
+- Eating Habits -> Pescatarian, flexitarian, other (value=0.18)
+- Quote: "=================================================="
+
+
+### Concept: Financial security after retirement is your own responsibility
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.0974 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Financial Attitudes | I only save for a specific purpose value=0.3525 | relevance=0.91
+- [quant] ACORN_constrained_penisoners.csv | Financial Attitudes | I trust financial price comparison sites value=0.4944 | relevance=0.89
+- [quant] ACORN_constrained_penisoners.csv | Financial Attitudes | Switching utilities suppliers is well worth the effort value=0.2871 | relevance=0.87
+- [qual] constrained_penisoners_profile.txt | relevance=0.68 | ACORN Class: Constrained Penisoners
+
+Quantitative summary:
+Insurance and Pensions | Plans to use other investments for retirement | value=0.0974 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Financial Attitudes | I only save for a specific purpose | value=0.3525 (file=ACORN_constrained_penisoners.csv, relevance=0.91)
+Financial Attitudes | I trust financial price comparison sites | value=0.4944 (file=ACORN_constrained_penisoners.csv, relevance=0.89)
+Financial Attitudes | Switching utilities suppliers is well worth the effort | value=0.2871 (file=ACORN_constrained_penisoners.csv, relevance=0.87)
+
+Qualitative summary:
+ACORN Class: Constrained Penisoners (file=constrained_penisoners_profile.txt, relevance=0.68)
+
+Weight hints:
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.10)
+- Financial Attitudes -> I only save for a specific purpose (value=0.35)
+- Financial Attitudes -> I trust financial price comparison sites (value=0.49)
+- Financial Attitudes -> Switching utilities suppliers is well worth the effort (value=0.29)
+- Quote: "ACORN Class: Constrained Penisoners"
+
+
+### Concept: Switching utilities suppliers is well worth the effort
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Places They Visit | Sporting events value=0.1416 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates value=1733.9645 | relevance=0.91
+- [quant] ACORN_constrained_penisoners.csv | Places They Visit | Places of worship value=0.0821 | relevance=0.90
+- [quant] ACORN_constrained_penisoners.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=76.7069 | relevance=0.88
+- [qual] constrained_penisoners_profile.txt | relevance=0.68 | ACORN Class: Constrained Penisoners
+
+Quantitative summary:
+Places They Visit | Sporting events | value=0.1416 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates | value=1733.9645 (file=ACORN_constrained_penisoners.csv, relevance=0.91)
+Places They Visit | Places of worship | value=0.0821 (file=ACORN_constrained_penisoners.csv, relevance=0.90)
+Outgoings | > Housing, water, electricity, gas and other fuels | value=76.7069 (file=ACORN_constrained_penisoners.csv, relevance=0.88)
+
+Qualitative summary:
+ACORN Class: Constrained Penisoners (file=constrained_penisoners_profile.txt, relevance=0.68)
+
+Weight hints:
+- Places They Visit -> Sporting events (value=0.14)
+- Outgoings -> Council tax, utilities, water, structure insurance, NI domestic rates (value=1733.96)
+- Places They Visit -> Places of worship (value=0.08)
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=76.71)
+- Quote: "ACORN Class: Constrained Penisoners"
+
+
+### Concept: I like to use cash when making purchases
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_constrained_penisoners.csv | Bought the last purchase online using any device | Alcoholic drinks value=0.1692 | relevance=0.98
+- [quant] ACORN_constrained_penisoners.csv | Bought the last purchase online using any device | Pet care value=0.2101 | relevance=0.96
+- [quant] ACORN_constrained_penisoners.csv | Bought the last purchase online using any device | Home appliances value=0.5217 | relevance=0.93
+- [quant] ACORN_constrained_penisoners.csv | Bought the last purchase online using any device | Holiday / travel value=0.5069 | relevance=0.91
+- [qual] constrained_penisoners_profile.txt | relevance=0.68 | ACORN Class: Constrained Penisoners
+
+Quantitative summary:
+Bought the last purchase online using any device | Alcoholic drinks | value=0.1692 (file=ACORN_constrained_penisoners.csv, relevance=0.98)
+Bought the last purchase online using any device | Pet care | value=0.2101 (file=ACORN_constrained_penisoners.csv, relevance=0.96)
+Bought the last purchase online using any device | Home appliances | value=0.5217 (file=ACORN_constrained_penisoners.csv, relevance=0.93)
+Bought the last purchase online using any device | Holiday / travel | value=0.5069 (file=ACORN_constrained_penisoners.csv, relevance=0.91)
+
+Qualitative summary:
+ACORN Class: Constrained Penisoners (file=constrained_penisoners_profile.txt, relevance=0.68)
+
+Weight hints:
+- Bought the last purchase online using any device -> Alcoholic drinks (value=0.17)
+- Bought the last purchase online using any device -> Pet care (value=0.21)
+- Bought the last purchase online using any device -> Home appliances (value=0.52)
+- Bought the last purchase online using any device -> Holiday / travel (value=0.51)
+- Quote: "ACORN Class: Constrained Penisoners"
+

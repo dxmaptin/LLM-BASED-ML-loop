@@ -1,0 +1,96 @@
+================================================================================
+EXPERIMENT 2: OCR + LLM (UPDATED)
+================================================================================
+
+Image: Witty Optimist_FY25.S&G Be Me Body Sprays.JPG
+Method: Image → GPT-4o Vision OCR → gpt-4o Enhancement
+Note: Using GPT-4o Vision as OCR (Tesseract alternative)
+================================================================================
+
+RAW OCR OUTPUT:
+--------------------------------------------------------------------------------
+```plaintext
+SOAP&GLORY
+
+‘Be Me’ Body Sprays from Soap & Glory
+
+Don’t be a copy cat! Mark your territory with your personalised scent
+
+” I like to wear different fragrance for different occasions and its nice to find something unique, but my budget doesn’t allow for all of this”
+
+Soap & Glory have concocted 3 body spray (100ml) mists each containing a secret sssshhh…magic ingredient which will adapt to your own skin to make you smell as gloriously individual as you are.
+Top off your pampering regime with a long lasting fine fragrance experience…without the premium price tag!
+
+Designed to compliment Soap & Glory’s existing fragrance families of bodycare, they are available in 3 olfactive bases for bottom notes and the rest comes from you!
+FLORAL OP / CITRUS / GOURMAND
+
+CLEAN
+Dermatologist approved
+No nasties
+
+INNOVATIVE
+Scent adapting 
+molecules 
+Long lasting claim
+
+100% VEGAN
+Not tested on 
+animals...just picky 
+humans!
+
+Citrus
+
+Gourmand
+
+Floral
+```
+
+================================================================================
+
+LLM ENHANCED OUTPUT:
+--------------------------------------------------------------------------------
+### Product Concept Interpretation
+
+**Brand:**
+- Soap & Glory
+
+**Product Name:**
+- 'Be Me' Body Sprays
+
+**Product Description:**
+- The 'Be Me' Body Sprays are personalized fragrances designed to offer unique scents for different occasions without breaking the budget. Each scent adjusts to individual skin chemistry to provide a distinct aroma.
+
+**Product Category:**
+- Body Spray/Fragrance
+
+**Key Claims and Benefits:**
+- Personalized scent that adapts to your own skin.
+- Offers a fine fragrance experience similar to high-end products without the premium price tag.
+- Designed to complement existing Soap & Glory fragrance families in body care.
+- Features long-lasting scent with scent-adapting molecules.
+- 100% vegan and cruelty-free; not tested on animals.
+
+**Ingredients or Formulation Details:**
+- Contains a secret fragrance ingredient that adapts to individual skin chemistry.
+- Dermatologist approved and free from harmful ingredients ("No nasties").
+
+**Packaging Format and Specifications:**
+- Available in 100ml spray mist bottles.
+
+**Usage Instructions:**
+- To be used as part of your pampering regime for a personalized fragrance experience.
+
+**Price and Size Information:**
+- The product emphasizes affordability but specific price details are not provided. The size is a 100ml bottle.
+
+**Taglines or Marketing Messages:**
+- "Don’t be a copy cat! Mark your territory with your personalized scent."
+- "Top off your pampering regime with a long-lasting fine fragrance experience...without the premium price tag!"
+- Categorized under three scent bases: Floral, Citrus, Gourmand.
+- "Dermatologist approved," "No nasties," and "100% VEGAN."
+
+**Critical Information Missing or Unclear:**
+- Specific pricing information is not included.
+- Detailed ingredient list beyond the secret ingredient is not provided.
+- Actual notes or specific fragrance components within each olfactive base (Floral, Citrus, Gourmand) are not detailed.
+- Specific usage instructions are quite general and could be elaborated for better consumer guidance.

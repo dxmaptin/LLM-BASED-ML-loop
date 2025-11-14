@@ -1,0 +1,307 @@
+### Concept: Concept
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Country of Birth | Rest of Europe value=0.0170 | relevance=0.80
+- [quant] ACORN_cash-strapped_families.csv | Manage current account | By phone value=0.1417 | relevance=0.79
+- [quant] ACORN_cash-strapped_families.csv | Arrange current account | By phone value=0.0543 | relevance=0.77
+- [quant] ACORN_cash-strapped_families.csv | Country of Birth | Other value=0.0580 | relevance=0.76
+- [qual] cash-strapped_families_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Country of Birth | Rest of Europe | value=0.0170 (file=ACORN_cash-strapped_families.csv, relevance=0.80)
+Manage current account | By phone | value=0.1417 (file=ACORN_cash-strapped_families.csv, relevance=0.79)
+Arrange current account | By phone | value=0.0543 (file=ACORN_cash-strapped_families.csv, relevance=0.77)
+Country of Birth | Other | value=0.0580 (file=ACORN_cash-strapped_families.csv, relevance=0.76)
+
+Qualitative summary:
+================================================== (file=cash-strapped_families_profile.txt, relevance=0.50)
+
+Weight hints:
+- Country of Birth -> Rest of Europe (value=0.02)
+- Manage current account -> By phone (value=0.14)
+- Arrange current account -> By phone (value=0.05)
+- Country of Birth -> Other (value=0.06)
+- Quote: "=================================================="
+
+
+### Concept: I think brands should consider environmental sustainability when putting on events
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Attitudes | I consider myself an environmentalist value=0.0835 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Attitudes | I think energy companies do not care about the environment value=0.3187 | relevance=0.94
+- [quant] ACORN_cash-strapped_families.csv | Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) value=0.4264 | relevance=0.91
+- [quant] ACORN_cash-strapped_families.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.0819 | relevance=0.89
+- [qual] cash-strapped_families_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | I consider myself an environmentalist | value=0.0835 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.3187 (file=ACORN_cash-strapped_families.csv, relevance=0.94)
+Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) | value=0.4264 (file=ACORN_cash-strapped_families.csv, relevance=0.91)
+Insurance and Pensions | Plans to use other investments for retirement | value=0.0819 (file=ACORN_cash-strapped_families.csv, relevance=0.89)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=cash-strapped_families_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> I consider myself an environmentalist (value=0.08)
+- Attitudes -> I think energy companies do not care about the environment (value=0.32)
+- Bought the last purchase online using any device -> Entertainment tickets (e.g. movie, theater, festivals, sporting events) (value=0.43)
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.08)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Make an effort to cut down on the use of gas / electricity at home
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=90.2820 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Financial Attitudes | I love the ease of using chat bots to get answers value=0.3000 | relevance=0.97
+- [quant] ACORN_cash-strapped_families.csv | Digital Attitudes | Computers confuse me, I'll never get used to them value=0.1576 | relevance=0.93
+- [quant] ACORN_cash-strapped_families.csv | Attitudes | I make an effort to support local businesses value=0.1460 | relevance=0.92
+- [qual] cash-strapped_families_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Outgoings | > Housing, water, electricity, gas and other fuels | value=90.2820 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Financial Attitudes | I love the ease of using chat bots to get answers | value=0.3000 (file=ACORN_cash-strapped_families.csv, relevance=0.97)
+Digital Attitudes | Computers confuse me, I'll never get used to them | value=0.1576 (file=ACORN_cash-strapped_families.csv, relevance=0.93)
+Attitudes | I make an effort to support local businesses | value=0.1460 (file=ACORN_cash-strapped_families.csv, relevance=0.92)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=cash-strapped_families_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=90.28)
+- Financial Attitudes -> I love the ease of using chat bots to get answers (value=0.30)
+- Digital Attitudes -> Computers confuse me, I'll never get used to them (value=0.16)
+- Attitudes -> I make an effort to support local businesses (value=0.15)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Fuel consumption is the most important feature when buying a new car
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Action | Important when buying a car: environmentally friendly / low co2 emissions value=0.3007 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Attitudes | I think energy companies do not care about the environment value=0.3187 | relevance=0.86
+- [quant] ACORN_cash-strapped_families.csv | Financial Attitudes | It is important to be well insured for everything value=0.1239 | relevance=0.83
+- [quant] ACORN_cash-strapped_families.csv | Researched the last purchase online before buying | Pet care value=0.2257 | relevance=0.81
+- [qual] cash-strapped_families_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Action | Important when buying a car: environmentally friendly / low co2 emissions | value=0.3007 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.3187 (file=ACORN_cash-strapped_families.csv, relevance=0.86)
+Financial Attitudes | It is important to be well insured for everything | value=0.1239 (file=ACORN_cash-strapped_families.csv, relevance=0.83)
+Researched the last purchase online before buying | Pet care | value=0.2257 (file=ACORN_cash-strapped_families.csv, relevance=0.81)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=cash-strapped_families_profile.txt, relevance=0.68)
+
+Weight hints:
+- Action -> Important when buying a car: environmentally friendly / low co2 emissions (value=0.30)
+- Attitudes -> I think energy companies do not care about the environment (value=0.32)
+- Financial Attitudes -> It is important to be well insured for everything (value=0.12)
+- Researched the last purchase online before buying -> Pet care (value=0.23)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I don't like the idea of being in debt
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Interests & Hobbies | Helping out in the community value=0.0698 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Attitudes | Climate change is the biggest threat to civilisation value=0.2375 | relevance=0.96
+- [quant] ACORN_cash-strapped_families.csv | House Move | Individual likely to move value=0.2068 | relevance=0.94
+- [quant] ACORN_cash-strapped_families.csv | Financial Attitudes | I do not mind taking risks with my money value=0.2214 | relevance=0.91
+- [qual] cash-strapped_families_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Interests & Hobbies | Helping out in the community | value=0.0698 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Attitudes | Climate change is the biggest threat to civilisation | value=0.2375 (file=ACORN_cash-strapped_families.csv, relevance=0.96)
+House Move | Individual likely to move | value=0.2068 (file=ACORN_cash-strapped_families.csv, relevance=0.94)
+Financial Attitudes | I do not mind taking risks with my money | value=0.2214 (file=ACORN_cash-strapped_families.csv, relevance=0.91)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=cash-strapped_families_profile.txt, relevance=0.68)
+
+Weight hints:
+- Interests & Hobbies -> Helping out in the community (value=0.07)
+- Attitudes -> Climate change is the biggest threat to civilisation (value=0.24)
+- House Move -> Individual likely to move (value=0.21)
+- Financial Attitudes -> I do not mind taking risks with my money (value=0.22)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I am very good at managing money
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Outgoings | > Miscellaneous goods and services value=22.6402 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Crime Survey for England - Very Worried About: | Having my car stolen value=0.0858 | relevance=0.96
+- [quant] ACORN_cash-strapped_families.csv | Manage savings account | Online at home or work value=0.1302 | relevance=0.95
+- [quant] ACORN_cash-strapped_families.csv | Car type | Main car: Privately owned value=0.5942 | relevance=0.92
+- [qual] cash-strapped_families_profile.txt | relevance=0.68 | ACORN Class: Cash-Strapped Families
+
+Quantitative summary:
+Outgoings | > Miscellaneous goods and services | value=22.6402 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Crime Survey for England - Very Worried About: | Having my car stolen | value=0.0858 (file=ACORN_cash-strapped_families.csv, relevance=0.96)
+Manage savings account | Online at home or work | value=0.1302 (file=ACORN_cash-strapped_families.csv, relevance=0.95)
+Car type | Main car: Privately owned | value=0.5942 (file=ACORN_cash-strapped_families.csv, relevance=0.92)
+
+Qualitative summary:
+ACORN Class: Cash-Strapped Families (file=cash-strapped_families_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Miscellaneous goods and services (value=22.64)
+- Crime Survey for England - Very Worried About: -> Having my car stolen (value=0.09)
+- Manage savings account -> Online at home or work (value=0.13)
+- Car type -> Main car: Privately owned (value=0.59)
+- Quote: "ACORN Class: Cash-Strapped Families"
+
+
+### Concept: It is important to be well insured for everything
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Attitudes | Fuel consumption is the most important feature when buying a new car value=0.1888 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Tend to look out for adverts on | Cinema products value=0.2418 | relevance=0.93
+- [quant] ACORN_cash-strapped_families.csv | Clothing & Footwear Stores | Mass Market value=0.5197 | relevance=0.92
+- [quant] ACORN_cash-strapped_families.csv | Tend to look out for adverts on | Soft drinks products value=0.2072 | relevance=0.90
+- [qual] cash-strapped_families_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | Fuel consumption is the most important feature when buying a new car | value=0.1888 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Tend to look out for adverts on | Cinema products | value=0.2418 (file=ACORN_cash-strapped_families.csv, relevance=0.93)
+Clothing & Footwear Stores | Mass Market | value=0.5197 (file=ACORN_cash-strapped_families.csv, relevance=0.92)
+Tend to look out for adverts on | Soft drinks products | value=0.2072 (file=ACORN_cash-strapped_families.csv, relevance=0.90)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=cash-strapped_families_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> Fuel consumption is the most important feature when buying a new car (value=0.19)
+- Tend to look out for adverts on -> Cinema products (value=0.24)
+- Clothing & Footwear Stores -> Mass Market (value=0.52)
+- Tend to look out for adverts on -> Soft drinks products (value=0.21)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Healthy Eating
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Eating Habits | Vegan value=0.0144 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Eating Habits | Eats meat value=0.7740 | relevance=0.97
+- [quant] ACORN_cash-strapped_families.csv | Eating Habits | Vegetarian value=0.0345 | relevance=0.95
+- [quant] ACORN_cash-strapped_families.csv | Eating Habits | Pescatarian, flexitarian, other value=0.1780 | relevance=0.92
+- [qual] cash-strapped_families_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Eating Habits | Vegan | value=0.0144 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Eating Habits | Eats meat | value=0.7740 (file=ACORN_cash-strapped_families.csv, relevance=0.97)
+Eating Habits | Vegetarian | value=0.0345 (file=ACORN_cash-strapped_families.csv, relevance=0.95)
+Eating Habits | Pescatarian, flexitarian, other | value=0.1780 (file=ACORN_cash-strapped_families.csv, relevance=0.92)
+
+Qualitative summary:
+================================================== (file=cash-strapped_families_profile.txt, relevance=0.50)
+
+Weight hints:
+- Eating Habits -> Vegan (value=0.01)
+- Eating Habits -> Eats meat (value=0.77)
+- Eating Habits -> Vegetarian (value=0.03)
+- Eating Habits -> Pescatarian, flexitarian, other (value=0.18)
+- Quote: "=================================================="
+
+
+### Concept: Financial security after retirement is your own responsibility
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.0819 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Financial Attitudes | I only save for a specific purpose value=0.3971 | relevance=0.96
+- [quant] ACORN_cash-strapped_families.csv | Financial Attitudes | I trust financial price comparison sites value=0.4835 | relevance=0.95
+- [quant] ACORN_cash-strapped_families.csv | Financial Attitudes | Switching utilities suppliers is well worth the effort value=0.3147 | relevance=0.94
+- [qual] cash-strapped_families_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Insurance and Pensions | Plans to use other investments for retirement | value=0.0819 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Financial Attitudes | I only save for a specific purpose | value=0.3971 (file=ACORN_cash-strapped_families.csv, relevance=0.96)
+Financial Attitudes | I trust financial price comparison sites | value=0.4835 (file=ACORN_cash-strapped_families.csv, relevance=0.95)
+Financial Attitudes | Switching utilities suppliers is well worth the effort | value=0.3147 (file=ACORN_cash-strapped_families.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=cash-strapped_families_profile.txt, relevance=0.50)
+
+Weight hints:
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.08)
+- Financial Attitudes -> I only save for a specific purpose (value=0.40)
+- Financial Attitudes -> I trust financial price comparison sites (value=0.48)
+- Financial Attitudes -> Switching utilities suppliers is well worth the effort (value=0.31)
+- Quote: "=================================================="
+
+
+### Concept: Switching utilities suppliers is well worth the effort
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Places They Visit | Sporting events value=0.1687 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates value=1992.2161 | relevance=0.96
+- [quant] ACORN_cash-strapped_families.csv | Places They Visit | Places of worship value=0.0920 | relevance=0.95
+- [quant] ACORN_cash-strapped_families.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=90.2820 | relevance=0.94
+- [qual] cash-strapped_families_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Places They Visit | Sporting events | value=0.1687 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates | value=1992.2161 (file=ACORN_cash-strapped_families.csv, relevance=0.96)
+Places They Visit | Places of worship | value=0.0920 (file=ACORN_cash-strapped_families.csv, relevance=0.95)
+Outgoings | > Housing, water, electricity, gas and other fuels | value=90.2820 (file=ACORN_cash-strapped_families.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=cash-strapped_families_profile.txt, relevance=0.50)
+
+Weight hints:
+- Places They Visit -> Sporting events (value=0.17)
+- Outgoings -> Council tax, utilities, water, structure insurance, NI domestic rates (value=1992.22)
+- Places They Visit -> Places of worship (value=0.09)
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=90.28)
+- Quote: "=================================================="
+
+
+### Concept: I like to use cash when making purchases
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_cash-strapped_families.csv | Bought the last purchase online using any device | Alcoholic drinks value=0.2221 | relevance=0.98
+- [quant] ACORN_cash-strapped_families.csv | Bought the last purchase online using any device | Pet care value=0.2382 | relevance=0.96
+- [quant] ACORN_cash-strapped_families.csv | Bought the last purchase online using any device | Home appliances value=0.5366 | relevance=0.94
+- [quant] ACORN_cash-strapped_families.csv | Bought the last purchase online using any device | Holiday / travel value=0.5191 | relevance=0.92
+- [qual] cash-strapped_families_profile.txt | relevance=0.68 | ACORN Class: Cash-Strapped Families
+
+Quantitative summary:
+Bought the last purchase online using any device | Alcoholic drinks | value=0.2221 (file=ACORN_cash-strapped_families.csv, relevance=0.98)
+Bought the last purchase online using any device | Pet care | value=0.2382 (file=ACORN_cash-strapped_families.csv, relevance=0.96)
+Bought the last purchase online using any device | Home appliances | value=0.5366 (file=ACORN_cash-strapped_families.csv, relevance=0.94)
+Bought the last purchase online using any device | Holiday / travel | value=0.5191 (file=ACORN_cash-strapped_families.csv, relevance=0.92)
+
+Qualitative summary:
+ACORN Class: Cash-Strapped Families (file=cash-strapped_families_profile.txt, relevance=0.68)
+
+Weight hints:
+- Bought the last purchase online using any device -> Alcoholic drinks (value=0.22)
+- Bought the last purchase online using any device -> Pet care (value=0.24)
+- Bought the last purchase online using any device -> Home appliances (value=0.54)
+- Bought the last purchase online using any device -> Holiday / travel (value=0.52)
+- Quote: "ACORN Class: Cash-Strapped Families"
+

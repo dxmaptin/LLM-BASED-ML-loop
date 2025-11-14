@@ -1,0 +1,50 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_Jan24.Girls Night Out refresh queen.jpg
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**: 
+   - Product Name: Refresh Queen
+   - Brand: Soap & Glory
+
+2. **Product Description**:
+   - A mid party refresh wipe and fragranced top up.
+   - "When things get a little heated on the dancefloor, the bathroom becomes your sanctuary, a place to regroup with the girls and freshen up. The Soap & Glory Refresh Queen wipes are both cleansing and fragranced, there to wipe the sweat away and reapply a delicious fragrance to the skin, beautifully packaged in discrete, shareable, portable packs."
+
+3. **Product Category**: Wipes
+
+4. **Key Claims/Benefits**:
+   - Cleansing and fragranced
+   - PH-balanced wipes remove dirt without damaging skin barrier
+   - Contains cucumber and aloe extracts to nourish and cleanse skin
+   - Packaged in discrete, shareable, portable packs
+
+5. **Ingredients**:
+   - Cucumber and aloe extracts
+   - PH-balanced formula
+
+6. **Packaging Information**:
+   - Wipes enclosed within single biodegradable packs
+   - 25 wipes per pack
+   - Price: £4.99
+
+7. **Usage Instructions**:
+   - Use a single wipe anywhere on the body including any sweaty areas
+
+8. **Visual Design Elements**:
+   - **Color scheme and dominant colors**: Purple, pink, black, and white
+   - **Imagery**: Lifestyle imagery with models; illustrations of people using the product
+   - **Badges, labels, or special callouts**: "S&G Scent" badge
+   - **Overall design style**: Playful and casual
+
+9. **Target Audience Signals**:
+   - The imagery and text suggest the product is aimed at women who are out for the night or at parties.
+
+10. **Any Additional Text**:
+    - "GIRLS NIGHT OUT"
+    - "Introducing Soap & Glory’s… Girls Night Out Collection"
+
+The visual and textual elements suggest a focus on convenient, on-the-go personal care aimed at women in social settings. The packaging and branding are playful and stylish, aligning with the youthful, vibrant target audience.

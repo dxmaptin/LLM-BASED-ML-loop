@@ -1,0 +1,56 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_Jan24.Wakeup Glorious soak.jpg
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**: 
+   - Product Name: Slumberland Soak
+   - Brand: Soap & Glory
+
+2. **Product Description**: 
+   - "Soap & Glory’s new Slumberland Soak salts are the ultimate bath-time luxury, designed to melt away stress and prime your body for a restful sleep. The hand-selected salts are uniquely formulated with magnesium and infused with a specialist blend of amber, vanilla and geranium. As you sink into the warm, aromatic waters, the salts work their magic, enveloping you in a cocoon of calm. The naturally active fragrance triggers soothe your senses and ease your mind as the first step in your routine for recharging your body."
+
+3. **Product Category**: 
+   - Bath soak salts
+
+4. **Key Claims/Benefits**: 
+   - Relaxing magnesium bath soak salts to soothe the senses and indulge the body
+   - Ultimate bath-time luxury
+   - Melts away stress
+   - Primes body for a restful sleep
+   - Soothes tired muscles
+   - Naturally active fragrance
+   - Triggers relaxation
+   - Brings a cocoon of calm
+
+5. **Ingredients**: 
+   - Active ingredients: Magnesium sulphate, naturally active essential oils
+   - Fragrance: Amber, vanilla, and geranium
+
+6. **Packaging Information**: 
+   - Format: Transparent glass jar including a salt measuring spoon
+   - Size: 350 g
+   - Price: £9.99
+
+7. **Usage Instructions**:
+   1. "Pour 2 tablespoons of the product into hot running water as you fill the bathtub. Adjust to desired level of fragrance."
+   2. "Submerge your body into the water and soak for 10-20 minutes."
+
+8. **Visual Design Elements**:
+   - Color scheme and dominant colors: Pink, white, and hints of orange
+   - Imagery: Combination of product and lifestyle imagery; illustration of soaking in a bath
+   - Badges/labels: "New Scent"
+   - Design style: Relaxing, indulgent, and slightly playful
+
+9. **Target Audience Signals**: 
+   - The soothing and relaxing claims suggest an audience seeking relaxation and stress relief, possibly adults looking for a luxury bath experience.
+
+10. **Any Additional Text**: 
+   - "Wake-up Glorious Collection"
+   - "Introducing Soap & Glory’s..."
+   - "How to use"
+
+The visual elements emphasize relaxation and indulgence with a soft color palette and a mix of realistic and illustrative imagery.

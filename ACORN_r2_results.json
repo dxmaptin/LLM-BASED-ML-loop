@@ -1,0 +1,192 @@
+{
+  "summary": {
+    "total_classes": 20,
+    "successful": 19,
+    "failed": 1,
+    "mean_r2": -0.30400978116421645,
+    "median_r2": -0.300959504225748,
+    "mean_mae": 0.17410229421654866,
+    "mean_correlation": 0.34579964400675367
+  },
+  "results": [
+    {
+      "class": "Exclusive Addresses",
+      "status": "Success",
+      "r2": -0.5849400865514156,
+      "correlation": 0.11737445533163963,
+      "mae": 0.21308297025261322,
+      "rmse": 0.2505688629695967,
+      "n_valid": 10
+    },
+    {
+      "class": "Flourishing Capital",
+      "status": "Success",
+      "r2": -0.3885572371939152,
+      "correlation": 0.2055414323230029,
+      "mae": 0.177603774658664,
+      "rmse": 0.21360012529689823,
+      "n_valid": 10
+    },
+    {
+      "class": "Upmarket Families",
+      "status": "Success",
+      "r2": -0.1742013482606095,
+      "correlation": 0.3688957560617432,
+      "mae": 0.19462895469212005,
+      "rmse": 0.23686835800864048,
+      "n_valid": 10
+    },
+    {
+      "class": "Commuter-Belt Wealth",
+      "status": "Success",
+      "r2": -0.1908287276776981,
+      "correlation": 0.41714116153141645,
+      "mae": 0.20142539481208602,
+      "rmse": 0.2373269060292607,
+      "n_valid": 10
+    },
+    {
+      "class": "Prosperous Professionals",
+      "status": "Success",
+      "r2": -0.39511276505070136,
+      "correlation": 0.4048091826410557,
+      "mae": 0.172792476064903,
+      "rmse": 0.21845069421289717,
+      "n_valid": 10
+    },
+    {
+      "class": "Mature Success",
+      "status": "Success",
+      "r2": -0.300959504225748,
+      "correlation": 0.34825409617134395,
+      "mae": 0.1970015403290331,
+      "rmse": 0.2489482783685114,
+      "n_valid": 10
+    },
+    {
+      "class": "Settled Suburbia",
+      "status": "Success",
+      "r2": -0.39017709545195345,
+      "correlation": 0.33662003295449006,
+      "mae": 0.1963276971699682,
+      "rmse": 0.23648777052016387,
+      "n_valid": 10
+    },
+    {
+      "class": "Metropolitan Surroundings",
+      "status": "No results",
+      "r2": NaN,
+      "correlation": NaN,
+      "mae": NaN,
+      "rmse": NaN
+    },
+    {
+      "class": "Up-and-Coming Urbanites",
+      "status": "Success",
+      "r2": -0.184086219599511,
+      "correlation": 0.5070114962252127,
+      "mae": 0.15936046380148933,
+      "rmse": 0.1957977329253355,
+      "n_valid": 10
+    },
+    {
+      "class": "Aspiring Communities",
+      "status": "Success",
+      "r2": -0.3321685886351229,
+      "correlation": 0.46725672757220765,
+      "mae": 0.1904994979965729,
+      "rmse": 0.2263844258483939,
+      "n_valid": 10
+    },
+    {
+      "class": "Semi-Rural Maturity",
+      "status": "Success",
+      "r2": 0.03580134020830539,
+      "correlation": 0.5048108072417392,
+      "mae": 0.17138483966784307,
+      "rmse": 0.2056000835153353,
+      "n_valid": 10
+    },
+    {
+      "class": "Traditional Homeowners ",
+      "status": "Success",
+      "r2": -0.1506796207628196,
+      "correlation": 0.47431621185978484,
+      "mae": 0.1721833529786768,
+      "rmse": 0.20966635927167435,
+      "n_valid": 10
+    },
+    {
+      "class": "Family Renters",
+      "status": "Success",
+      "r2": -0.166622565681932,
+      "correlation": 0.437693907662186,
+      "mae": 0.1516746742668285,
+      "rmse": 0.19150314001360016,
+      "n_valid": 10
+    },
+    {
+      "class": "Urban Diversity ",
+      "status": "Success",
+      "r2": -0.666766114378186,
+      "correlation": 0.24161574839683944,
+      "mae": 0.14945412654375878,
+      "rmse": 0.18853729326801688,
+      "n_valid": 10
+    },
+    {
+      "class": "Tenant Living",
+      "status": "Success",
+      "r2": -0.15634972021242,
+      "correlation": 0.34986493238418,
+      "mae": 0.1644208541648259,
+      "rmse": 0.19152118925490355,
+      "n_valid": 10
+    },
+    {
+      "class": "Challenging Circumstances",
+      "status": "Success",
+      "r2": -0.16306399862170196,
+      "correlation": 0.41848898461031075,
+      "mae": 0.1467019211794852,
+      "rmse": 0.17856395484593499,
+      "n_valid": 10
+    },
+    {
+      "class": "Cash-Strapped Families",
+      "status": "Success",
+      "r2": -0.45705480508346374,
+      "correlation": 0.2287833193589729,
+      "mae": 0.1635567458377473,
+      "rmse": 0.19682111600465857,
+      "n_valid": 10
+    },
+    {
+      "class": "Constrained Penisoners",
+      "status": "Success",
+      "r2": -0.14109146667686523,
+      "correlation": 0.36673510980311386,
+      "mae": 0.1582610306240106,
+      "rmse": 0.18368554525935177,
+      "n_valid": 10
+    },
+    {
+      "class": "Stable Seniors",
+      "status": "Success",
+      "r2": -0.5318328146340348,
+      "correlation": 0.28623281336965517,
+      "mae": 0.17480872843403988,
+      "rmse": 0.24298122209945347,
+      "n_valid": 10
+    },
+    {
+      "class": "Not Private Households",
+      "status": "Success",
+      "r2": -0.4374945036303193,
+      "correlation": 0.08874706062942694,
+      "mae": 0.15277454663975898,
+      "rmse": 0.18192459755185902,
+      "n_valid": 10
+    }
+  ]
+}

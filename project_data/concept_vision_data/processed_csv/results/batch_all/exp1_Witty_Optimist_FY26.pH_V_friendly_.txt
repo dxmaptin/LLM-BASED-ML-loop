@@ -1,0 +1,55 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_FY26.pH V friendly .JPG
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**: 
+   - Soap & Glory
+   - pH ‘V’ friendly Scent-sitive Bath Bomb
+
+2. **Product Description**: 
+   - “Take more time to boost your mood”
+   - "If I’m going to have a nice soak, with a bath bomb, it’s nice to know that I’m not going to have irritation in ‘sensitive areas’ as a result’. I want to feel moisturised and smell great"
+   - Soap & Glory’s fantastical fizzers can turn your average soak into a playground for the senses…the ultimate mood boost! They will fill your bathroom with luxurious fragrances, transform the water into a moisturising milk that nourishes your skin as you soak and leave you smelling GLORIOUS with silky soft skin. Expertly formulated with gentle ingredients, the pH balance will not cause irritation so you’re cared for inside and out…allowing you more ‘me time’ in the tub!
+
+3. **Product Category**: 
+   - Bath Bomb
+
+4. **Key Claims/Benefits**: 
+   - Gentle
+   - Dermatologist approved
+   - Suitable for sensitive skin/hypoallergenic
+   - 100% Vegan
+   - Not tested on animals…just picky humans!
+   - Ultimate mood boost
+   - Luxurious fragrances
+   - Moisturizing milk
+   - Silky soft skin
+   - pH balance will not cause irritation
+
+5. **Ingredients**: 
+   - Vitamin E
+   - Camomile
+
+6. **Packaging Information**: 
+   - No specific information visible about format, size, or price.
+
+7. **Usage Instructions**: 
+   - No direct instructions provided.
+
+8. **Visual Design Elements**:
+   - **Color scheme and dominant colors**: Pink, white, and natural colors.
+   - **Lifestyle imagery**: Images include a woman in a bath and various bath scenes with products.
+   - **Badges, labels, or special callouts**: “Gentle,” “Ingredients,” “100% Vegan.”
+   - **Overall design style**: Playful and natural with a focus on relaxation and indulgence.
+
+9. **Target Audience Signals**:
+   - Textual cues suggest it’s for people with sensitive skin looking for relaxation and luxury (“sensitive areas,” “luxurious fragrances,” “mood boost”).
+
+10. **Any Additional Text**: 
+    - “Mindful solutions for every inch of the body”
+
+The product concept leans towards a premium but accessible feel, emphasizing relaxation, self-care, and suitability for sensitive skin.

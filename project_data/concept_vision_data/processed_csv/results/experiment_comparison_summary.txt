@@ -1,0 +1,92 @@
+================================================================================
+CONCEPT IMAGE EXTRACTION EXPERIMENTS - SUMMARY
+================================================================================
+
+Date: 2025-11-10 12:41:35
+Total Images Tested: 3
+
+TEST IMAGES:
+  1. Witty Optimist_Jan24.Girls Night Out cool aid.jpg
+  2. Witty Optimist_FY25.S&G Be Me Body Sprays.JPG
+  3. Witty Optimist_Jan24.Mission Possible Body Lotion.jpg
+
+================================================================================
+
+EXPERIMENT OVERVIEW:
+
+EXPERIMENT 1: Multimodal LLM Only (gpt-4o)
+--------------------------------------------------------------------------------
+Method: Direct image → gpt-4o → Text output
+Strengths:
+  - No preprocessing required
+  - Captures both text and visual context natively
+  - Understands relationships between text and images
+  - Most comprehensive single-pass analysis
+Limitations:
+  - Dependent on model's OCR capabilities
+  - May miss small or stylized text
+  - Single point of failure
+
+EXPERIMENT 2: OCR + LLM
+--------------------------------------------------------------------------------
+Method: Image → Tesseract OCR → gpt-4o → Text output
+Strengths:
+  - Specialized OCR may catch text better
+  - Explicit text extraction step
+  - LLM cleans up OCR errors
+Limitations:
+  - No visual context captured
+  - Misses color, design, imagery signals
+  - OCR may fail on stylized fonts
+  - Loses lifestyle vs product-only distinction
+
+EXPERIMENT 3: OCR + Vision Embeddings
+--------------------------------------------------------------------------------
+Method: Image → [Tesseract OCR + Vision Model] → gpt-4o Synthesis
+Strengths:
+  - Captures text content (OCR)
+  - Captures visual features (color, style, imagery type)
+  - Combines both for comprehensive analysis
+  - Best for marketing/positioning insights
+  - Separates text from visual signals explicitly
+Limitations:
+  - More complex pipeline
+  - Higher API costs (multiple calls)
+  - Slower processing time
+
+================================================================================
+
+RESULTS LOCATION:
+All experiment outputs saved to: C:\Users\d.zhang\Desktop\Experiments\concept_image_experiments\results
+
+OUTPUT FILES (CONSOLIDATED):
+  Experiment 1: EXPERIMENT_1_MULTIMODAL_LLM_ALL_RESULTS.txt
+  Experiment 2: EXPERIMENT_2_OCR_LLM_ALL_RESULTS.txt
+  Experiment 3: EXPERIMENT_3_OCR_VISION_ALL_RESULTS.txt
+
+Each file contains all 3 test image results for that methodology.
+
+================================================================================
+
+RECOMMENDATIONS:
+
+Use EXPERIMENT 1 (Multimodal LLM) when:
+  ✓ You need quick, comprehensive analysis
+  ✓ Text is clearly readable in images
+  ✓ You want integrated text + visual understanding
+  ✓ Cost and speed are priorities
+
+Use EXPERIMENT 2 (OCR + LLM) when:
+  ✓ Text extraction accuracy is critical
+  ✓ You only need text content
+  ✓ Visual features are not important
+  ✓ You want explicit OCR control
+
+Use EXPERIMENT 3 (OCR + Vision Embeddings) when:
+  ✓ You need detailed visual analysis (color, style, imagery type)
+  ✓ Marketing positioning insights are important
+  ✓ You want to distinguish lifestyle vs product-only imagery
+  ✓ You need explicit separation of text and visual signals
+  ✓ Comprehensive analysis justifies higher cost
+
+================================================================================

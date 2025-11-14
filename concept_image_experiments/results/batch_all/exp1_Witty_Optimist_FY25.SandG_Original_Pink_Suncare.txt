@@ -1,0 +1,57 @@
+================================================================================
+EXPERIMENT 1: MULTIMODAL LLM ONLY (GPT-4O)
+================================================================================
+
+Image: Witty Optimist_FY25.S&G Original Pink Suncare.JPG
+Method: Direct image → gpt-4o → Text output
+================================================================================
+
+1. **Product Name and Brand**: 
+   - Soap & Glory
+   - Original Pink Suncare from Soap & Glory
+
+2. **Product Description**: 
+   - "Your supercharged, sun friendly, scented shield."
+
+3. **Product Category**: 
+   - Suncare products (SPF lotions and mists)
+
+4. **Key Claims/Benefits**:
+   - Supercharged, sun friendly, scented shield
+   - "I don’t want a sticky thick suncream which protects my skin but doesn’t feel nice or smell great and feels like its clogging as opposed to benefitting my skin."
+   - 5 star UV protection from the sun
+   - Contains antioxidants, vitamins E and B5
+   - Hydrate and moisturize
+   - Incredible scent
+   - Non-greasy and light
+   - Water-resistant
+   - Unique antioxidant complex
+   - Dermatologically tested & approved
+   - Suitable for all skin types
+   - No nasties
+   - 100% Vegan
+
+5. **Ingredients**:
+   - Contains Aloe Vera and Watermelon
+
+6. **Packaging Information**:
+   - Not specifically detailed in terms of format, size, or price.
+
+7. **Usage Instructions**:
+   - Not explicitly stated, but implies use as sun protection.
+
+8. **Visual Design Elements**:
+   - **Color scheme and dominant colors**: Pink, white, and black.
+   - **Is this lifestyle imagery (models/people) or product-only?**: Lifestyle imagery with models applying sunscreen.
+   - **Any badges, labels, or special callouts**: "Original Pink", "Clean", "Innovative", "100% Vegan."
+   - **Overall design style**: Playful and casual with a focus on glamor and fun.
+
+9. **Target Audience Signals**:
+   - Appeals to those seeking stylish, effective sun care with emphasis on fragrance and texture.
+
+10. **Any Additional Text**:
+    - "PSA: Wear your SPF every day."
+    - "Original Pink is our fruity chypre fragrance - crisp bergamot, crushed green leaves and mandarin, a gorgeous bouquet of rose, jasmine and violet. combine to complete our cult-classic signature scent."
+    - CLEAN: "Dermatologically tested & approved Suitable for all skin types No nasties"
+    - INNOVATIVE: "Intensive moisturisation Non greasy & light Water resistant Unique anti oxidant complex"
+    - 100% VEGAN: "Not tested on animals… just picky humans!"
