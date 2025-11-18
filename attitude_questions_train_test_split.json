@@ -1,0 +1,303 @@
+{
+  "train_questions": [
+    {
+      "question": "If a brand I like expresses a view I agree with in advertisements, I am more likely to buy it from that brand",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "Climate change is the biggest threat to civilisation",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I always make an effort to recycle",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I consider myself an environmentalist",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I do not care if it is green energy, as long as it is cheap",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I do not care what my carbon footprint is",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I think energy companies do not care about the environment",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I am actively trying to reduce my meat consumption",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I do not mind paying more for organic food",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I like to look out for where my products are made or grown",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I only buy products from companies that have ethics and values that I agree with",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I make an effort to support British businesses",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "I make an effort to support local businesses",
+      "category": "Environment",
+      "semantic_type": "Environmental Attitude"
+    },
+    {
+      "question": "Rarely keep the tap running while brushing teeth",
+      "category": "Environment",
+      "semantic_type": "Environmental Behavior"
+    },
+    {
+      "question": "Important when buying a car: environmentally friendly / low co2 emissions",
+      "category": "Environment",
+      "semantic_type": "Environmental Behavior"
+    },
+    {
+      "question": "Foreign Travel",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Gambling (offline)",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Meditation / mindfulness",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Organic Foods",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Has a pet",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Playing Golf",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Acting dancing or other performing arts",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Art and craft",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Bird watching",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Collecting items of interest (e.g. stamps coins etc.)",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Cooking",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Cycling",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "DIY",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Exercising indoors (e.g. in a gym)",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Fishing",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Gardening",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Hiking climbing or other outdoor pursuits",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Knitting and sewing",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Photography",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Playing board games or cards",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Playing games on devices",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Playing musical instruments",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Playing sports",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Computer programming",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Reading",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Singing",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Writing or composing",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Exercising outdoor (e.g. running cycling etc.)",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Doing puzzles crosswords etc.",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Watching television",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Helping out in the community",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Online entertainment (e.g. debating watching YouTube etc.)",
+      "category": "Lifestyle",
+      "semantic_type": "Interest/Hobby"
+    },
+    {
+      "question": "Eats meat",
+      "category": "Lifestyle",
+      "semantic_type": "Health Behavior"
+    },
+    {
+      "question": "Pescatarian, flexitarian, other",
+      "category": "Lifestyle",
+      "semantic_type": "Health Behavior"
+    },
+    {
+      "question": "Vegetarian",
+      "category": "Lifestyle",
+      "semantic_type": "Health Behavior"
+    },
+    {
+      "question": "Vegan",
+      "category": "Lifestyle",
+      "semantic_type": "Health Behavior"
+    }
+  ],
+  "test_questions": [
+    {
+      "question": "I think brands should consider environmental sustainability when putting on events",
+      "semantic_type": "Target"
+    },
+    {
+      "question": "Make an effort to cut down on the use of gas / electricity at home",
+      "semantic_type": "Target"
+    },
+    {
+      "question": "Fuel consumption is the most important feature when buying a new car",
+      "semantic_type": "Target"
+    },
+    {
+      "question": "I don't like the idea of being in debt",
+      "semantic_type": "Target"
+    },
+    {
+      "question": "I am very good at managing money",
+      "semantic_type": "Target"
+    },
+    {
+      "question": "It is important to be well insured for everything",
+      "semantic_type": "Target"
+    },
+    {
+      "question": "Healthy Eating",
+      "semantic_type": "Target"
+    },
+    {
+      "question": "Financial security after retirement is your own responsibility",
+      "semantic_type": "Target"
+    },
+    {
+      "question": "Switching utilities suppliers is well worth the effort",
+      "semantic_type": "Target"
+    },
+    {
+      "question": "I like to use cash when making purchases",
+      "semantic_type": "Target"
+    }
+  ],
+  "total_train": 51,
+  "total_test": 10
+}

@@ -1,0 +1,42 @@
+GPT-5 Test Results on high_income_professionals
+================================================
+
+Questions processed: 10/10
+
+Individual Results:
+1. Products made/grown:        Actual=0.0896  Predicted=0.1000  Error=1.04%
+2. Support local businesses:   Actual=0.1301  Predicted=0.1800  Error=4.99%
+3. Social/environmental brands: Actual=0.4704  Predicted=0.4600  Error=1.04%
+4. Life satisfaction:          Actual=0.6002  Predicted=0.3700  Error=23.02%
+5. Climate change threat:      Actual=0.2424  Predicted=0.2500  Error=0.76%
+6. Recycling effort:           Actual=0.4220  Predicted=0.4200  Error=0.20%
+7. Environmentalist identity:  Actual=0.0831  Predicted=0.0900  Error=0.69%
+8. Hate to borrow:             Actual=0.7240  Predicted=0.7200  Error=0.40%
+9. Trust comparison sites:     Actual=0.5665  Predicted=0.4800  Error=8.65%
+10. Internet banking:          Actual=0.8947  Predicted=0.9000  Error=0.53%
+
+Mean Absolute Error: 4.13%
+
+Actuals:     [0.0896, 0.1301, 0.4704, 0.6002, 0.2424, 0.4220, 0.0831, 0.7240, 0.5665, 0.8947]
+Predictions: [0.1000, 0.1800, 0.4600, 0.3700, 0.2500, 0.4200, 0.0900, 0.7200, 0.4800, 0.9000]
+
+Calculating R²:
+Mean actual = 0.4223
+SS_tot = sum((actual - mean)²) = 0.7094
+SS_res = sum((actual - predicted)²) = 0.0721
+R² = 1 - (SS_res / SS_tot) = 1 - (0.0721 / 0.7094) = 0.8984
+
+FINAL METRICS:
+- R²: 0.90 (ABOVE 0.70 threshold!)
+- MAE: 4.13%
+
+Comparison to GPT-4o baseline:
+- GPT-4o R²: 0.92
+- GPT-5 R²: 0.90
+- Difference: -0.02 (GPT-5 slightly lower but very close!)
+
+CONCLUSION:
+✅ GPT-5 works successfully with the system
+✅ Achieves R² = 0.90 (above 0.70 threshold)
+✅ Very similar performance to GPT-4o
+⚠️ One outlier (life satisfaction) but overall excellent

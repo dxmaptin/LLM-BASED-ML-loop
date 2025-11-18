@@ -1,0 +1,181 @@
+class,question,question_short,predicted,actual,error,performance,question_category
+aspiring_communities,Financial security after retirement is your own re...,Retirement responsibility,58.0,62.9,4.9,GOOD,Retirement Attitudes
+aspiring_communities,Fuel consumption is the most important feature whe...,Fuel consumption,25.0,13.4,11.6,POOR,Transport
+aspiring_communities,Healthy Eating,Healthy eating,40.0,38.1,1.9,EXCELLENT,Health Behavior
+aspiring_communities,I am very good at managing money,Money management,50.0,58.0,8.0,FAIR,Financial Confidence
+aspiring_communities,I don't like the idea of being in debt,Debt aversion,45.0,43.1,1.9,EXCELLENT,Debt Attitudes
+aspiring_communities,I like to use cash when making purchases,Cash preference,55.0,30.5,24.5,POOR,Payment Preferences
+aspiring_communities,I think brands should consider environmental susta...,Environmental sustainability,30.0,26.5,3.5,GOOD,Environmental Attitudes
+aspiring_communities,It is important to be well insured for everything,Insurance importance,25.0,10.5,14.5,POOR,Other
+aspiring_communities,Make an effort to cut down on the use of gas / ele...,Energy saving,65.0,73.3,8.3,FAIR,Energy Behavior
+aspiring_communities,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,33.7,6.3,FAIR,Switching Behavior
+cash-strapped_families,Financial security after retirement is your own re...,Retirement responsibility,45.0,47.6,2.6,EXCELLENT,Retirement Attitudes
+cash-strapped_families,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,18.9,3.9,GOOD,Transport
+cash-strapped_families,Healthy Eating,Healthy eating,40.0,31.4,8.6,FAIR,Health Behavior
+cash-strapped_families,I am very good at managing money,Money management,45.0,48.7,3.7,GOOD,Financial Confidence
+cash-strapped_families,I don't like the idea of being in debt,Debt aversion,45.0,43.9,1.1,EXCELLENT,Debt Attitudes
+cash-strapped_families,I like to use cash when making purchases,Cash preference,55.0,41.3,13.7,POOR,Payment Preferences
+cash-strapped_families,I think brands should consider environmental susta...,Environmental sustainability,30.0,27.1,2.9,EXCELLENT,Environmental Attitudes
+cash-strapped_families,It is important to be well insured for everything,Insurance importance,25.0,12.4,12.6,POOR,Other
+cash-strapped_families,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,72.4,2.6,EXCELLENT,Energy Behavior
+cash-strapped_families,Switching utilities suppliers is well worth the ef...,Switching providers,35.0,31.5,3.5,GOOD,Switching Behavior
+challenging_circumstances,Financial security after retirement is your own re...,Retirement responsibility,50.0,49.7,0.3,EXCELLENT,Retirement Attitudes
+challenging_circumstances,Fuel consumption is the most important feature whe...,Fuel consumption,25.0,18.9,6.1,FAIR,Transport
+challenging_circumstances,Healthy Eating,Healthy eating,40.0,33.0,7.0,FAIR,Health Behavior
+challenging_circumstances,I am very good at managing money,Money management,45.0,46.7,1.7,EXCELLENT,Financial Confidence
+challenging_circumstances,I don't like the idea of being in debt,Debt aversion,45.0,41.5,3.5,GOOD,Debt Attitudes
+challenging_circumstances,I like to use cash when making purchases,Cash preference,55.0,50.4,4.6,GOOD,Payment Preferences
+challenging_circumstances,I think brands should consider environmental susta...,Environmental sustainability,30.0,26.1,3.9,GOOD,Environmental Attitudes
+challenging_circumstances,It is important to be well insured for everything,Insurance importance,25.0,12.1,12.9,POOR,Other
+challenging_circumstances,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,70.7,4.3,GOOD,Energy Behavior
+challenging_circumstances,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,28.8,11.2,POOR,Switching Behavior
+commuter-belt_wealth,Financial security after retirement is your own re...,Retirement responsibility,58.0,68.4,10.4,POOR,Retirement Attitudes
+commuter-belt_wealth,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,11.7,3.3,GOOD,Transport
+commuter-belt_wealth,Healthy Eating,Healthy eating,45.0,41.8,3.2,GOOD,Health Behavior
+commuter-belt_wealth,I am very good at managing money,Money management,65.0,63.7,1.3,EXCELLENT,Financial Confidence
+commuter-belt_wealth,I don't like the idea of being in debt,Debt aversion,45.0,43.1,1.9,EXCELLENT,Debt Attitudes
+commuter-belt_wealth,I like to use cash when making purchases,Cash preference,35.0,28.5,6.5,FAIR,Payment Preferences
+commuter-belt_wealth,I think brands should consider environmental susta...,Environmental sustainability,30.0,26.0,4.0,GOOD,Environmental Attitudes
+commuter-belt_wealth,It is important to be well insured for everything,Insurance importance,12.0,11.2,0.8,EXCELLENT,Other
+commuter-belt_wealth,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,76.9,1.9,EXCELLENT,Energy Behavior
+commuter-belt_wealth,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,34.5,5.5,FAIR,Switching Behavior
+constrained_penisoners,Financial security after retirement is your own re...,Retirement responsibility,45.0,50.2,5.2,FAIR,Retirement Attitudes
+constrained_penisoners,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,19.0,4.0,GOOD,Transport
+constrained_penisoners,Healthy Eating,Healthy eating,40.0,33.1,6.9,FAIR,Health Behavior
+constrained_penisoners,I am very good at managing money,Money management,45.0,48.7,3.7,GOOD,Financial Confidence
+constrained_penisoners,I don't like the idea of being in debt,Debt aversion,55.0,41.1,13.9,POOR,Debt Attitudes
+constrained_penisoners,I like to use cash when making purchases,Cash preference,55.0,44.1,10.9,POOR,Payment Preferences
+constrained_penisoners,I think brands should consider environmental susta...,Environmental sustainability,30.0,21.4,8.6,FAIR,Environmental Attitudes
+constrained_penisoners,It is important to be well insured for everything,Insurance importance,25.0,11.0,14.0,POOR,Other
+constrained_penisoners,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,72.4,2.6,EXCELLENT,Energy Behavior
+constrained_penisoners,Switching utilities suppliers is well worth the ef...,Switching providers,25.0,28.7,3.7,GOOD,Switching Behavior
+family_renters,Financial security after retirement is your own re...,Retirement responsibility,56.0,56.2,0.2,EXCELLENT,Retirement Attitudes
+family_renters,Fuel consumption is the most important feature whe...,Fuel consumption,25.0,14.8,10.2,POOR,Transport
+family_renters,Healthy Eating,Healthy eating,40.0,33.9,6.1,FAIR,Health Behavior
+family_renters,I am very good at managing money,Money management,40.0,51.0,11.0,POOR,Financial Confidence
+family_renters,I don't like the idea of being in debt,Debt aversion,45.0,44.7,0.3,EXCELLENT,Debt Attitudes
+family_renters,I like to use cash when making purchases,Cash preference,55.0,36.4,18.6,POOR,Payment Preferences
+family_renters,I think brands should consider environmental susta...,Environmental sustainability,30.0,24.9,5.1,FAIR,Environmental Attitudes
+family_renters,It is important to be well insured for everything,Insurance importance,25.0,12.5,12.5,POOR,Other
+family_renters,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,72.3,2.7,EXCELLENT,Energy Behavior
+family_renters,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,31.7,8.3,FAIR,Switching Behavior
+flourishing_capital,Financial security after retirement is your own re...,Retirement responsibility,58.0,63.7,5.7,FAIR,Retirement Attitudes
+flourishing_capital,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,14.1,0.9,EXCELLENT,Transport
+flourishing_capital,Healthy Eating,Healthy eating,45.0,50.1,5.1,FAIR,Health Behavior
+flourishing_capital,I am very good at managing money,Money management,65.0,56.4,8.6,FAIR,Financial Confidence
+flourishing_capital,I don't like the idea of being in debt,Debt aversion,45.0,42.3,2.7,EXCELLENT,Debt Attitudes
+flourishing_capital,I like to use cash when making purchases,Cash preference,35.0,39.9,4.9,GOOD,Payment Preferences
+flourishing_capital,I think brands should consider environmental susta...,Environmental sustainability,40.0,31.0,9.0,FAIR,Environmental Attitudes
+flourishing_capital,It is important to be well insured for everything,Insurance importance,12.0,15.6,3.6,GOOD,Other
+flourishing_capital,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,71.3,3.7,GOOD,Energy Behavior
+flourishing_capital,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,33.2,6.8,FAIR,Switching Behavior
+hard-up_households,Financial security after retirement is your own re...,Retirement responsibility,45.0,55.0,10.0,FAIR,Retirement Attitudes
+hard-up_households,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,16.5,1.5,EXCELLENT,Transport
+hard-up_households,Healthy Eating,Healthy eating,35.0,31.6,3.4,GOOD,Health Behavior
+hard-up_households,I am very good at managing money,Money management,45.0,51.5,6.5,FAIR,Financial Confidence
+hard-up_households,I don't like the idea of being in debt,Debt aversion,45.0,44.4,0.6,EXCELLENT,Debt Attitudes
+hard-up_households,I like to use cash when making purchases,Cash preference,55.0,41.9,13.1,POOR,Payment Preferences
+hard-up_households,I think brands should consider environmental susta...,Environmental sustainability,30.0,24.8,5.2,FAIR,Environmental Attitudes
+hard-up_households,It is important to be well insured for everything,Insurance importance,25.0,11.9,13.1,POOR,Other
+hard-up_households,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,73.1,1.9,EXCELLENT,Energy Behavior
+hard-up_households,Switching utilities suppliers is well worth the ef...,Switching providers,35.0,32.2,2.8,EXCELLENT,Switching Behavior
+mature_success,Financial security after retirement is your own re...,Retirement responsibility,58.0,67.4,9.4,FAIR,Retirement Attitudes
+mature_success,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,12.5,2.5,EXCELLENT,Transport
+mature_success,Healthy Eating,Healthy eating,45.0,40.8,4.2,GOOD,Health Behavior
+mature_success,I am very good at managing money,Money management,65.0,64.5,0.5,EXCELLENT,Financial Confidence
+mature_success,I don't like the idea of being in debt,Debt aversion,45.0,41.3,3.7,GOOD,Debt Attitudes
+mature_success,I like to use cash when making purchases,Cash preference,35.0,31.5,3.5,GOOD,Payment Preferences
+mature_success,I think brands should consider environmental susta...,Environmental sustainability,30.0,22.5,7.5,FAIR,Environmental Attitudes
+mature_success,It is important to be well insured for everything,Insurance importance,25.0,11.0,14.0,POOR,Other
+mature_success,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,77.1,2.1,EXCELLENT,Energy Behavior
+mature_success,Switching utilities suppliers is well worth the ef...,Switching providers,35.0,32.4,2.6,EXCELLENT,Switching Behavior
+metropolitan_surroundings,Financial security after retirement is your own re...,Retirement responsibility,54.0,55.1,1.1,EXCELLENT,Retirement Attitudes
+metropolitan_surroundings,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,16.6,1.6,EXCELLENT,Transport
+metropolitan_surroundings,Healthy Eating,Healthy eating,45.0,39.5,5.5,FAIR,Health Behavior
+metropolitan_surroundings,I am very good at managing money,Money management,55.0,53.6,1.4,EXCELLENT,Financial Confidence
+metropolitan_surroundings,I don't like the idea of being in debt,Debt aversion,45.0,44.1,0.9,EXCELLENT,Debt Attitudes
+metropolitan_surroundings,I like to use cash when making purchases,Cash preference,45.0,32.5,12.5,POOR,Payment Preferences
+metropolitan_surroundings,I think brands should consider environmental susta...,Environmental sustainability,30.0,25.4,4.6,GOOD,Environmental Attitudes
+metropolitan_surroundings,It is important to be well insured for everything,Insurance importance,12.0,12.9,0.9,EXCELLENT,Other
+metropolitan_surroundings,Make an effort to cut down on the use of gas / ele...,Energy saving,70.0,66.4,3.6,GOOD,Energy Behavior
+metropolitan_surroundings,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,29.4,10.6,POOR,Switching Behavior
+not_private_households,Financial security after retirement is your own re...,Retirement responsibility,54.0,51.5,2.5,EXCELLENT,Retirement Attitudes
+not_private_households,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,18.7,3.7,GOOD,Transport
+not_private_households,Healthy Eating,Healthy eating,45.0,19.6,25.4,POOR,Health Behavior
+not_private_households,I am very good at managing money,Money management,50.0,53.3,3.3,GOOD,Financial Confidence
+not_private_households,I don't like the idea of being in debt,Debt aversion,45.0,43.9,1.1,EXCELLENT,Debt Attitudes
+not_private_households,I like to use cash when making purchases,Cash preference,55.0,51.6,3.4,GOOD,Payment Preferences
+not_private_households,I think brands should consider environmental susta...,Environmental sustainability,30.0,35.0,5.0,GOOD,Environmental Attitudes
+not_private_households,It is important to be well insured for everything,Insurance importance,25.0,17.5,7.5,FAIR,Other
+not_private_households,Make an effort to cut down on the use of gas / ele...,Energy saving,65.0,60.8,4.2,GOOD,Energy Behavior
+not_private_households,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,34.3,5.7,FAIR,Switching Behavior
+prosperous_professionals,Financial security after retirement is your own re...,Retirement responsibility,55.0,59.8,4.8,GOOD,Retirement Attitudes
+prosperous_professionals,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,11.9,3.1,GOOD,Transport
+prosperous_professionals,Healthy Eating,Healthy eating,45.0,44.4,0.6,EXCELLENT,Health Behavior
+prosperous_professionals,I am very good at managing money,Money management,65.0,54.8,10.2,POOR,Financial Confidence
+prosperous_professionals,I don't like the idea of being in debt,Debt aversion,45.0,43.1,1.9,EXCELLENT,Debt Attitudes
+prosperous_professionals,I like to use cash when making purchases,Cash preference,25.0,28.7,3.7,GOOD,Payment Preferences
+prosperous_professionals,I think brands should consider environmental susta...,Environmental sustainability,30.0,34.0,4.0,GOOD,Environmental Attitudes
+prosperous_professionals,It is important to be well insured for everything,Insurance importance,12.0,11.2,0.8,EXCELLENT,Other
+prosperous_professionals,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,71.1,3.9,GOOD,Energy Behavior
+prosperous_professionals,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,34.3,5.7,FAIR,Switching Behavior
+semi-rural_maturity,Financial security after retirement is your own re...,Retirement responsibility,58.0,66.9,8.9,FAIR,Retirement Attitudes
+semi-rural_maturity,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,14.8,0.2,EXCELLENT,Transport
+semi-rural_maturity,Healthy Eating,Healthy eating,40.0,38.8,1.2,EXCELLENT,Health Behavior
+semi-rural_maturity,I am very good at managing money,Money management,55.0,62.6,7.6,FAIR,Financial Confidence
+semi-rural_maturity,I don't like the idea of being in debt,Debt aversion,45.0,43.5,1.5,EXCELLENT,Debt Attitudes
+semi-rural_maturity,I like to use cash when making purchases,Cash preference,55.0,35.7,19.3,POOR,Payment Preferences
+semi-rural_maturity,I think brands should consider environmental susta...,Environmental sustainability,30.0,22.9,7.1,FAIR,Environmental Attitudes
+semi-rural_maturity,It is important to be well insured for everything,Insurance importance,25.0,11.5,13.5,POOR,Other
+semi-rural_maturity,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,76.5,1.5,EXCELLENT,Energy Behavior
+semi-rural_maturity,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,33.0,7.0,FAIR,Switching Behavior
+settled_suburbia,Financial security after retirement is your own re...,Retirement responsibility,58.0,63.6,5.6,FAIR,Retirement Attitudes
+settled_suburbia,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,12.3,2.7,EXCELLENT,Transport
+settled_suburbia,Healthy Eating,Healthy eating,45.0,37.1,7.9,FAIR,Health Behavior
+settled_suburbia,I am very good at managing money,Money management,55.0,58.1,3.1,GOOD,Financial Confidence
+settled_suburbia,I don't like the idea of being in debt,Debt aversion,45.0,42.3,2.7,EXCELLENT,Debt Attitudes
+settled_suburbia,I like to use cash when making purchases,Cash preference,45.0,31.5,13.5,POOR,Payment Preferences
+settled_suburbia,I think brands should consider environmental susta...,Environmental sustainability,30.0,24.6,5.4,FAIR,Environmental Attitudes
+settled_suburbia,It is important to be well insured for everything,Insurance importance,25.0,11.4,13.6,POOR,Other
+settled_suburbia,Make an effort to cut down on the use of gas / ele...,Energy saving,70.0,74.7,4.7,GOOD,Energy Behavior
+settled_suburbia,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,33.3,6.7,FAIR,Switching Behavior
+stable_seniors,Financial security after retirement is your own re...,Retirement responsibility,54.0,59.8,5.8,FAIR,Retirement Attitudes
+stable_seniors,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,14.4,0.6,EXCELLENT,Transport
+stable_seniors,Healthy Eating,Healthy eating,40.0,36.0,4.0,GOOD,Health Behavior
+stable_seniors,I am very good at managing money,Money management,55.0,57.4,2.4,EXCELLENT,Financial Confidence
+stable_seniors,I don't like the idea of being in debt,Debt aversion,55.0,43.5,11.5,POOR,Debt Attitudes
+stable_seniors,I like to use cash when making purchases,Cash preference,55.0,37.1,17.9,POOR,Payment Preferences
+stable_seniors,I think brands should consider environmental susta...,Environmental sustainability,30.0,24.2,5.8,FAIR,Environmental Attitudes
+stable_seniors,It is important to be well insured for everything,Insurance importance,25.0,12.5,12.5,POOR,Other
+stable_seniors,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,77.3,2.3,EXCELLENT,Energy Behavior
+stable_seniors,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,31.6,8.4,FAIR,Switching Behavior
+tenant_living,Financial security after retirement is your own re...,Retirement responsibility,54.0,54.7,0.7,EXCELLENT,Retirement Attitudes
+tenant_living,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,14.9,0.1,EXCELLENT,Transport
+tenant_living,Healthy Eating,Healthy eating,45.0,38.9,6.1,FAIR,Health Behavior
+tenant_living,I am very good at managing money,Money management,55.0,51.5,3.5,GOOD,Financial Confidence
+tenant_living,I don't like the idea of being in debt,Debt aversion,45.0,47.1,2.1,EXCELLENT,Debt Attitudes
+tenant_living,I like to use cash when making purchases,Cash preference,55.0,33.3,21.7,POOR,Payment Preferences
+tenant_living,I think brands should consider environmental susta...,Environmental sustainability,30.0,32.7,2.7,EXCELLENT,Environmental Attitudes
+tenant_living,It is important to be well insured for everything,Insurance importance,25.0,10.3,14.7,POOR,Other
+tenant_living,Make an effort to cut down on the use of gas / ele...,Energy saving,70.0,73.7,3.7,GOOD,Energy Behavior
+tenant_living,Switching utilities suppliers is well worth the ef...,Switching providers,35.0,34.0,1.0,EXCELLENT,Switching Behavior
+up-and-coming_urbanites,Financial security after retirement is your own re...,Retirement responsibility,54.0,52.9,1.1,EXCELLENT,Retirement Attitudes
+up-and-coming_urbanites,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,10.1,4.9,GOOD,Transport
+up-and-coming_urbanites,Healthy Eating,Healthy eating,40.0,46.0,6.0,FAIR,Health Behavior
+up-and-coming_urbanites,I am very good at managing money,Money management,55.0,52.3,2.7,EXCELLENT,Financial Confidence
+up-and-coming_urbanites,I don't like the idea of being in debt,Debt aversion,45.0,47.7,2.7,EXCELLENT,Debt Attitudes
+up-and-coming_urbanites,I like to use cash when making purchases,Cash preference,35.0,29.2,5.8,FAIR,Payment Preferences
+up-and-coming_urbanites,I think brands should consider environmental susta...,Environmental sustainability,30.0,30.8,0.8,EXCELLENT,Environmental Attitudes
+up-and-coming_urbanites,It is important to be well insured for everything,Insurance importance,25.0,11.3,13.7,POOR,Other
+up-and-coming_urbanites,Make an effort to cut down on the use of gas / ele...,Energy saving,70.0,69.8,0.2,EXCELLENT,Energy Behavior
+up-and-coming_urbanites,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,33.6,6.4,FAIR,Switching Behavior
+upmarket_families,Financial security after retirement is your own re...,Retirement responsibility,55.0,71.2,16.2,POOR,Retirement Attitudes
+upmarket_families,Fuel consumption is the most important feature whe...,Fuel consumption,15.0,11.8,3.2,GOOD,Transport
+upmarket_families,Healthy Eating,Healthy eating,45.0,43.9,1.1,EXCELLENT,Health Behavior
+upmarket_families,I am very good at managing money,Money management,65.0,70.0,5.0,GOOD,Financial Confidence
+upmarket_families,I don't like the idea of being in debt,Debt aversion,45.0,42.3,2.7,EXCELLENT,Debt Attitudes
+upmarket_families,I like to use cash when making purchases,Cash preference,35.0,26.7,8.3,FAIR,Payment Preferences
+upmarket_families,I think brands should consider environmental susta...,Environmental sustainability,30.0,30.2,0.2,EXCELLENT,Environmental Attitudes
+upmarket_families,It is important to be well insured for everything,Insurance importance,18.0,13.1,4.9,GOOD,Other
+upmarket_families,Make an effort to cut down on the use of gas / ele...,Energy saving,75.0,72.9,2.1,EXCELLENT,Energy Behavior
+upmarket_families,Switching utilities suppliers is well worth the ef...,Switching providers,40.0,34.1,5.9,FAIR,Switching Behavior

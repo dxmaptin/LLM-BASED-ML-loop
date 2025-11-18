@@ -1,0 +1,108 @@
+# API Keys and Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual Environments
+venv/
+venv312/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Experimental Results and Data
+demographic_runs/
+experimental_result_*/
+*_results/
+*_output/
+
+# Data Files
+# Note: We KEEP training data and key result files for reference
+
+# Exclude large Excel files
+*.xlsx
+*.xls
+
+# Keep training data directories
+# Flattened Data Inputs/ - KEPT
+# Textual Data Inputs/ - KEPT
+
+# Keep important result CSVs
+# concepts_to_test.csv - KEPT
+# Handpicked_experiments_10.csv - KEPT
+# all_12_demographics_results.csv - KEPT
+# model_comparison_all_results.csv - KEPT
+
+# Exclude only temporary CSV outputs
+*_temp.csv
+*_tmp.csv
+test_output*.csv
+
+# Logs and temporary files
+*.log
+*.jsonl
+agent_estimator_token_log.jsonl
+*.tmp
+test_tmp/
+tmp_*.py
+
+# Test and analysis scripts (keep only core code)
+test_*.py
+analyze_*.py
+debug_*.py
+calculate_*.py
+consolidate_*.py
+create_*.py
+update_*.py
+verify_*.py
+run_handpicked_*.py
+
+# But keep the main run scripts
+!run_ALL_handpicked_WITH_TARGET.py
+
+# Documentation for stakeholders (not developer docs)
+PROJECT_DOCUMENTATION_FOR_STAKEHOLDERS.md
+Executive_Summary.md
+
+# Markdown reports (experimental)
+*_COMPARISON.md
+*_RESULTS.md
+*_SUMMARY.md
+CORRECTED_*.md
+COMPREHENSIVE_*.md
+BEFORE_AFTER_*.md
+THREE_*.md
+FINAL_*.md
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Claude
+.claude/
+
+# Context files
+context_summary.txt
+Token usage.txt

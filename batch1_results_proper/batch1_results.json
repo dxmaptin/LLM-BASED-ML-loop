@@ -1,0 +1,159 @@
+[
+  {
+    "question": "If a brand I like expresses a view I agree with in advertisements, I am more likely to buy it from that brand",
+    "actual": 0.062914056683481,
+    "status": "est_failed"
+  },
+  {
+    "question": "Climate change is the biggest threat to civilisation",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.229500274800646,
+    "predicted": 0.40399999999999997,
+    "error": 0.17449972519935397,
+    "status": "success"
+  },
+  {
+    "question": "I always make an effort to recycle",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.441017998907971,
+    "predicted": 0.258,
+    "error": -0.183017998907971,
+    "status": "success"
+  },
+  {
+    "question": "I consider myself an environmentalist",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.0757523274815534,
+    "predicted": 0.32,
+    "error": 0.2442476725184466,
+    "status": "success"
+  },
+  {
+    "question": "I do not care if it is green energy, as long as it is cheap",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.200052200022767,
+    "predicted": 0.32799999999999996,
+    "error": 0.12794779997723296,
+    "status": "success"
+  },
+  {
+    "question": "I do not care what my carbon footprint is",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.0643665587000242,
+    "predicted": 0.41,
+    "error": 0.34563344129997575,
+    "status": "success"
+  },
+  {
+    "question": "I think energy companies do not care about the environment",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.266446951136115,
+    "predicted": 0.43599999999999994,
+    "error": 0.16955304886388495,
+    "status": "success"
+  },
+  {
+    "question": "I am actively trying to reduce my meat consumption",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.113480513069938,
+    "predicted": 0.24,
+    "error": 0.126519486930062,
+    "status": "success"
+  },
+  {
+    "question": "I do not mind paying more for organic food",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.0598446360200545,
+    "predicted": 0.134,
+    "error": 0.07415536397994552,
+    "status": "success"
+  },
+  {
+    "question": "I like to look out for where my products are made or grown",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.0913542670804205,
+    "predicted": 0.29400000000000004,
+    "error": 0.20264573291957955,
+    "status": "success"
+  },
+  {
+    "question": "I only buy products from companies that have ethics and values that I agree with",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.0351249762270627,
+    "predicted": 0.17,
+    "error": 0.1348750237729373,
+    "status": "success"
+  },
+  {
+    "question": "I make an effort to support British businesses",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.163223623771747,
+    "predicted": 0.2,
+    "error": 0.036776376228253,
+    "status": "success"
+  },
+  {
+    "question": "I make an effort to support local businesses",
+    "semantic_type": "Environmental Attitude",
+    "actual": 0.138344470900783,
+    "predicted": 0.16,
+    "error": 0.021655529099217002,
+    "status": "success"
+  },
+  {
+    "question": "Rarely keep the tap running while brushing teeth",
+    "semantic_type": "Environmental Behavior",
+    "actual": 0.766039901107677,
+    "predicted": 0.37,
+    "error": -0.39603990110767695,
+    "status": "success"
+  },
+  {
+    "question": "Important when buying a car: environmentally friendly / low co2 emissions",
+    "semantic_type": "Environmental Behavior",
+    "actual": 0.388734409982815,
+    "predicted": 0.292,
+    "error": -0.09673440998281502,
+    "status": "success"
+  },
+  {
+    "question": "Foreign Travel",
+    "semantic_type": "Interest/Hobby",
+    "actual": 0.395259901499845,
+    "predicted": 0.35200000000000004,
+    "error": -0.04325990149984499,
+    "status": "success"
+  },
+  {
+    "question": "Gambling (offline)",
+    "semantic_type": "Interest/Hobby",
+    "actual": 0.0765279584977801,
+    "predicted": 0.20600000000000002,
+    "error": 0.12947204150221991,
+    "status": "success"
+  },
+  {
+    "question": "Meditation / mindfulness",
+    "semantic_type": "Interest/Hobby",
+    "actual": 0.0729752078830816,
+    "predicted": 0.37,
+    "error": 0.2970247921169184,
+    "status": "success"
+  },
+  {
+    "question": "Organic Foods",
+    "semantic_type": "Interest/Hobby",
+    "actual": 0.0464497640604549,
+    "predicted": 0.084,
+    "error": 0.0375502359395451,
+    "status": "success"
+  },
+  {
+    "question": "Has a pet",
+    "semantic_type": "Interest/Hobby",
+    "actual": 0.526800223811659,
+    "predicted": 0.37,
+    "error": -0.15680022381165903,
+    "status": "success"
+  }
+]

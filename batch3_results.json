@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Singing",
+    "actual": 0.0765897518179129,
+    "predicted": 0.37,
+    "error": 0.2934102481820871
+  },
+  {
+    "question": "Writing or composing",
+    "actual": 0.0613046860390003,
+    "predicted": 0.078,
+    "error": 0.0166953139609997
+  },
+  {
+    "question": "Exercising outdoor (e.g. running cycling etc.)",
+    "actual": 0.223594437807063,
+    "predicted": 0.142,
+    "error": -0.08159443780706302
+  },
+  {
+    "question": "Doing puzzles crosswords etc.",
+    "actual": 0.376373421456552,
+    "predicted": 0.34199999999999997,
+    "error": -0.034373421456552034
+  },
+  {
+    "question": "Watching television",
+    "actual": 0.716724820518406,
+    "predicted": 0.07,
+    "error": -0.646724820518406
+  },
+  {
+    "question": "Helping out in the community",
+    "actual": 0.103367770557601,
+    "predicted": 0.17600000000000002,
+    "error": 0.07263222944239901
+  },
+  {
+    "question": "Online entertainment (e.g. debating watching YouTube etc.)",
+    "actual": 0.27847210626946,
+    "predicted": 0.376,
+    "error": 0.09752789373054
+  },
+  {
+    "question": "Eats meat",
+    "actual": 0.762651718822068,
+    "predicted": 0.092,
+    "error": -0.670651718822068
+  },
+  {
+    "question": "Pescatarian, flexitarian, other",
+    "actual": 0.181123527878434,
+    "predicted": 0.31,
+    "error": 0.128876472121566
+  },
+  {
+    "question": "Vegetarian",
+    "actual": 0.043456715991168,
+    "predicted": 0.23600000000000002,
+    "error": 0.19254328400883203
+  },
+  {
+    "question": "Vegan",
+    "actual": 0.0113340377435991,
+    "predicted": 0.172,
+    "error": 0.1606659622564009
+  }
+]

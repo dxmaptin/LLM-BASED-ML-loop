@@ -1,0 +1,78 @@
+{
+  "class": "exclusive_addresses",
+  "r2": -1.5213792152210157,
+  "mae": 27.263595588327416,
+  "n_questions": 10,
+  "detail": [
+    {
+      "question": "I think brands should consider environmental sustainability when putting on events",
+      "predicted": 0.7,
+      "actual": 0.301812902536207,
+      "error": 39.81870974637929,
+      "confidence": 0.85
+    },
+    {
+      "question": "Make an effort to cut down on the use of gas / electricity at home",
+      "predicted": 0.45,
+      "actual": 0.723171190218597,
+      "error": 27.3171190218597,
+      "confidence": 0.85
+    },
+    {
+      "question": "Fuel consumption is the most important feature when buying a new car",
+      "predicted": 0.45,
+      "actual": 0.133986148465831,
+      "error": 31.6013851534169,
+      "confidence": 0.75
+    },
+    {
+      "question": "I don't like the idea of being in debt",
+      "predicted": 0.85,
+      "actual": 0.423471076424604,
+      "error": 42.6528923575396,
+      "confidence": 0.85
+    },
+    {
+      "question": "I am very good at managing money",
+      "predicted": 0.75,
+      "actual": 0.626235071846695,
+      "error": 12.376492815330497,
+      "confidence": 0.85
+    },
+    {
+      "question": "It is important to be well insured for everything",
+      "predicted": 0.7,
+      "actual": 0.0845683842508036,
+      "error": 61.54316157491964,
+      "confidence": 0.85
+    },
+    {
+      "question": "Healthy Eating",
+      "predicted": 0.65,
+      "actual": 0.461823705978873,
+      "error": 18.8176294021127,
+      "confidence": 0.75
+    },
+    {
+      "question": "Financial security after retirement is your own responsibility",
+      "predicted": 0.7,
+      "actual": 0.564014450121412,
+      "error": 13.59855498785879,
+      "confidence": 0.85
+    },
+    {
+      "question": "Switching utilities suppliers is well worth the effort",
+      "predicted": 0.35,
+      "actual": 0.274610318045161,
+      "error": 7.538968195483897,
+      "confidence": 0.85
+    },
+    {
+      "question": "I like to use cash when making purchases",
+      "predicted": 0.45,
+      "actual": 0.276289573716268,
+      "error": 17.3710426283732,
+      "confidence": 0.85
+    }
+  ]
+}

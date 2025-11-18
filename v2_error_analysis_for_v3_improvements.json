@@ -1,0 +1,169 @@
+{
+  "semi-rural_maturity": {
+    "class_name": "Semi-Rural Maturity",
+    "avg_error": -0.08031090981880991,
+    "over_predict_top3": [
+      [
+        "Fuel consumption important",
+        5.169421658287401
+      ]
+    ],
+    "under_predict_top3": [
+      [
+        "Retirement responsibility",
+        -26.941814967687893
+      ],
+      [
+        "Good at managing money",
+        -24.185793792218302
+      ],
+      [
+        "Cut down gas/electricity",
+        -16.520265983420302
+      ]
+    ],
+    "guidance": [
+      "TENDENCY: Slightly under-predicting overall. Can be slightly more generous with agreement.",
+      "PATTERN: Under-predicting ATTITUDE concepts - increase baseline for opinions/beliefs",
+      "PATTERN: Under-predicting FINANCIAL concepts - this demographic may be more financially engaged"
+    ]
+  },
+  "constrained_penisoners": {
+    "class_name": "Constrained Penisoners",
+    "avg_error": -0.06624935842917501,
+    "over_predict_top3": [],
+    "under_predict_top3": [
+      [
+        "Good at managing money",
+        -23.3123423338846
+      ],
+      [
+        "Retirement responsibility",
+        -16.579389381334003
+      ],
+      [
+        "Cut down gas/electricity",
+        -12.363462811374204
+      ]
+    ],
+    "guidance": [
+      "TENDENCY: Slightly under-predicting overall. Can be slightly more generous with agreement.",
+      "PATTERN: Under-predicting ATTITUDE concepts - increase baseline for opinions/beliefs",
+      "PATTERN: Under-predicting FINANCIAL concepts - this demographic may be more financially engaged"
+    ]
+  },
+  "upmarket_families": {
+    "class_name": "Upmarket Families",
+    "avg_error": -0.07454450689249681,
+    "over_predict_top3": [
+      [
+        "Fuel consumption important",
+        9.768171313651102
+      ],
+      [
+        "Like cash",
+        8.323395273943095
+      ]
+    ],
+    "under_predict_top3": [
+      [
+        "Retirement responsibility",
+        -31.0324810223228
+      ],
+      [
+        "Good at managing money",
+        -28.636366150133004
+      ],
+      [
+        "Cut down gas/electricity",
+        -12.9178836198526
+      ]
+    ],
+    "guidance": [
+      "TENDENCY: Slightly under-predicting overall. Can be slightly more generous with agreement.",
+      "PATTERN: Under-predicting FINANCIAL concepts - this demographic may be more financially engaged"
+    ]
+  },
+  "family_renters": {
+    "class_name": "Family Renters",
+    "avg_error": -0.06382069854678532,
+    "over_predict_top3": [
+      [
+        "Fuel consumption important",
+        5.169421658287401
+      ]
+    ],
+    "under_predict_top3": [
+      [
+        "Good at managing money",
+        -20.773005383247405
+      ],
+      [
+        "Retirement responsibility",
+        -18.8375979292414
+      ],
+      [
+        "Cut down gas/electricity",
+        -12.339411865639804
+      ]
+    ],
+    "guidance": [
+      "TENDENCY: Slightly under-predicting overall. Can be slightly more generous with agreement.",
+      "PATTERN: Under-predicting ATTITUDE concepts - increase baseline for opinions/beliefs",
+      "PATTERN: Under-predicting FINANCIAL concepts - this demographic may be more financially engaged"
+    ]
+  },
+  "stable_seniors": {
+    "class_name": "Stable Seniors",
+    "avg_error": -0.0741245344760469,
+    "over_predict_top3": [
+      [
+        "Fuel consumption important",
+        5.629499873735
+      ]
+    ],
+    "under_predict_top3": [
+      [
+        "Good at managing money",
+        -23.557135725538803
+      ],
+      [
+        "Retirement responsibility",
+        -19.7934574539423
+      ],
+      [
+        "Cut down gas/electricity",
+        -17.324284276655998
+      ]
+    ],
+    "guidance": [
+      "TENDENCY: Slightly under-predicting overall. Can be slightly more generous with agreement.",
+      "PATTERN: Under-predicting ATTITUDE concepts - increase baseline for opinions/beliefs",
+      "PATTERN: Under-predicting FINANCIAL concepts - this demographic may be more financially engaged"
+    ]
+  },
+  "urban_diversity": {
+    "class_name": "Urban Diversity ",
+    "avg_error": -0.06332423654921181,
+    "over_predict_top3": [],
+    "under_predict_top3": [
+      [
+        "Good at managing money",
+        -21.240713832600903
+      ],
+      [
+        "Environmental sustainability",
+        -11.807932236629101
+      ],
+      [
+        "Retirement responsibility",
+        -9.332668309938203
+      ]
+    ],
+    "guidance": [
+      "TENDENCY: Slightly under-predicting overall. Can be slightly more generous with agreement.",
+      "PATTERN: Under-predicting ATTITUDE concepts - increase baseline for opinions/beliefs",
+      "PATTERN: Under-predicting FINANCIAL concepts - this demographic may be more financially engaged"
+    ]
+  }
+}

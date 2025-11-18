@@ -1,0 +1,47 @@
+[
+  {
+    "class": "exclusive_addresses",
+    "concept": "I don't like the idea of being in debt",
+    "error": "EstimatorAgent.estimate() got an unexpected keyword argument 'research_context'"
+  },
+  {
+    "class": "exclusive_addresses",
+    "concept": "I am very good at managing money",
+    "error": "EstimatorAgent.estimate() got an unexpected keyword argument 'research_context'"
+  },
+  {
+    "class": "exclusive_addresses",
+    "concept": "Make an effort to cut down on the use of gas / electricity at home",
+    "error": "EstimatorAgent.estimate() got an unexpected keyword argument 'research_context'"
+  },
+  {
+    "class": "limited_budgets",
+    "concept": "I don't like the idea of being in debt",
+    "error": "EstimatorAgent.estimate() got an unexpected keyword argument 'research_context'"
+  },
+  {
+    "class": "limited_budgets",
+    "concept": "I am very good at managing money",
+    "error": "EstimatorAgent.estimate() got an unexpected keyword argument 'research_context'"
+  },
+  {
+    "class": "limited_budgets",
+    "concept": "Make an effort to cut down on the use of gas / electricity at home",
+    "error": "EstimatorAgent.estimate() got an unexpected keyword argument 'research_context'"
+  },
+  {
+    "class": "up-and-coming_urbanites",
+    "concept": "I don't like the idea of being in debt",
+    "error": "EstimatorAgent.estimate() got an unexpected keyword argument 'research_context'"
+  },
+  {
+    "class": "up-and-coming_urbanites",
+    "concept": "I am very good at managing money",
+    "error": "EstimatorAgent.estimate() got an unexpected keyword argument 'research_context'"
+  },
+  {
+    "class": "up-and-coming_urbanites",
+    "concept": "Make an effort to cut down on the use of gas / electricity at home",
+    "error": "EstimatorAgent.estimate() got an unexpected keyword argument 'research_context'"
+  }
+]

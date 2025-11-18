@@ -1,0 +1,67 @@
+{
+  "r2": -0.6344435074664034,
+  "mae": 20.39677906554601,
+  "bias": 5.263744474912312,
+  "results": [
+    {
+      "question": "I think brands should consider environmental sustainability when putting on events",
+      "actual": 0.264814169830893,
+      "predicted": 0.17,
+      "error": -0.094814169830893
+    },
+    {
+      "question": "Make an effort to cut down on the use of gas / electricity at home",
+      "actual": 0.732869237710215,
+      "predicted": 0.252,
+      "error": -0.48086923771021495
+    },
+    {
+      "question": "Fuel consumption is the most important feature when buying a new car",
+      "actual": 0.133818022677122,
+      "predicted": 0.45,
+      "error": 0.316181977322878
+    },
+    {
+      "question": "I don't like the idea of being in debt",
+      "actual": 0.43096257729956,
+      "predicted": 0.39,
+      "error": -0.04096257729955999
+    },
+    {
+      "question": "I am very good at managing money",
+      "actual": 0.579748486756676,
+      "predicted": 0.7040000000000001,
+      "error": 0.12425151324332406
+    },
+    {
+      "question": "It is important to be well insured for everything",
+      "actual": 0.105235665173171,
+      "predicted": 0.49400000000000005,
+      "error": 0.38876433482682904
+    },
+    {
+      "question": "Healthy Eating",
+      "actual": 0.381313202920659,
+      "predicted": 0.37,
+      "error": -0.011313202920659016
+    },
+    {
+      "question": "Financial security after retirement is your own responsibility",
+      "actual": 0.628692541770358,
+      "predicted": 0.5,
+      "error": -0.12869254177035805
+    },
+    {
+      "question": "Switching utilities suppliers is well worth the effort",
+      "actual": 0.337354148504577,
+      "predicted": 0.546,
+      "error": 0.20864585149542303
+    },
+    {
+      "question": "I like to use cash when making purchases",
+      "actual": 0.304817499865538,
+      "predicted": 0.55,
+      "error": 0.24518250013446202
+    }
+  ]
+}

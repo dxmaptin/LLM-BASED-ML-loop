@@ -1,0 +1,307 @@
+### Concept: Concept
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Country of Birth | Rest of Europe value=0.0141 | relevance=0.80
+- [quant] ACORN_mature_success.csv | Manage current account | By phone value=0.0999 | relevance=0.79
+- [quant] ACORN_mature_success.csv | Arrange current account | By phone value=0.0164 | relevance=0.77
+- [quant] ACORN_mature_success.csv | Country of Birth | Other value=0.0223 | relevance=0.76
+- [qual] mature_success_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Country of Birth | Rest of Europe | value=0.0141 (file=ACORN_mature_success.csv, relevance=0.80)
+Manage current account | By phone | value=0.0999 (file=ACORN_mature_success.csv, relevance=0.79)
+Arrange current account | By phone | value=0.0164 (file=ACORN_mature_success.csv, relevance=0.77)
+Country of Birth | Other | value=0.0223 (file=ACORN_mature_success.csv, relevance=0.76)
+
+Qualitative summary:
+================================================== (file=mature_success_profile.txt, relevance=0.50)
+
+Weight hints:
+- Country of Birth -> Rest of Europe (value=0.01)
+- Manage current account -> By phone (value=0.10)
+- Arrange current account -> By phone (value=0.02)
+- Country of Birth -> Other (value=0.02)
+- Quote: "=================================================="
+
+
+### Concept: I think brands should consider environmental sustainability when putting on events
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Attitudes | I consider myself an environmentalist value=0.0661 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Attitudes | I think energy companies do not care about the environment value=0.2393 | relevance=0.94
+- [quant] ACORN_mature_success.csv | Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) value=0.4708 | relevance=0.91
+- [quant] ACORN_mature_success.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.1388 | relevance=0.89
+- [qual] mature_success_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | I consider myself an environmentalist | value=0.0661 (file=ACORN_mature_success.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2393 (file=ACORN_mature_success.csv, relevance=0.94)
+Bought the last purchase online using any device | Entertainment tickets (e.g. movie, theater, festivals, sporting events) | value=0.4708 (file=ACORN_mature_success.csv, relevance=0.91)
+Insurance and Pensions | Plans to use other investments for retirement | value=0.1388 (file=ACORN_mature_success.csv, relevance=0.89)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=mature_success_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> I consider myself an environmentalist (value=0.07)
+- Attitudes -> I think energy companies do not care about the environment (value=0.24)
+- Bought the last purchase online using any device -> Entertainment tickets (e.g. movie, theater, festivals, sporting events) (value=0.47)
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.14)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Make an effort to cut down on the use of gas / electricity at home
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=69.2541 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Financial Attitudes | I love the ease of using chat bots to get answers value=0.2243 | relevance=0.97
+- [quant] ACORN_mature_success.csv | Digital Attitudes | Computers confuse me, I'll never get used to them value=0.1482 | relevance=0.93
+- [quant] ACORN_mature_success.csv | Attitudes | I make an effort to support local businesses value=0.1378 | relevance=0.92
+- [qual] mature_success_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Outgoings | > Housing, water, electricity, gas and other fuels | value=69.2541 (file=ACORN_mature_success.csv, relevance=0.98)
+Financial Attitudes | I love the ease of using chat bots to get answers | value=0.2243 (file=ACORN_mature_success.csv, relevance=0.97)
+Digital Attitudes | Computers confuse me, I'll never get used to them | value=0.1482 (file=ACORN_mature_success.csv, relevance=0.93)
+Attitudes | I make an effort to support local businesses | value=0.1378 (file=ACORN_mature_success.csv, relevance=0.92)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=mature_success_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=69.25)
+- Financial Attitudes -> I love the ease of using chat bots to get answers (value=0.22)
+- Digital Attitudes -> Computers confuse me, I'll never get used to them (value=0.15)
+- Attitudes -> I make an effort to support local businesses (value=0.14)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Fuel consumption is the most important feature when buying a new car
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Action | Important when buying a car: environmentally friendly / low co2 emissions value=0.3887 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Attitudes | I think energy companies do not care about the environment value=0.2393 | relevance=0.86
+- [quant] ACORN_mature_success.csv | Financial Attitudes | It is important to be well insured for everything value=0.1099 | relevance=0.83
+- [quant] ACORN_mature_success.csv | Researched the last purchase online before buying | Pet care value=0.2202 | relevance=0.81
+- [qual] mature_success_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Action | Important when buying a car: environmentally friendly / low co2 emissions | value=0.3887 (file=ACORN_mature_success.csv, relevance=0.98)
+Attitudes | I think energy companies do not care about the environment | value=0.2393 (file=ACORN_mature_success.csv, relevance=0.86)
+Financial Attitudes | It is important to be well insured for everything | value=0.1099 (file=ACORN_mature_success.csv, relevance=0.83)
+Researched the last purchase online before buying | Pet care | value=0.2202 (file=ACORN_mature_success.csv, relevance=0.81)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=mature_success_profile.txt, relevance=0.68)
+
+Weight hints:
+- Action -> Important when buying a car: environmentally friendly / low co2 emissions (value=0.39)
+- Attitudes -> I think energy companies do not care about the environment (value=0.24)
+- Financial Attitudes -> It is important to be well insured for everything (value=0.11)
+- Researched the last purchase online before buying -> Pet care (value=0.22)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I don't like the idea of being in debt
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Interests & Hobbies | Helping out in the community value=0.1034 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Attitudes | Climate change is the biggest threat to civilisation value=0.2119 | relevance=0.96
+- [quant] ACORN_mature_success.csv | House Move | Individual likely to move value=0.2478 | relevance=0.94
+- [quant] ACORN_mature_success.csv | Financial Attitudes | I do not mind taking risks with my money value=0.1963 | relevance=0.91
+- [qual] mature_success_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Interests & Hobbies | Helping out in the community | value=0.1034 (file=ACORN_mature_success.csv, relevance=0.98)
+Attitudes | Climate change is the biggest threat to civilisation | value=0.2119 (file=ACORN_mature_success.csv, relevance=0.96)
+House Move | Individual likely to move | value=0.2478 (file=ACORN_mature_success.csv, relevance=0.94)
+Financial Attitudes | I do not mind taking risks with my money | value=0.1963 (file=ACORN_mature_success.csv, relevance=0.91)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=mature_success_profile.txt, relevance=0.68)
+
+Weight hints:
+- Interests & Hobbies -> Helping out in the community (value=0.10)
+- Attitudes -> Climate change is the biggest threat to civilisation (value=0.21)
+- House Move -> Individual likely to move (value=0.25)
+- Financial Attitudes -> I do not mind taking risks with my money (value=0.20)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: I am very good at managing money
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Outgoings | > Miscellaneous goods and services value=47.8843 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Crime Survey for England - Very Worried About: | Having my car stolen value=0.0369 | relevance=0.96
+- [quant] ACORN_mature_success.csv | Manage savings account | Online at home or work value=0.3214 | relevance=0.95
+- [quant] ACORN_mature_success.csv | Car type | Main car: Privately owned value=0.9237 | relevance=0.92
+- [qual] mature_success_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Outgoings | > Miscellaneous goods and services | value=47.8843 (file=ACORN_mature_success.csv, relevance=0.98)
+Crime Survey for England - Very Worried About: | Having my car stolen | value=0.0369 (file=ACORN_mature_success.csv, relevance=0.96)
+Manage savings account | Online at home or work | value=0.3214 (file=ACORN_mature_success.csv, relevance=0.95)
+Car type | Main car: Privately owned | value=0.9237 (file=ACORN_mature_success.csv, relevance=0.92)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=mature_success_profile.txt, relevance=0.68)
+
+Weight hints:
+- Outgoings -> > Miscellaneous goods and services (value=47.88)
+- Crime Survey for England - Very Worried About: -> Having my car stolen (value=0.04)
+- Manage savings account -> Online at home or work (value=0.32)
+- Car type -> Main car: Privately owned (value=0.92)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: It is important to be well insured for everything
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Attitudes | Fuel consumption is the most important feature when buying a new car value=0.1254 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Tend to look out for adverts on | Cinema products value=0.2278 | relevance=0.93
+- [quant] ACORN_mature_success.csv | Clothing & Footwear Stores | Mass Market value=0.5582 | relevance=0.92
+- [quant] ACORN_mature_success.csv | Tend to look out for adverts on | Soft drinks products value=0.1445 | relevance=0.90
+- [qual] mature_success_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Attitudes | Fuel consumption is the most important feature when buying a new car | value=0.1254 (file=ACORN_mature_success.csv, relevance=0.98)
+Tend to look out for adverts on | Cinema products | value=0.2278 (file=ACORN_mature_success.csv, relevance=0.93)
+Clothing & Footwear Stores | Mass Market | value=0.5582 (file=ACORN_mature_success.csv, relevance=0.92)
+Tend to look out for adverts on | Soft drinks products | value=0.1445 (file=ACORN_mature_success.csv, relevance=0.90)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=mature_success_profile.txt, relevance=0.68)
+
+Weight hints:
+- Attitudes -> Fuel consumption is the most important feature when buying a new car (value=0.13)
+- Tend to look out for adverts on -> Cinema products (value=0.23)
+- Clothing & Footwear Stores -> Mass Market (value=0.56)
+- Tend to look out for adverts on -> Soft drinks products (value=0.14)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+
+
+### Concept: Healthy Eating
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Eating Habits | Vegan value=0.0113 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Eating Habits | Eats meat value=0.7627 | relevance=0.97
+- [quant] ACORN_mature_success.csv | Eating Habits | Vegetarian value=0.0435 | relevance=0.95
+- [quant] ACORN_mature_success.csv | Eating Habits | Pescatarian, flexitarian, other value=0.1811 | relevance=0.92
+- [qual] mature_success_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Eating Habits | Vegan | value=0.0113 (file=ACORN_mature_success.csv, relevance=0.98)
+Eating Habits | Eats meat | value=0.7627 (file=ACORN_mature_success.csv, relevance=0.97)
+Eating Habits | Vegetarian | value=0.0435 (file=ACORN_mature_success.csv, relevance=0.95)
+Eating Habits | Pescatarian, flexitarian, other | value=0.1811 (file=ACORN_mature_success.csv, relevance=0.92)
+
+Qualitative summary:
+================================================== (file=mature_success_profile.txt, relevance=0.50)
+
+Weight hints:
+- Eating Habits -> Vegan (value=0.01)
+- Eating Habits -> Eats meat (value=0.76)
+- Eating Habits -> Vegetarian (value=0.04)
+- Eating Habits -> Pescatarian, flexitarian, other (value=0.18)
+- Quote: "=================================================="
+
+
+### Concept: Financial security after retirement is your own responsibility
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Insurance and Pensions | Plans to use other investments for retirement value=0.1388 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Financial Attitudes | I only save for a specific purpose value=0.2647 | relevance=0.96
+- [quant] ACORN_mature_success.csv | Financial Attitudes | I trust financial price comparison sites value=0.5151 | relevance=0.95
+- [quant] ACORN_mature_success.csv | Financial Attitudes | Switching utilities suppliers is well worth the effort value=0.3241 | relevance=0.94
+- [qual] mature_success_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Insurance and Pensions | Plans to use other investments for retirement | value=0.1388 (file=ACORN_mature_success.csv, relevance=0.98)
+Financial Attitudes | I only save for a specific purpose | value=0.2647 (file=ACORN_mature_success.csv, relevance=0.96)
+Financial Attitudes | I trust financial price comparison sites | value=0.5151 (file=ACORN_mature_success.csv, relevance=0.95)
+Financial Attitudes | Switching utilities suppliers is well worth the effort | value=0.3241 (file=ACORN_mature_success.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=mature_success_profile.txt, relevance=0.50)
+
+Weight hints:
+- Insurance and Pensions -> Plans to use other investments for retirement (value=0.14)
+- Financial Attitudes -> I only save for a specific purpose (value=0.26)
+- Financial Attitudes -> I trust financial price comparison sites (value=0.52)
+- Financial Attitudes -> Switching utilities suppliers is well worth the effort (value=0.32)
+- Quote: "=================================================="
+
+
+### Concept: Switching utilities suppliers is well worth the effort
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Places They Visit | Sporting events value=0.1894 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates value=4004.5702 | relevance=0.96
+- [quant] ACORN_mature_success.csv | Places They Visit | Places of worship value=0.0929 | relevance=0.95
+- [quant] ACORN_mature_success.csv | Outgoings | > Housing, water, electricity, gas and other fuels value=69.2541 | relevance=0.94
+- [qual] mature_success_profile.txt | relevance=0.50 | ==================================================
+
+Quantitative summary:
+Places They Visit | Sporting events | value=0.1894 (file=ACORN_mature_success.csv, relevance=0.98)
+Outgoings | Council tax, utilities, water, structure insurance, NI domestic rates | value=4004.5702 (file=ACORN_mature_success.csv, relevance=0.96)
+Places They Visit | Places of worship | value=0.0929 (file=ACORN_mature_success.csv, relevance=0.95)
+Outgoings | > Housing, water, electricity, gas and other fuels | value=69.2541 (file=ACORN_mature_success.csv, relevance=0.94)
+
+Qualitative summary:
+================================================== (file=mature_success_profile.txt, relevance=0.50)
+
+Weight hints:
+- Places They Visit -> Sporting events (value=0.19)
+- Outgoings -> Council tax, utilities, water, structure insurance, NI domestic rates (value=4004.57)
+- Places They Visit -> Places of worship (value=0.09)
+- Outgoings -> > Housing, water, electricity, gas and other fuels (value=69.25)
+- Quote: "=================================================="
+
+
+### Concept: I like to use cash when making purchases
+Selection notes: Balanced selection by adding quantitative evidence. Balanced selection by adding qualitative evidence. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context. Top-up evidence added to satisfy minimum context.
+Types present: qual, quant
+
+Top sources:
+- [quant] ACORN_mature_success.csv | Bought the last purchase online using any device | Alcoholic drinks value=0.1987 | relevance=0.98
+- [quant] ACORN_mature_success.csv | Bought the last purchase online using any device | Pet care value=0.2410 | relevance=0.96
+- [quant] ACORN_mature_success.csv | Bought the last purchase online using any device | Home appliances value=0.5208 | relevance=0.94
+- [quant] ACORN_mature_success.csv | Bought the last purchase online using any device | Holiday / travel value=0.6182 | relevance=0.92
+- [qual] mature_success_profile.txt | relevance=0.68 | [Pen portrait to be extracted from Accorn.txt]
+
+Quantitative summary:
+Bought the last purchase online using any device | Alcoholic drinks | value=0.1987 (file=ACORN_mature_success.csv, relevance=0.98)
+Bought the last purchase online using any device | Pet care | value=0.2410 (file=ACORN_mature_success.csv, relevance=0.96)
+Bought the last purchase online using any device | Home appliances | value=0.5208 (file=ACORN_mature_success.csv, relevance=0.94)
+Bought the last purchase online using any device | Holiday / travel | value=0.6182 (file=ACORN_mature_success.csv, relevance=0.92)
+
+Qualitative summary:
+[Pen portrait to be extracted from Accorn.txt] (file=mature_success_profile.txt, relevance=0.68)
+
+Weight hints:
+- Bought the last purchase online using any device -> Alcoholic drinks (value=0.20)
+- Bought the last purchase online using any device -> Pet care (value=0.24)
+- Bought the last purchase online using any device -> Home appliances (value=0.52)
+- Bought the last purchase online using any device -> Holiday / travel (value=0.62)
+- Quote: "[Pen portrait to be extracted from Accorn.txt]"
+

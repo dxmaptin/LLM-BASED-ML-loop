@@ -1,0 +1,192 @@
+C:\Users\d.zhang\Desktop\Experiments\venv\Lib\site-packages\langchain_core\_api\deprecation.py:27: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
+================================================================================
+TESTING V10 GENERAL PROMPT (Universal Fixes)
+================================================================================
+Changes in v10:
+  1. Debt: 42-45% for ALL (not 70% for poor)
+  2. Fuel: 10-20% for ALL (not 30-45% for poor)
+  3. Cash: 40-45% for poor (digital is widespread)
+================================================================================
+
+================================================================================
+GROUP: POOR
+================================================================================
+
+================================================================================
+Testing: cash-strapped_families
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  27.1% | Error:   2.9pp [OK]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  72.4% | Error:   2.6pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  18.9% | Error:   3.9pp [WARN]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  43.9% | Error:   1.1pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  45.0% | Actual:  48.7% | Error:   3.7pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  12.4% | Error:  12.6pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  31.4% | Error:   8.6pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  45.0% | Actual:  47.6% | Error:   2.6pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  35.0% | Actual:  31.5% | Error:   3.5pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  41.3% | Error:  13.7pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.8178 | MAE: 5.53pp | Excellent: 4/10
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing: hard-up_households
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  24.8% | Error:   5.2pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  73.1% | Error:   1.9pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  16.5% | Error:   1.5pp [OK]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  44.4% | Error:   0.6pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  45.0% | Actual:  51.5% | Error:   6.5pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  11.9% | Error:  13.1pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  35.0% | Actual:  31.6% | Error:   3.4pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  45.0% | Actual:  55.0% | Error:  10.0pp [FAIL]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  35.0% | Actual:  32.2% | Error:   2.8pp [OK]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  41.9% | Error:  13.1pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.8297 | MAE: 5.80pp | Excellent: 4/10
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing: challenging_circumstances
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  26.1% | Error:   3.9pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  70.7% | Error:   4.3pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  25.0% | Actual:  18.9% | Error:   6.1pp [WARN]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  41.5% | Error:   3.5pp [WARN]
+[5/10] I am very good at managing money...
+  Pred:  45.0% | Actual:  46.7% | Error:   1.7pp [OK]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  12.1% | Error:  12.9pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  33.0% | Error:   7.0pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  50.0% | Actual:  49.7% | Error:   0.3pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  28.8% | Error:  11.2pp [FAIL]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  50.4% | Error:   4.6pp [WARN]
+
+--------------------------------------------------------------------------------
+R2: 0.8364 | MAE: 5.54pp | Excellent: 2/10
+--------------------------------------------------------------------------------
+
+================================================================================
+GROUP: SENIOR
+================================================================================
+
+================================================================================
+Testing: stable_seniors
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  24.2% | Error:   5.8pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  77.3% | Error:   2.3pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  14.4% | Error:   0.6pp [OK]
+[4/10] I don't like the idea of being in debt...
+  Pred:  55.0% | Actual:  43.5% | Error:  11.5pp [FAIL]
+[5/10] I am very good at managing money...
+  Pred:  55.0% | Actual:  57.4% | Error:   2.4pp [OK]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  12.5% | Error:  12.5pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  36.0% | Error:   4.0pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  54.0% | Actual:  59.8% | Error:   5.8pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  31.6% | Error:   8.4pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  37.1% | Error:  17.9pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.7993 | MAE: 7.12pp | Excellent: 3/10
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing: constrained_penisoners
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  21.4% | Error:   8.6pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  72.4% | Error:   2.6pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  19.0% | Error:   4.0pp [WARN]
+[4/10] I don't like the idea of being in debt...
+  Pred:  55.0% | Actual:  41.1% | Error:  13.9pp [FAIL]
+[5/10] I am very good at managing money...
+  Pred:  45.0% | Actual:  48.7% | Error:   3.7pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  11.0% | Error:  14.0pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  33.1% | Error:   6.9pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  45.0% | Actual:  50.2% | Error:   5.2pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  25.0% | Actual:  28.7% | Error:   3.7pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  44.1% | Error:  10.9pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.7607 | MAE: 7.36pp | Excellent: 1/10
+--------------------------------------------------------------------------------
+
+================================================================================
+SUMMARY: V10 vs V9 (ITER4) COMPARISON
+================================================================================
+
+Group           Class                             V9 R2   V10 R2   Change Status         
+-----------------------------------------------------------------------------------------------
+Poor            cash-strapped_families             0.29     0.82    +0.53 IMPROVED       
+Poor            hard-up_households                 0.34     0.83    +0.49 IMPROVED       
+Poor            challenging_circumstances          0.00     0.84    +0.84 IMPROVED       
+Senior          stable_seniors                     0.62     0.80    +0.18 IMPROVED       
+Senior          constrained_penisoners             0.00     0.76    +0.76 IMPROVED       
+
+================================================================================
+INTERPRETATION
+================================================================================
+Traceback (most recent call last):
+  File "c:\Users\d.zhang\Desktop\Experiments\test_v10_training_classes.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "c:\Users\d.zhang\Desktop\Experiments\test_v10_training_classes.py", line 162, in main
+        print("""
+        ~~~~~^^^^
+    If v10 shows improvement:
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+      \u2192 The reasoning principles themselves need demographic-specific versions
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        """)
+        ^^^^
+  File "C:\Users\d.zhang\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 31: character maps to <undefined>

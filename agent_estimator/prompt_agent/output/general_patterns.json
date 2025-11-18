@@ -1,0 +1,706 @@
+{
+  "high_variance_questions": [
+    {
+      "question": "Household Annual Gross Income",
+      "variance": 435811074.61884594,
+      "std": 20876.088585241392,
+      "mean": 7990.006299878715,
+      "min": 0.0025620509759898,
+      "max": 98935.209717807,
+      "category": "Finance",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Disposable Income",
+      "variance": 220842690.39766604,
+      "std": 14860.776910971581,
+      "mean": 33021.616614274884,
+      "min": 9590.73751322615,
+      "max": 70011.1042730895,
+      "category": "Finance",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Outgoings",
+      "variance": 10955805.304736372,
+      "std": 3309.9554837998007,
+      "mean": 1436.185405987069,
+      "min": 0.0237136359057959,
+      "max": 28924.1053330608,
+      "category": "Finance",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Internet Access: Overall",
+      "variance": 0.23005189014167607,
+      "std": 0.4796372484927292,
+      "mean": 0.49527930215289545,
+      "min": 0.0028779663977598,
+      "max": 0.995150858356924,
+      "category": "Internet",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Number of Children by Age",
+      "variance": 0.13549858659600483,
+      "std": 0.36810132653388367,
+      "mean": 0.33333333333333304,
+      "min": 0.0047383177502569,
+      "max": 0.98678662923839,
+      "category": "Family",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Geography",
+      "variance": 0.12985168510808107,
+      "std": 0.3603493931007531,
+      "mean": 0.2499999999999998,
+      "min": 0.0016729728313514,
+      "max": 0.991543493458054,
+      "category": "Population (16+)",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Ethnicity",
+      "variance": 0.12287770186956264,
+      "std": 0.35053915882474906,
+      "mean": 0.19999999999999987,
+      "min": 0.0011036303974289,
+      "max": 0.980338192719664,
+      "category": "Population (16+)",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Country of Birth",
+      "variance": 0.09373583071861757,
+      "std": 0.30616307863394887,
+      "mean": 0.14285714285714274,
+      "min": 0.0003023508507592,
+      "max": 0.965505965466993,
+      "category": "Population (16+)",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Current account, Savings and Investments",
+      "variance": 0.09208675265627829,
+      "std": 0.3034579915841372,
+      "mean": 0.3041986619856839,
+      "min": 0.008167508390903,
+      "max": 0.989400291725164,
+      "category": "Finance",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Eating Habits",
+      "variance": 0.08680746688603626,
+      "std": 0.29463106911192555,
+      "mean": 0.25002909350869396,
+      "min": 0.0061835802082049,
+      "max": 0.819588440781552,
+      "category": "Lifestyle",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Online activity (one or more times per week)",
+      "variance": 0.07679983223582612,
+      "std": 0.27712782652744583,
+      "mean": 0.4457941824725745,
+      "min": 0.0483748427797554,
+      "max": 0.933132587047198,
+      "category": "Digital",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Manage current account",
+      "variance": 0.07354863420453202,
+      "std": 0.2711985143848174,
+      "mean": 0.4821153307646712,
+      "min": 0.0990045100721503,
+      "max": 0.846140709621143,
+      "category": "Financial Channel",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Children in household",
+      "variance": 0.07327684841770185,
+      "std": 0.2706969678768158,
+      "mean": 0.24999999999999967,
+      "min": 0.0226242417429813,
+      "max": 0.802769356676497,
+      "category": "Family",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Car type",
+      "variance": 0.061581471818562675,
+      "std": 0.2481561440274302,
+      "mean": 0.20221240987625597,
+      "min": 0.0010032284178496,
+      "max": 0.923706934904707,
+      "category": "Transport",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Actively manage current account",
+      "variance": 0.05434140924012298,
+      "std": 0.23311243905060702,
+      "mean": 0.2633470507558462,
+      "min": 0.0155123846056286,
+      "max": 0.605764597518206,
+      "category": "Financial Channel",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Social Media Activity (one or more times per week unless otherwise stated)",
+      "variance": 0.04868400425673447,
+      "std": 0.2206445201148999,
+      "mean": 0.3246613431690253,
+      "min": 0.0343877658280643,
+      "max": 0.924889364635364,
+      "category": "Media Habits",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Financial Attitudes",
+      "variance": 0.04677749371247385,
+      "std": 0.2162810525970175,
+      "mean": 0.49071895004816185,
+      "min": 0.0845683842508036,
+      "max": 0.911354982507022,
+      "category": "Finance",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Overall Social Media Activity",
+      "variance": 0.04377862605811462,
+      "std": 0.2092334248109384,
+      "mean": 0.20811467867856545,
+      "min": 0.0254845811762217,
+      "max": 0.61923963585867,
+      "category": "Media Habits",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Religion",
+      "variance": 0.04001125705971279,
+      "std": 0.20002814066953878,
+      "mean": 0.12499999999999983,
+      "min": 0.0003807656293608,
+      "max": 0.608078610837801,
+      "category": "Population (16+)",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Contentment",
+      "variance": 0.03916487556597569,
+      "std": 0.1979011762622337,
+      "mean": 0.333333333333333,
+      "min": 0.0186076505020973,
+      "max": 0.841084440354483,
+      "category": "Social Capital",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Travel To Work (% of Workers)",
+      "variance": 0.03901396491762436,
+      "std": 0.19751953047135454,
+      "mean": 0.14285714285714265,
+      "min": 0.0013171641216134,
+      "max": 0.788383610681328,
+      "category": "Transport",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Receiving information related to new products and services from a utility provider, bank, retailer, leisure provider",
+      "variance": 0.037482854101678814,
+      "std": 0.1936048917297257,
+      "mean": 0.12466389407350649,
+      "min": 0.0047798185303654,
+      "max": 0.713009992954368,
+      "category": "Channel Preference",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Credit Cards",
+      "variance": 0.03414251563657278,
+      "std": 0.18477693480673604,
+      "mean": 0.3333540379004607,
+      "min": 0.0755177071037531,
+      "max": 0.750930828675431,
+      "category": "Finance",
+      "classes_with_data": 22
+    },
+    {
+      "question": "House Type",
+      "variance": 0.033845758120625735,
+      "std": 0.18397216670090544,
+      "mean": 0.21589266045474814,
+      "min": 0.0110595003947293,
+      "max": 0.747059582119123,
+      "category": "Housing",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Arrange commoditised financial product",
+      "variance": 0.03333713084920079,
+      "std": 0.18258458546438358,
+      "mean": 0.27175933997472124,
+      "min": 0.0433896646226546,
+      "max": 0.679831429990373,
+      "category": "Financial Channel",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Internet Access: Usage in Last Week",
+      "variance": 0.03332456582652094,
+      "std": 0.18255017344971475,
+      "mean": 0.19999999999999968,
+      "min": 0.0138633070378427,
+      "max": 0.67818137097495,
+      "category": "Digital",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Receiving information related to existing products and services from a utility provider, bank, retailer, leisure provider",
+      "variance": 0.032698285104286205,
+      "std": 0.18082667144059864,
+      "mean": 0.12475769854881374,
+      "min": 0.0098039825882536,
+      "max": 0.687624401306157,
+      "category": "Channel Preference",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Clothing & Footwear Stores",
+      "variance": 0.03253990735440822,
+      "std": 0.18038821290319448,
+      "mean": 0.3513406365021783,
+      "min": 0.0568945225454785,
+      "max": 0.625034825251758,
+      "category": "Shopping",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Manage savings account",
+      "variance": 0.02964658523846349,
+      "std": 0.17218183771369003,
+      "mean": 0.2563279188234364,
+      "min": 0.0425230928637945,
+      "max": 0.557416156044356,
+      "category": "Financial Channel",
+      "classes_with_data": 22
+    },
+    {
+      "question": "House Value",
+      "variance": 0.029488155495977143,
+      "std": 0.17172115622711473,
+      "mean": 0.14285714285714263,
+      "min": 0.0001195550872612,
+      "max": 0.901977003813087,
+      "category": "Housing",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Attitudes",
+      "variance": 0.029197384202617197,
+      "std": 0.17087242083676699,
+      "mean": 0.21801061558744406,
+      "min": 0.0253584823661857,
+      "max": 0.77822470763122,
+      "category": "Shopping",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Action",
+      "variance": 0.028710442141716072,
+      "std": 0.16944155966502455,
+      "mean": 0.6200427711137171,
+      "min": 0.300679937084327,
+      "max": 0.8203215308223,
+      "category": "Environment",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Car Ownership",
+      "variance": 0.028156768712338423,
+      "std": 0.16779978758132688,
+      "mean": 0.2255831078574165,
+      "min": 0.014979714235735,
+      "max": 0.568408222617632,
+      "category": "Transport",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Digital Attitudes",
+      "variance": 0.0278592743584751,
+      "std": 0.16691097734563506,
+      "mean": 0.3469644422551727,
+      "min": 0.115148254370569,
+      "max": 0.639608209604391,
+      "category": "Digital",
+      "classes_with_data": 22
+    },
+    {
+      "question": "House Tenure",
+      "variance": 0.027801926285022222,
+      "std": 0.16673909645017937,
+      "mean": 0.19999999999999968,
+      "min": 0.0096073184842314,
+      "max": 0.629108946026277,
+      "category": "Housing",
+      "classes_with_data": 22
+    },
+    {
+      "question": "House Size",
+      "variance": 0.027742748502847723,
+      "std": 0.16656154569061768,
+      "mean": 0.1999999999999997,
+      "min": 0.0115404746582325,
+      "max": 0.614992975360115,
+      "category": "Housing",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Interests & Hobbies",
+      "variance": 0.026769101061105815,
+      "std": 0.16361265556522764,
+      "mean": 0.2014915738045042,
+      "min": 0.0193712884931396,
+      "max": 0.750734952508446,
+      "category": "Lifestyle",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Researching information about local services (council, local health service, other public sector body)",
+      "variance": 0.026041971699202037,
+      "std": 0.1613752511979518,
+      "mean": 0.12499671483057107,
+      "min": 0.0064210048353487,
+      "max": 0.633044609765419,
+      "category": "Channel Preference",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Places They Visit",
+      "variance": 0.025880331301759762,
+      "std": 0.1608736501163561,
+      "mean": 0.25295957581853684,
+      "min": 0.0216401545497712,
+      "max": 0.74330733442998,
+      "category": "Lifestyle",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Insurance and Pensions",
+      "variance": 0.024205257331141414,
+      "std": 0.15558038864568186,
+      "mean": 0.20180490521649427,
+      "min": 0.0085930014772169,
+      "max": 0.557922108447726,
+      "category": "Finance",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Financial Situation",
+      "variance": 0.022985784551182716,
+      "std": 0.1516106346902575,
+      "mean": 0.24999999999999956,
+      "min": 0.0977437931425994,
+      "max": 0.539250004171203,
+      "category": "Finance",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Holiday Destination / Type",
+      "variance": 0.022964605574745358,
+      "std": 0.15154077198808694,
+      "mean": 0.19628340726219215,
+      "min": 0.0083736085971043,
+      "max": 0.535248033916102,
+      "category": "Lifestyle",
+      "classes_with_data": 22
+    },
+    {
+      "question": "Receiving information related to local services (council, local health service, other public sector body)",
+      "variance": 0.02226259708896284,
+      "std": 0.1492065584649778,
+      "mean": 0.12491440532528907,
+      "min": 0.0052840343793414,
+      "max": 0.5784915664979,
+      "category": "Channel Preference",
+      "classes_with_data": 22
+    }
+  ],
+  "concept_type_patterns": {
+    "attitude_questions": {
+      "characteristics": [
+        "Focus on opinions, beliefs, and values",
+        "Often involve subjective judgments",
+        "Responses can be influenced by cultural and social norms"
+      ],
+      "typical_distribution": "SA 20%, A 40%, N 25%, D 10%, SD 5%",
+      "avg_agreement_range": "60-80%",
+      "calibration_rules": [
+        "Consider cultural context for interpretation",
+        "Account for social desirability bias",
+        "Use Likert scale for finer granularity"
+      ]
+    },
+    "behavior_low_friction": {
+      "characteristics": [
+        "Involve easy, everyday actions",
+        "Require minimal effort or commitment",
+        "Often habitual or routine behaviors"
+      ],
+      "typical_distribution": "SA 15%, A 35%, N 30%, D 15%, SD 5%",
+      "avg_agreement_range": "50-70%",
+      "calibration_rules": [
+        "Consider frequency of behavior in daily life",
+        "Account for accessibility and convenience factors",
+        "Use binary or frequency scales for clarity"
+      ]
+    },
+    "behavior_high_friction": {
+      "characteristics": [
+        "Involve significant effort or change",
+        "Require a higher level of commitment or resources",
+        "Often linked to major life decisions"
+      ],
+      "typical_distribution": "SA 10%, A 25%, N 30%, D 20%, SD 15%",
+      "avg_agreement_range": "35-55%",
+      "calibration_rules": [
+        "Consider barriers to action such as cost and time",
+        "Account for motivational factors",
+        "Use detailed scenarios to assess willingness"
+      ]
+    },
+    "identity_questions": {
+      "characteristics": [
+        "Focus on self-perception and personal identity",
+        "Often stable over time",
+        "Linked to core values and beliefs"
+      ],
+      "typical_distribution": "SA 25%, A 40%, N 20%, D 10%, SD 5%",
+      "avg_agreement_range": "65-85%",
+      "calibration_rules": [
+        "Consider the influence of social identity theory",
+        "Account for consistency with past behaviors",
+        "Use open-ended questions for depth"
+      ]
+    },
+    "classification_guidelines": [
+      "Attitude questions often start with 'I believe', 'I think', or 'I feel'",
+      "Behavior low friction questions involve actions like 'I use', 'I visit'",
+      "Behavior high friction questions involve actions like 'I switched', 'I invested'",
+      "Identity questions often start with 'I am', 'I consider myself'"
+    ]
+  },
+  "distribution_patterns": {
+    "typical_patterns": {
+      "high_agreement_questions": "These questions often show a right-skewed distribution with a significant portion of responses in the 'Agree' or 'Strongly Agree' categories, typically around 60-70% combined.",
+      "moderate_agreement_questions": "Responses tend to be more evenly distributed across 'Agree', 'Neutral', and 'Disagree', with 'Agree' and 'Neutral' categories each capturing around 30-40% of responses.",
+      "low_agreement_questions": "These questions usually have a left-skewed distribution, with a higher concentration of responses in the 'Disagree' or 'Strongly Disagree' categories, often around 50-60%.",
+      "high_neutral_questions": "Questions with high neutral responses show a peak in the 'Neutral' category, often capturing 40-50% of responses, with smaller, more balanced distributions in 'Agree' and 'Disagree'."
+    },
+    "distribution_rules": [
+      "When questions are about subjective satisfaction (e.g., job, life), expect a distribution skewed towards 'Agree'.",
+      "For factual or frequency-based questions (e.g., internet usage), expect a more normal distribution with peaks in specific categories like '20+ hours'.",
+      "Questions with broad or ambiguous wording tend to have higher 'Neutral' responses.",
+      "When questions are about controversial or sensitive topics, expect a bimodal distribution with peaks in both 'Agree' and 'Disagree'."
+    ],
+    "extremes_handling": "Predict 80%+ agreement for universally positive or non-controversial topics. Predict 20%- agreement for questions that challenge norms or involve negative sentiment."
+  },
+  "demographic_patterns": {
+    "income_wealth_patterns": {
+      "high_income": {
+        "description": "High-income individuals tend to focus on luxury and quality in their spending habits, with significant investments in property and financial products. They are more likely to engage in cultural and leisure activities such as theatre, opera, and travel.",
+        "calibrations": [
+          "+20pp for luxury brand affinity",
+          "+15pp for cultural event attendance",
+          "+10pp for investment in financial products"
+        ]
+      },
+      "low_income": {
+        "description": "Individuals with limited budgets prioritize essential spending and are less likely to engage in luxury purchases. They may focus more on value for money and discounts.",
+        "calibrations": [
+          "+20pp for discount and value-seeking behavior",
+          "+15pp for essential goods prioritization",
+          "-10pp for luxury brand affinity"
+        ]
+      }
+    },
+    "age_patterns": {
+      "young": {
+        "description": "Younger demographics are more digitally engaged, with high usage of social media and streaming services. They are early adopters of technology and prefer experiences over material goods.",
+        "calibrations": [
+          "+15pp for digital behaviors",
+          "+10pp for experience-oriented spending",
+          "+20pp for social media engagement"
+        ]
+      },
+      "middle_aged": {
+        "description": "Middle-aged individuals often balance family and career, with spending focused on home ownership, education, and family activities. They are moderately engaged with digital platforms.",
+        "calibrations": [
+          "+10pp for family-oriented spending",
+          "+5pp for home improvement and education",
+          "+10pp for balanced digital engagement"
+        ]
+      },
+      "elderly": {
+        "description": "Elderly demographics may have more traditional media consumption habits and focus on healthcare and leisure activities. They are less digitally engaged compared to younger groups.",
+        "calibrations": [
+          "+15pp for healthcare spending",
+          "+10pp for traditional media consumption",
+          "-10pp for digital engagement"
+        ]
+      }
+    },
+    "lifestyle_patterns": {
+      "urban_professional": {
+        "description": "Urban professionals are highly engaged with digital platforms and prefer convenience and premium services. They are often early adopters of new technologies and value experiences.",
+        "calibrations": [
+          "+20pp for digital service usage",
+          "+15pp for premium service preference",
+          "+10pp for technology adoption"
+        ]
+      },
+      "families": {
+        "description": "Families prioritize spending on housing, education, and family activities. They may seek value in purchases and are moderately engaged with digital platforms.",
+        "calibrations": [
+          "+15pp for family and education spending",
+          "+10pp for value-seeking behavior",
+          "+5pp for digital platform engagement"
+        ]
+      },
+      "retirees": {
+        "description": "Retirees focus on healthcare, leisure, and maintaining their lifestyle. They may have more traditional spending habits and are less engaged with new technologies.",
+        "calibrations": [
+          "+20pp for healthcare and leisure spending",
+          "+10pp for traditional spending habits",
+          "-10pp for technology engagement"
+        ]
+      }
+    },
+    "key_differentiators": [
+      "Income/Wealth",
+      "Age",
+      "Location",
+      "Lifecycle Stage"
+    ]
+  },
+  "general_rules": {
+    "concept_classification": {
+      "attitude": {
+        "criteria": [
+          "Questions start with 'I believe', 'I think', or 'I feel'",
+          "Focus on opinions, beliefs, and values",
+          "Involve subjective judgments"
+        ],
+        "examples": [
+          "I believe in climate change",
+          "I feel satisfied with my job"
+        ]
+      },
+      "behavior_low": {
+        "criteria": [
+          "Questions involve actions like 'I use', 'I visit'",
+          "Involve easy, everyday actions",
+          "Require minimal effort or commitment"
+        ],
+        "examples": [
+          "I use public transport daily",
+          "I visit the gym regularly"
+        ]
+      },
+      "behavior_high": {
+        "criteria": [
+          "Questions involve actions like 'I switched', 'I invested'",
+          "Involve significant effort or change",
+          "Require a higher level of commitment or resources"
+        ],
+        "examples": [
+          "I switched to a plant-based diet",
+          "I invested in renewable energy"
+        ]
+      },
+      "identity": {
+        "criteria": [
+          "Questions start with 'I am', 'I consider myself'",
+          "Focus on self-perception and personal identity",
+          "Often stable over time"
+        ],
+        "examples": [
+          "I am a vegetarian",
+          "I consider myself environmentally conscious"
+        ]
+      }
+    },
+    "base_distributions": {
+      "attitude": "SA 20%, A 40%, N 25%, D 10%, SD 5%",
+      "behavior_low": "SA 15%, A 35%, N 30%, D 15%, SD 5%",
+      "behavior_high": "SA 10%, A 25%, N 30%, D 20%, SD 15%",
+      "identity": "SA 25%, A 40%, N 20%, D 10%, SD 5%"
+    },
+    "proximal_guardrails": [
+      "If exact data shows 60% agreement, predict 55-65% range",
+      "If similar data shows high variance, widen prediction range by 10pp"
+    ],
+    "demographic_calibrations": {
+      "income": [
+        "+20pp for luxury brand affinity in high-income groups",
+        "-10pp for luxury brand affinity in low-income groups"
+      ],
+      "age": [
+        "+15pp for digital behaviors in young demographics",
+        "-10pp for digital engagement in elderly demographics"
+      ],
+      "lifestyle": [
+        "+20pp for digital service usage in urban professionals",
+        "+15pp for healthcare spending in retirees"
+      ]
+    },
+    "evidence_hierarchy": [
+      "Level 1: Exact match - weight 100%",
+      "Level 2: Similar concept - weight 75%",
+      "Level 3: General category - weight 50%",
+      "Level 4: Demographic inference - weight 25%"
+    ],
+    "range_classification": {
+      "high_agreement": "Predict 70%+ for universally positive or non-controversial topics",
+      "moderate": "Predict 40-70% for balanced or moderately controversial topics",
+      "low_agreement": "Predict <40% for topics challenging norms or with negative sentiment"
+    },
+    "conflict_resolution": [
+      "Prioritize exact data over similar data",
+      "Use demographic calibrations to adjust predictions when conflicts arise",
+      "If conflicts persist, default to moderate range prediction"
+    ]
+  },
+  "metadata": {
+    "total_rows": 16786,
+    "total_classes": 22,
+    "unique_questions": 86,
+    "categories": [
+      "Population",
+      "Population (16+)",
+      "Housing",
+      "Family",
+      "Economy",
+      "Education",
+      "Transport",
+      "Finance",
+      "Financial Channel",
+      "Internet",
+      "Digital",
+      "Devices",
+      "Media Habits",
+      "Shopping",
+      "Lifestyle",
+      "Environment",
+      "Community Safety",
+      "Health",
+      "Social Capital",
+      "Channel Preference"
+    ]
+  }
+}

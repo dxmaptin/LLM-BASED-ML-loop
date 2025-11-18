@@ -1,0 +1,479 @@
+C:\Users\d.zhang\Desktop\Experiments\venv\Lib\site-packages\langchain_core\_api\deprecation.py:27: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
+================================================================================
+TESTING V10 ON ALL REMAINING ACORN CLASSES
+================================================================================
+Already tested: 6 classes
+Remaining to test: 16 classes
+Total: 22 classes
+================================================================================
+
+[1/16]
+
+================================================================================
+Testing: aspiring_communities
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  26.5% | Error:   3.5pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  65.0% | Actual:  73.3% | Error:   8.3pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  25.0% | Actual:  13.4% | Error:  11.6pp [FAIL]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  43.1% | Error:   1.9pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  50.0% | Actual:  58.0% | Error:   8.0pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  10.5% | Error:  14.5pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  38.1% | Error:   1.9pp [OK]
+[8/10] Financial security after retirement is your own re...
+  Pred:  58.0% | Actual:  62.9% | Error:   4.9pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  33.7% | Error:   6.3pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  30.5% | Error:  24.5pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.6984 | MAE: 8.53pp | Excellent: 2/10
+--------------------------------------------------------------------------------
+
+[2/16]
+
+================================================================================
+Testing: commuter-belt_wealth
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  26.0% | Error:   4.0pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  76.9% | Error:   1.9pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  11.7% | Error:   3.3pp [WARN]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  43.1% | Error:   1.9pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  63.7% | Error:   1.3pp [OK]
+[6/10] It is important to be well insured for everything...
+  Pred:  12.0% | Actual:  11.2% | Error:   0.8pp [OK]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  41.8% | Error:   3.2pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  58.0% | Actual:  68.4% | Error:  10.4pp [FAIL]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  34.5% | Error:   5.5pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  35.0% | Actual:  28.5% | Error:   6.5pp [WARN]
+
+--------------------------------------------------------------------------------
+R2: 0.9518 | MAE: 3.89pp | Excellent: 4/10
+--------------------------------------------------------------------------------
+
+[3/16]
+
+================================================================================
+Testing: family_renters
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  24.9% | Error:   5.1pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  72.3% | Error:   2.7pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  25.0% | Actual:  14.8% | Error:  10.2pp [FAIL]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  44.7% | Error:   0.3pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  40.0% | Actual:  51.0% | Error:  11.0pp [FAIL]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  12.5% | Error:  12.5pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  33.9% | Error:   6.1pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  56.0% | Actual:  56.2% | Error:   0.2pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  31.7% | Error:   8.3pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  36.4% | Error:  18.6pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.7248 | MAE: 7.50pp | Excellent: 3/10
+--------------------------------------------------------------------------------
+
+[4/16]
+
+================================================================================
+Testing: flourishing_capital
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  40.0% | Actual:  31.0% | Error:   9.0pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  71.3% | Error:   3.7pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  14.1% | Error:   0.9pp [OK]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  42.3% | Error:   2.7pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  56.4% | Error:   8.6pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  12.0% | Actual:  15.6% | Error:   3.6pp [WARN]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  50.1% | Error:   5.1pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  58.0% | Actual:  63.7% | Error:   5.7pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  33.2% | Error:   6.8pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  35.0% | Actual:  39.9% | Error:   4.9pp [WARN]
+
+--------------------------------------------------------------------------------
+R2: 0.9037 | MAE: 5.08pp | Excellent: 2/10
+--------------------------------------------------------------------------------
+
+[5/16]
+
+================================================================================
+Testing: limited_budgets
+================================================================================
+[1/10] I think brands should consider environmental susta... - NO GROUND TRUTH
+[2/10] Make an effort to cut down on the use of gas / ele... - NO GROUND TRUTH
+[3/10] Fuel consumption is the most important feature whe... - NO GROUND TRUTH
+[4/10] I don't like the idea of being in debt... - NO GROUND TRUTH
+[5/10] I am very good at managing money... - NO GROUND TRUTH
+[6/10] It is important to be well insured for everything... - NO GROUND TRUTH
+[7/10] Healthy Eating... - NO GROUND TRUTH
+[8/10] Financial security after retirement is your own re... - NO GROUND TRUTH
+[9/10] Switching utilities suppliers is well worth the ef... - NO GROUND TRUTH
+[10/10] I like to use cash when making purchases... - NO GROUND TRUTH
+[SKIP] No ground truth for limited_budgets
+
+[6/16]
+
+================================================================================
+Testing: mature_success
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  22.5% | Error:   7.5pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  77.1% | Error:   2.1pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  12.5% | Error:   2.5pp [OK]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  41.3% | Error:   3.7pp [WARN]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  64.5% | Error:   0.5pp [OK]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  11.0% | Error:  14.0pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  40.8% | Error:   4.2pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  58.0% | Actual:  67.4% | Error:   9.4pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  35.0% | Actual:  32.4% | Error:   2.6pp [OK]
+[10/10] I like to use cash when making purchases...
+  Pred:  35.0% | Actual:  31.5% | Error:   3.5pp [WARN]
+
+--------------------------------------------------------------------------------
+R2: 0.9156 | MAE: 5.00pp | Excellent: 4/10
+--------------------------------------------------------------------------------
+
+[7/16]
+
+================================================================================
+Testing: metropolitan_surroundings
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  25.4% | Error:   4.6pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  70.0% | Actual:  66.4% | Error:   3.6pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  16.6% | Error:   1.6pp [OK]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  44.1% | Error:   0.9pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  55.0% | Actual:  53.6% | Error:   1.4pp [OK]
+[6/10] It is important to be well insured for everything...
+  Pred:  12.0% | Actual:  12.9% | Error:   0.9pp [OK]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  39.5% | Error:   5.5pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  54.0% | Actual:  55.1% | Error:   1.1pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  29.4% | Error:  10.6pp [FAIL]
+[10/10] I like to use cash when making purchases...
+  Pred:  45.0% | Actual:  32.5% | Error:  12.5pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.8756 | MAE: 4.27pp | Excellent: 5/10
+--------------------------------------------------------------------------------
+
+[8/16]
+
+================================================================================
+Testing: not_private_households
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  35.0% | Error:   5.0pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  65.0% | Actual:  60.8% | Error:   4.2pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  18.7% | Error:   3.7pp [WARN]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  43.9% | Error:   1.1pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  50.0% | Actual:  53.3% | Error:   3.3pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  17.5% | Error:   7.5pp [WARN]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  19.6% | Error:  25.4pp [FAIL]
+[8/10] Financial security after retirement is your own re...
+  Pred:  54.0% | Actual:  51.5% | Error:   2.5pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  34.3% | Error:   5.7pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  51.6% | Error:   3.4pp [WARN]
+
+--------------------------------------------------------------------------------
+R2: 0.6444 | MAE: 6.19pp | Excellent: 2/10
+--------------------------------------------------------------------------------
+
+[9/16]
+
+================================================================================
+Testing: prosperous_professionals
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  34.0% | Error:   4.0pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  71.1% | Error:   3.9pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  11.9% | Error:   3.1pp [WARN]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  43.1% | Error:   1.9pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  54.8% | Error:  10.2pp [FAIL]
+[6/10] It is important to be well insured for everything...
+  Pred:  12.0% | Actual:  11.2% | Error:   0.8pp [OK]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  44.4% | Error:   0.6pp [OK]
+[8/10] Financial security after retirement is your own re...
+  Pred:  55.0% | Actual:  59.8% | Error:   4.8pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  34.3% | Error:   5.7pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  25.0% | Actual:  28.7% | Error:   3.7pp [WARN]
+
+--------------------------------------------------------------------------------
+R2: 0.9360 | MAE: 3.89pp | Excellent: 3/10
+--------------------------------------------------------------------------------
+
+[10/16]
+
+================================================================================
+Testing: semi-rural_maturity
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  22.9% | Error:   7.1pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  76.5% | Error:   1.5pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  14.8% | Error:   0.2pp [OK]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  43.5% | Error:   1.5pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  55.0% | Actual:  62.6% | Error:   7.6pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  11.5% | Error:  13.5pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  38.8% | Error:   1.2pp [OK]
+[8/10] Financial security after retirement is your own re...
+  Pred:  58.0% | Actual:  66.9% | Error:   8.9pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  33.0% | Error:   7.0pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  35.7% | Error:  19.3pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.8185 | MAE: 6.78pp | Excellent: 4/10
+--------------------------------------------------------------------------------
+
+[11/16]
+
+================================================================================
+Testing: settled_suburbia
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  24.6% | Error:   5.4pp [WARN]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  70.0% | Actual:  74.7% | Error:   4.7pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  12.3% | Error:   2.7pp [OK]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  42.3% | Error:   2.7pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  55.0% | Actual:  58.1% | Error:   3.1pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  11.4% | Error:  13.6pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  37.1% | Error:   7.9pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  58.0% | Actual:  63.6% | Error:   5.6pp [WARN]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  33.3% | Error:   6.7pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  45.0% | Actual:  31.5% | Error:  13.5pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.8559 | MAE: 6.57pp | Excellent: 2/10
+--------------------------------------------------------------------------------
+
+[12/16]
+
+================================================================================
+Testing: tenant_living
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  32.7% | Error:   2.7pp [OK]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  70.0% | Actual:  73.7% | Error:   3.7pp [WARN]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  14.9% | Error:   0.1pp [OK]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  47.1% | Error:   2.1pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  55.0% | Actual:  51.5% | Error:   3.5pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  10.3% | Error:  14.7pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  38.9% | Error:   6.1pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  54.0% | Actual:  54.7% | Error:   0.7pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  35.0% | Actual:  34.0% | Error:   1.0pp [OK]
+[10/10] I like to use cash when making purchases...
+  Pred:  55.0% | Actual:  33.3% | Error:  21.7pp [FAIL]
+
+--------------------------------------------------------------------------------
+R2: 0.7595 | MAE: 5.64pp | Excellent: 5/10
+--------------------------------------------------------------------------------
+
+[13/16]
+
+================================================================================
+Testing: traditional_homeowners
+================================================================================
+[1/10] I think brands should consider environmental susta... - NO GROUND TRUTH
+[2/10] Make an effort to cut down on the use of gas / ele... - NO GROUND TRUTH
+[3/10] Fuel consumption is the most important feature whe... - NO GROUND TRUTH
+[4/10] I don't like the idea of being in debt... - NO GROUND TRUTH
+[5/10] I am very good at managing money... - NO GROUND TRUTH
+[6/10] It is important to be well insured for everything... - NO GROUND TRUTH
+[7/10] Healthy Eating... - NO GROUND TRUTH
+[8/10] Financial security after retirement is your own re... - NO GROUND TRUTH
+[9/10] Switching utilities suppliers is well worth the ef... - NO GROUND TRUTH
+[10/10] I like to use cash when making purchases... - NO GROUND TRUTH
+[SKIP] No ground truth for traditional_homeowners
+
+[14/16]
+
+================================================================================
+Testing: up-and-coming_urbanites
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  30.8% | Error:   0.8pp [OK]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  70.0% | Actual:  69.8% | Error:   0.2pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  10.1% | Error:   4.9pp [WARN]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  47.7% | Error:   2.7pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  55.0% | Actual:  52.3% | Error:   2.7pp [OK]
+[6/10] It is important to be well insured for everything...
+  Pred:  25.0% | Actual:  11.3% | Error:  13.7pp [FAIL]
+[7/10] Healthy Eating...
+  Pred:  40.0% | Actual:  46.0% | Error:   6.0pp [WARN]
+[8/10] Financial security after retirement is your own re...
+  Pred:  54.0% | Actual:  52.9% | Error:   1.1pp [OK]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  33.6% | Error:   6.4pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  35.0% | Actual:  29.2% | Error:   5.8pp [WARN]
+
+--------------------------------------------------------------------------------
+R2: 0.8949 | MAE: 4.44pp | Excellent: 5/10
+--------------------------------------------------------------------------------
+
+[15/16]
+
+================================================================================
+Testing: upmarket_families
+================================================================================
+[1/10] I think brands should consider environmental susta...
+  Pred:  30.0% | Actual:  30.2% | Error:   0.2pp [OK]
+[2/10] Make an effort to cut down on the use of gas / ele...
+  Pred:  75.0% | Actual:  72.9% | Error:   2.1pp [OK]
+[3/10] Fuel consumption is the most important feature whe...
+  Pred:  15.0% | Actual:  11.8% | Error:   3.2pp [WARN]
+[4/10] I don't like the idea of being in debt...
+  Pred:  45.0% | Actual:  42.3% | Error:   2.7pp [OK]
+[5/10] I am very good at managing money...
+  Pred:  65.0% | Actual:  70.0% | Error:   5.0pp [WARN]
+[6/10] It is important to be well insured for everything...
+  Pred:  18.0% | Actual:  13.1% | Error:   4.9pp [WARN]
+[7/10] Healthy Eating...
+  Pred:  45.0% | Actual:  43.9% | Error:   1.1pp [OK]
+[8/10] Financial security after retirement is your own re...
+  Pred:  55.0% | Actual:  71.2% | Error:  16.2pp [FAIL]
+[9/10] Switching utilities suppliers is well worth the ef...
+  Pred:  40.0% | Actual:  34.1% | Error:   5.9pp [WARN]
+[10/10] I like to use cash when making purchases...
+  Pred:  35.0% | Actual:  26.7% | Error:   8.3pp [WARN]
+
+--------------------------------------------------------------------------------
+R2: 0.9081 | MAE: 4.96pp | Excellent: 4/10
+--------------------------------------------------------------------------------
+
+[16/16]
+
+================================================================================
+Testing: urban_diversity
+================================================================================
+[1/10] I think brands should consider environmental susta... - NO GROUND TRUTH
+[2/10] Make an effort to cut down on the use of gas / ele... - NO GROUND TRUTH
+[3/10] Fuel consumption is the most important feature whe... - NO GROUND TRUTH
+[4/10] I don't like the idea of being in debt... - NO GROUND TRUTH
+[5/10] I am very good at managing money... - NO GROUND TRUTH
+[6/10] It is important to be well insured for everything... - NO GROUND TRUTH
+[7/10] Healthy Eating... - NO GROUND TRUTH
+[8/10] Financial security after retirement is your own re... - NO GROUND TRUTH
+[9/10] Switching utilities suppliers is well worth the ef... - NO GROUND TRUTH
+[10/10] I like to use cash when making purchases... - NO GROUND TRUTH
+[SKIP] No ground truth for urban_diversity
+
+================================================================================
+SUMMARY: V10 ON REMAINING CLASSES
+================================================================================
+
+Class                                     R2      MAE  Excellent     Status
+--------------------------------------------------------------------------------
+aspiring_communities                  0.6984     8.53   2/10        WARN
+commuter-belt_wealth                  0.9518     3.89   4/10        PASS
+family_renters                        0.7248     7.50   3/10        PASS
+flourishing_capital                   0.9037     5.08   2/10        PASS
+mature_success                        0.9156     5.00   4/10        PASS
+metropolitan_surroundings             0.8756     4.27   5/10        PASS
+not_private_households                0.6444     6.19   2/10        WARN
+prosperous_professionals              0.9360     3.89   3/10        PASS
+semi-rural_maturity                   0.8185     6.78   4/10        PASS
+settled_suburbia                      0.8559     6.57   2/10        PASS
+tenant_living                         0.7595     5.64   5/10        PASS
+up-and-coming_urbanites               0.8949     4.44   5/10        PASS
+upmarket_families                     0.9081     4.96   4/10        PASS
+
+================================================================================
+Average R2: 0.8375
+Average MAE: 5.60pp
+Classes with R2 > 0.7: 11/13
+Classes with R2 > 0.5: 13/13
+================================================================================
+
+Results saved to: v10_remaining_classes_results.csv

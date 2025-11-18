@@ -1,0 +1,125 @@
+{
+  "batch2": [
+    {
+      "question": "Playing Golf",
+      "actual": 0.0492978748728104,
+      "predicted": 0.37,
+      "error": 0.3207021251271896
+    },
+    {
+      "question": "Acting dancing or other performing arts",
+      "actual": 0.0440600089320626,
+      "predicted": 0.08,
+      "error": 0.0359399910679374
+    },
+    {
+      "question": "Art and craft",
+      "actual": 0.178027377049451,
+      "predicted": 0.128,
+      "error": -0.05002737704945101
+    },
+    {
+      "question": "Bird watching",
+      "actual": 0.0830693207719085,
+      "predicted": 0.358,
+      "error": 0.2749306792280915
+    },
+    {
+      "question": "Collecting items of interest (e.g. stamps coins etc.)",
+      "actual": 0.0744348115667818,
+      "predicted": 0.07200000000000001,
+      "error": -0.002434811566781797
+    },
+    {
+      "question": "Cooking",
+      "actual": 0.369923578492648,
+      "predicted": 0.18200000000000002,
+      "error": -0.18792357849264799
+    },
+    {
+      "question": "Cycling",
+      "actual": 0.0712433190639934,
+      "predicted": 0.376,
+      "error": 0.3047566809360066
+    },
+    {
+      "question": "DIY",
+      "actual": 0.191613307033172,
+      "predicted": 0.08,
+      "error": -0.111613307033172
+    },
+    {
+      "question": "Exercising indoors (e.g. in a gym)",
+      "actual": 0.211686916405179,
+      "predicted": 0.27399999999999997,
+      "error": 0.06231308359482096
+    },
+    {
+      "question": "Fishing",
+      "actual": 0.0263836623682233,
+      "predicted": 0.24,
+      "error": 0.21361633763177668
+    },
+    {
+      "question": "Gardening",
+      "actual": 0.333550806774257,
+      "predicted": 0.126,
+      "error": -0.20755080677425702
+    },
+    {
+      "question": "Hiking climbing or other outdoor pursuits",
+      "actual": 0.192716566790957,
+      "predicted": 0.44400000000000006,
+      "error": 0.25128343320904306
+    },
+    {
+      "question": "Knitting and sewing",
+      "actual": 0.121467135753976,
+      "predicted": 0.294,
+      "error": 0.172532864246024
+    },
+    {
+      "question": "Photography",
+      "actual": 0.128216985243866,
+      "predicted": 0.07400000000000001,
+      "error": -0.05421698524386598
+    },
+    {
+      "question": "Playing board games or cards",
+      "actual": 0.238817679376083,
+      "predicted": 0.42,
+      "error": 0.18118232062391698
+    },
+    {
+      "question": "Playing games on devices",
+      "actual": 0.338060971836199,
+      "predicted": 0.358,
+      "error": 0.019939028163800998
+    },
+    {
+      "question": "Playing musical instruments",
+      "actual": 0.0834089070051974,
+      "predicted": 0.25,
+      "error": 0.1665910929948026
+    },
+    {
+      "question": "Playing sports",
+      "actual": 0.122380262535906,
+      "predicted": 0.10800000000000001,
+      "error": -0.014380262535905991
+    },
+    {
+      "question": "Computer programming",
+      "actual": 0.042096706161918,
+      "predicted": 0.10800000000000001,
+      "error": 0.06590329383808202
+    },
+    {
+      "question": "Reading",
+      "actual": 0.562415431062862,
+      "predicted": 0.084,
+      "error": -0.47841543106286194
+    }
+  ],
+  "batch3": []
+}

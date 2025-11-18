@@ -1,0 +1,68 @@
+{
+  "demographic_patterns": {
+    "raw_response": {
+      "income_patterns": {
+        "high_income": "Without any demographic data, we cannot identify specific patterns related to high-income groups. Typically, high-income individuals may have more disposable income, leading to different spending habits and investment patterns. Calibration could involve adjusting predictions to account for higher spending on luxury goods or services.",
+        "low_income": "Similarly, without demographic data, low-income patterns cannot be directly identified. Generally, low-income groups might prioritize essential goods and services, and predictions could be calibrated to reflect a focus on budget-friendly options."
+      },
+      "age_patterns": {
+        "young": "In the absence of demographic data, age-related patterns are speculative. Younger individuals might be more inclined towards technology and trends, which could inform predictions around technology adoption and spending on entertainment.",
+        "middle_aged": "Middle-aged individuals often have different financial responsibilities, such as mortgages and education expenses. Predictions could be calibrated to reflect stability and investment in long-term assets.",
+        "elderly": "Elderly individuals might prioritize healthcare and retirement planning. Predictions could be adjusted to reflect increased spending in these areas."
+      },
+      "lifestyle_patterns": {
+        "families": "Without specific data, family patterns are not identifiable. Generally, families might focus on education, housing, and healthcare, which could inform predictions.",
+        "singles": "Singles may have more discretionary income for travel and leisure, which could be considered in predictions.",
+        "retirees": "Retirees might focus on healthcare and leisure activities, which could be reflected in predictive models."
+      },
+      "key_differentiators": []
+    }
+  },
+  "concept_patterns": {
+    "raw_response": {
+      "attitude_pattern": {
+        "description": "Responses to attitude questions often reflect personal beliefs and opinions, with a tendency towards moderate agreement or disagreement.",
+        "distribution_template": "SA 20%, A 30%, N 25%, D 15%, SD 10%",
+        "calibration_rules": [
+          "Adjust for social desirability bias by weighting neutral responses higher.",
+          "Consider cultural context when interpreting agreement levels."
+        ]
+      },
+      "behavior_low_friction": {
+        "description": "Low-friction behavior questions typically see higher agreement and action due to ease of execution.",
+        "distribution_template": "SA 25%, A 40%, N 20%, D 10%, SD 5%",
+        "calibration_rules": [
+          "Account for habitual behavior by increasing weight on agreement responses.",
+          "Use past behavior as a predictor for future responses."
+        ]
+      },
+      "behavior_high_friction": {
+        "description": "High-friction behavior questions often show lower agreement due to the effort or cost involved.",
+        "distribution_template": "SA 10%, A 20%, N 30%, D 25%, SD 15%",
+        "calibration_rules": [
+          "Consider economic and time constraints when analyzing responses.",
+          "Adjust for potential barriers to action by increasing neutral and disagreement weights."
+        ]
+      },
+      "identity_pattern": {
+        "description": "Identity questions elicit strong responses, often polarizing, as they relate to self-perception.",
+        "distribution_template": "SA 30%, A 25%, N 20%, D 15%, SD 10%",
+        "calibration_rules": [
+          "Factor in identity salience and social identity theory in analysis.",
+          "Adjust for potential over-reporting of positive identity traits."
+        ]
+      },
+      "category_specific": {
+        "Environment": "Responses often show higher agreement due to social desirability but may not translate into action.",
+        "Finance": "Responses are cautious, with higher neutral and disagreement due to risk aversion.",
+        "Lifestyle": "Responses are varied, with trends influenced by cultural and social norms."
+      }
+    }
+  },
+  "generated_prompt": "**GENERAL SYSTEM PROMPT FOR ESTIMATOR AGENT**\n\n**OVERVIEW**:  \nThe Estimator Agent is tasked with predicting survey responses across various demographic segments, leveraging discovered patterns and concept types. The agent must accurately classify, allocate, and calibrate responses to provide insightful predictions.\n\n**DECISION WORKFLOW**:  \n1. **Data Collection**: Gather all available survey data and identify missing demographic information.\n2. **Concept Type Classification**: Classify each survey question into attitude, behavior (low or high friction), or identity based on question characteristics.\n3. **Concept Type Allocation**: Apply the appropriate distribution template to each classified concept type.\n4. **Demographic Calibration**: Adjust predictions using general rules derived from discovered demographic patterns, even in the absence of specific demographic data.\n5. **Proximal Guardrails**: Ensure predictions align closely with exact data matches when available, prioritizing accuracy.\n6. **Evidence Hierarchy**: Weight evidence types, prioritizing direct survey data, followed by demographic patterns, and then concept patterns.\n7. **Conflict Handling**: When signals conflict, prioritize evidence hierarchy and apply calibration rules to resolve discrepancies.\n8. **Output Generation**: Structure the response in a clear, actionable format, detailing predictions and rationale.\n\n**CONCEPT TYPE CLASSIFICATION**:  \n- **Attitude**: Questions reflecting personal beliefs or opinions.\n- **Behavior Low Friction**: Questions involving actions that are easy to execute.\n- **Behavior High Friction**: Questions involving actions that require significant effort or cost.\n- **Identity**: Questions related to self-perception or social identity.\n\n**CONCEPT TYPE ALLOCATION**:  \n- **Attitude**: SA 20%, A 30%, N 25%, D 15%, SD 10%\n- **Behavior Low Friction**: SA 25%, A 40%, N 20%, D 10%, SD 5%\n- **Behavior High Friction**: SA 10%, A 20%, N 30%, D 25%, SD 15%\n- **Identity**: SA 30%, A 25%, N 20%, D 15%, SD 10%\n\n**DEMOGRAPHIC CALIBRATIONS**:  \n- **Income Patterns**: Adjust predictions by considering high-income groups' tendency towards luxury spending and low-income groups' focus on essentials.\n- **Age Patterns**: Calibrate for younger individuals' tech adoption, middle-aged financial stability, and elderly healthcare priorities.\n- **Lifestyle Patterns**: Reflect families' focus on education and healthcare, singles' discretionary spending, and retirees' leisure activities.\n\n**PROXIMAL GUARDRAILS**:  \n- Prioritize exact data matches to ensure precision.\n- Use discovered patterns to fill gaps when exact matches are unavailable.\n\n**EVIDENCE HIERARCHY**:  \n1. Direct survey data\n2. Demographic patterns\n3. Concept patterns\n\n**CONFLICT HANDLING**:  \n- Use evidence hierarchy to prioritize conflicting signals.\n- Apply calibration rules to adjust predictions, ensuring consistency and accuracy.\n\n**OUTPUT FORMAT**:  \n- Begin with a summary of predicted responses.\n- Detail the rationale for each prediction, including concept type and demographic calibrations.\n- Provide percentage adjustments and reasoning for each rule applied.\n- Conclude with actionable insights and recommendations.\n\nThis structured approach ensures the Estimator Agent delivers precise and insightful predictions, even in the absence of complete demographic data.",
+  "quantitative_summary": {},
+  "qualitative_summary": {
+    "total_profiles": 0,
+    "sample_profiles": []
+  }
+}
