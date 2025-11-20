@@ -1,0 +1,487 @@
+[
+  {
+    "concept_id": "exfoliationg_body_scrub_and_massage_bar",
+    "concept_name": "Exfoliationg Body Scrub and Massage Bar",
+    "metrics": [
+      {
+        "metric_key": "target_top2box_intent",
+        "metric_name": "Purchase Intent (Target)",
+        "predicted": 65,
+        "actual": 53.0,
+        "difference": 12.0,
+        "error_percent": 22.641509433962266
+      },
+      {
+        "metric_key": "appeal_pcttop_2",
+        "metric_name": "Appeal",
+        "predicted": 68,
+        "actual": 38.0,
+        "difference": 30.0,
+        "error_percent": 78.94736842105263
+      },
+      {
+        "metric_key": "uniqueness_pcttop_2",
+        "metric_name": "Uniqueness",
+        "predicted": 62,
+        "actual": 40.0,
+        "difference": 22.0,
+        "error_percent": 55.00000000000001
+      },
+      {
+        "metric_key": "relevance_pcttop_2",
+        "metric_name": "Relevance",
+        "predicted": 65,
+        "actual": 36.0,
+        "difference": 29.0,
+        "error_percent": 80.55555555555556
+      },
+      {
+        "metric_key": "excitement_pcttop_2",
+        "metric_name": "Excitement",
+        "predicted": 80,
+        "actual": 64.0,
+        "difference": 16.0,
+        "error_percent": 25.0
+      },
+      {
+        "metric_key": "price_value_pcttop_2",
+        "metric_name": "Price/Value",
+        "predicted": 60,
+        "actual": 45.0,
+        "difference": 15.0,
+        "error_percent": 33.33333333333333
+      },
+      {
+        "metric_key": "believability_pcttop",
+        "metric_name": "Believability",
+        "predicted": 65,
+        "actual": 34.0,
+        "difference": 31.0,
+        "error_percent": 91.17647058823529
+      },
+      {
+        "metric_key": "understanding_pcttop_3",
+        "metric_name": "Understanding",
+        "predicted": 75,
+        "actual": 60.0,
+        "difference": 15.0,
+        "error_percent": 25.0
+      },
+      {
+        "metric_key": "trial",
+        "metric_name": "Trial Intent",
+        "predicted": 67,
+        "actual": 27.0,
+        "difference": 40.0,
+        "error_percent": 148.14814814814815
+      },
+      {
+        "metric_key": "inc_trial_brand",
+        "metric_name": "Incremental Trial",
+        "predicted": 50,
+        "actual": 25.0,
+        "difference": 25.0,
+        "error_percent": 100.0
+      },
+      {
+        "metric_key": "star_rating",
+        "metric_name": "Overall Star Rating",
+        "predicted": 72,
+        "actual": null,
+        "difference": null,
+        "error_percent": null
+      }
+    ],
+    "overall_confidence": 85.0,
+    "reasoning": {
+      "perceptual": {
+        "visual_assessment": "The product's visual appeal is somewhat limited due to the lack of specific color scheme and imagery details. However, the concept of a massage bar is visually intriguing and suggests a tactile, sensorial experience.",
+        "claim_assessment": "The claims of being vegan, suitable for all skin types, and containing natural ingredients like bamboo powder and Camilina Sativa oil are strong drivers for appeal and relevance. The combination of exfoliation and massage offers a unique benefit that enhances uniqueness and excitement.",
+        "positioning_impact": "Positioned as a mass market product with broad appeal, the product is likely to resonate well with a wide audience. The everyday use and problem-solving nature align with consumer needs, enhancing relevance. However, the mass market positioning may slightly dilute perceived uniqueness."
+      },
+      "evaluative": {
+        "price_value_logic": "The product offers a combination of exfoliation and massage, which is perceived as a premium benefit. The vegan and natural ingredients, along with the unique format, contribute to a perceived higher value. However, without a specific price point, the value perception is moderate, as indicated by the moderate price value signal (53%).",
+        "believability_logic": "The product claims are supported by scientific backing and proof points, which enhances believability. The emotional and sensory claims also contribute positively. The fact that it is dermatologist tested and uses known ingredients like bamboo powder and aloe juice further supports credibility. The moderate uniqueness score suggests some skepticism, but overall, the claims are believable.",
+        "understanding_logic": "The concept is straightforward, combining familiar elements like exfoliation and massage in an innovative format. The clear benefits and simple language used in the description, along with positive consumer feedback, suggest a high level of understanding. The absence of complex technical jargon also aids comprehension."
+      },
+      "outcome": {
+        "intent_logic": "The purchase intent is driven by strong excitement (80%) and good relevance (65%), which suggests a high level of interest in the product. The appeal is moderate at 68%, and the price/value perception is reasonable at 60%, which supports a solid purchase intent. Believability is at 65%, which does not significantly suppress intent. The unique combination of exfoliation and massage, along with positive consumer feedback on vegan and skin-friendly attributes, further supports a higher purchase intent.",
+        "trial_logic": "Trial intent is slightly higher than purchase intent due to the novelty and unique features of the product, which may encourage more consumers to try it even if they are not fully committed to purchasing. The absence of significant barriers in the verbatim feedback suggests that trial intent should be close to purchase intent.",
+        "consistency_check": "The trial intent is within 8 percentage points of the purchase intent, maintaining consistency. Incremental trial is set at 50%, reflecting the product's newness and unique positioning, which is likely to attract new customers. The star rating of 72 aligns with the weighted average of key perceptual metrics, considering the high excitement and moderate appeal and relevance."
+      }
+    },
+    "enhanced_features": {
+      "claim_types": [
+        "Functional",
+        "Emotional",
+        "Natural/Clean",
+        "Sensory"
+      ],
+      "positioning": "Mass market, Broad appeal, Everyday use, Problem-solving",
+      "innovation_level": "Meaningful innovation",
+      "target_clarity": "Broad",
+      "proof_point_count": 3,
+      "has_scientific_backing": true
+    }
+  },
+  {
+    "concept_id": "ph_sensitive_skin_body_wash",
+    "concept_name": "pH Sensitive Skin Body Wash",
+    "metrics": [
+      {
+        "metric_key": "target_top2box_intent",
+        "metric_name": "Purchase Intent (Target)",
+        "predicted": 55,
+        "actual": 56.0,
+        "difference": -1.0,
+        "error_percent": 1.7857142857142856
+      },
+      {
+        "metric_key": "appeal_pcttop_2",
+        "metric_name": "Appeal",
+        "predicted": 75,
+        "actual": 37.0,
+        "difference": 38.0,
+        "error_percent": 102.7027027027027
+      },
+      {
+        "metric_key": "uniqueness_pcttop_2",
+        "metric_name": "Uniqueness",
+        "predicted": 65,
+        "actual": 37.0,
+        "difference": 28.0,
+        "error_percent": 75.67567567567568
+      },
+      {
+        "metric_key": "relevance_pcttop_2",
+        "metric_name": "Relevance",
+        "predicted": 60,
+        "actual": 28.0,
+        "difference": 32.0,
+        "error_percent": 114.28571428571428
+      },
+      {
+        "metric_key": "excitement_pcttop_2",
+        "metric_name": "Excitement",
+        "predicted": 70,
+        "actual": 64.0,
+        "difference": 6.0,
+        "error_percent": 9.375
+      },
+      {
+        "metric_key": "price_value_pcttop_2",
+        "metric_name": "Price/Value",
+        "predicted": 60,
+        "actual": 42.0,
+        "difference": 18.0,
+        "error_percent": 42.857142857142854
+      },
+      {
+        "metric_key": "believability_pcttop",
+        "metric_name": "Believability",
+        "predicted": 40,
+        "actual": 30.0,
+        "difference": 10.0,
+        "error_percent": 33.33333333333333
+      },
+      {
+        "metric_key": "understanding_pcttop_3",
+        "metric_name": "Understanding",
+        "predicted": 75,
+        "actual": 62.0,
+        "difference": 13.0,
+        "error_percent": 20.967741935483872
+      },
+      {
+        "metric_key": "trial",
+        "metric_name": "Trial Intent",
+        "predicted": 52,
+        "actual": 25.0,
+        "difference": 27.0,
+        "error_percent": 108.0
+      },
+      {
+        "metric_key": "inc_trial_brand",
+        "metric_name": "Incremental Trial",
+        "predicted": 35,
+        "actual": 23.0,
+        "difference": 12.0,
+        "error_percent": 52.17391304347826
+      },
+      {
+        "metric_key": "star_rating",
+        "metric_name": "Overall Star Rating",
+        "predicted": 68,
+        "actual": null,
+        "difference": null,
+        "error_percent": null
+      }
+    ],
+    "overall_confidence": 85.0,
+    "reasoning": {
+      "perceptual": {
+        "visual_assessment": "The lack of visual data means we cannot assess the visual attractiveness directly. However, consumer feedback highlights the appealing nature of the product's natural and vegan ingredients, which suggests a positive visual and conceptual appeal.",
+        "claim_assessment": "The product's claims of being pH balanced, vegan, and suitable for sensitive skin are strong drivers of appeal and relevance. These claims align with current consumer trends towards natural and dermatologist-approved products, enhancing both uniqueness and appeal.",
+        "positioning_impact": "The product appears to be positioned towards a niche market of consumers with sensitive skin, which may limit broad relevance but increases appeal within this target group. The focus on sensitive skin and natural ingredients suggests a targeted positioning that enhances uniqueness and excitement among the intended audience."
+      },
+      "evaluative": {
+        "price_value_logic": "The product is perceived as having good ingredients and benefits for sensitive skin, which can justify a moderate price point. However, without scientific backing or proof points, it may not be seen as a premium product, thus limiting the perceived value.",
+        "believability_logic": "The lack of scientific backing and proof points significantly lowers the believability of the product's claims. While the emotional and sensory claims related to natural ingredients and vegan aspects are more believable, the absence of evidence for the pH-sensitive claim reduces overall believability.",
+        "understanding_logic": "The concept is straightforward and focuses on sensitive skin, which is clearly communicated and understood by consumers. The feedback indicates that consumers grasp the main benefits and features, leading to a high understanding score."
+      },
+      "outcome": {
+        "intent_logic": "The purchase intent is driven by a combination of strong appeal (75%) and excitement (70%), which are both high. However, the relevance (60%) and price/value (60%) are moderate, and believability is low (40%), which suppresses the intent. The formula used is: (Appeal \u00d7 0.3 + Relevance \u00d7 0.3 + Excitement \u00d7 0.2 + Price/Value \u00d7 0.2) = 55. Adjustments for believability issues are considered, but since it's not below 40, the impact is minimal.",
+        "trial_logic": "Trial intent is slightly lower than purchase intent due to potential barriers not explicitly mentioned in the verbatims, but generally, the trial tracks closely with purchase intent. Given the moderate price/value perception, trial intent is set at 52%, slightly below purchase intent.",
+        "consistency_check": "The trial intent is within 8 percentage points of purchase intent, ensuring consistency. Incremental trial is set at 35%, reflecting a new and unique concept with moderate brand loyalty signals. The star rating is calculated using the formula: (Appeal \u00d7 0.4 + Excitement \u00d7 0.3 + Relevance \u00d7 0.3) = 68, aligning well with the perceptual scores."
+      }
+    },
+    "enhanced_features": {
+      "claim_types": [],
+      "positioning": "",
+      "innovation_level": "",
+      "target_clarity": "",
+      "proof_point_count": 0,
+      "has_scientific_backing": false
+    }
+  },
+  {
+    "concept_id": "sgs_glow_on_gradual_tan_lotion",
+    "concept_name": "S&G's 'Glow On' Gradual Tan Lotion",
+    "metrics": [
+      {
+        "metric_key": "target_top2box_intent",
+        "metric_name": "Purchase Intent (Target)",
+        "predicted": 42,
+        "actual": 58.0,
+        "difference": -16.0,
+        "error_percent": 27.586206896551722
+      },
+      {
+        "metric_key": "appeal_pcttop_2",
+        "metric_name": "Appeal",
+        "predicted": 55,
+        "actual": 45.0,
+        "difference": 10.0,
+        "error_percent": 22.22222222222222
+      },
+      {
+        "metric_key": "uniqueness_pcttop_2",
+        "metric_name": "Uniqueness",
+        "predicted": 50,
+        "actual": 45.0,
+        "difference": 5.0,
+        "error_percent": 11.11111111111111
+      },
+      {
+        "metric_key": "relevance_pcttop_2",
+        "metric_name": "Relevance",
+        "predicted": 45,
+        "actual": 33.0,
+        "difference": 12.0,
+        "error_percent": 36.36363636363637
+      },
+      {
+        "metric_key": "excitement_pcttop_2",
+        "metric_name": "Excitement",
+        "predicted": 50,
+        "actual": 68.0,
+        "difference": -18.0,
+        "error_percent": 26.47058823529412
+      },
+      {
+        "metric_key": "price_value_pcttop_2",
+        "metric_name": "Price/Value",
+        "predicted": 45,
+        "actual": 60.0,
+        "difference": -15.0,
+        "error_percent": 25.0
+      },
+      {
+        "metric_key": "believability_pcttop",
+        "metric_name": "Believability",
+        "predicted": 35,
+        "actual": 39.0,
+        "difference": -4.0,
+        "error_percent": 10.256410256410255
+      },
+      {
+        "metric_key": "understanding_pcttop_3",
+        "metric_name": "Understanding",
+        "predicted": 60,
+        "actual": 68.0,
+        "difference": -8.0,
+        "error_percent": 11.76470588235294
+      },
+      {
+        "metric_key": "trial",
+        "metric_name": "Trial Intent",
+        "predicted": 40,
+        "actual": 40.0,
+        "difference": 0.0,
+        "error_percent": 0.0
+      },
+      {
+        "metric_key": "inc_trial_brand",
+        "metric_name": "Incremental Trial",
+        "predicted": 24,
+        "actual": 34.0,
+        "difference": -10.0,
+        "error_percent": 29.411764705882355
+      },
+      {
+        "metric_key": "star_rating",
+        "metric_name": "Overall Star Rating",
+        "predicted": 47,
+        "actual": null,
+        "difference": null,
+        "error_percent": null
+      }
+    ],
+    "overall_confidence": 70.0,
+    "reasoning": {
+      "perceptual": {
+        "visual_assessment": "Without visual data, we cannot assess design or imagery impact. This limits our ability to predict appeal driven by visual attractiveness.",
+        "claim_assessment": "The lack of specific claims (scientific, emotional, or natural) makes it difficult to determine how claims might drive perception. This results in moderate predictions for appeal and uniqueness.",
+        "positioning_impact": "With no clear positioning data, we assume a general market approach, leading to moderate relevance and excitement scores. The absence of niche or mass market positioning data limits our ability to predict higher relevance or uniqueness."
+      },
+      "evaluative": {
+        "price_value_logic": "The product lacks scientific backing and proof points, which typically enhance perceived value. With moderate appeal and uniqueness, the perceived benefits are not strong enough to justify a high price perception. Therefore, the price/value perception is likely to be moderate.",
+        "believability_logic": "Without scientific backing or proof points, the claims made by the product are less likely to be believed. This is compounded by the absence of consumer testimonials or emotional/sensory claims, leading to a lower believability score.",
+        "understanding_logic": "Despite the lack of visual and verbatim data, the concept of a 'gradual tan lotion' is relatively straightforward, which aids understanding. However, the absence of additional context or consumer feedback slightly lowers the clarity, resulting in a moderate understanding score."
+      },
+      "outcome": {
+        "intent_logic": "The purchase intent is influenced by moderate appeal (55%) and relevance (45%), with a reasonable price/value perception (45%). However, believability is low (35%), which suppresses intent. The base calculation for intent would be around 45%, but due to believability issues, it is adjusted down to 42%.",
+        "trial_logic": "Trial intent is close to purchase intent, as there are no specific barriers mentioned in verbatims. The trial is slightly lower at 40% to account for potential unmentioned barriers like price or availability. Incremental trial is set at 60% of trial intent, reflecting the potential for new customer acquisition given the uniqueness score (50%).",
+        "consistency_check": "The trial intent is within 8 percentage points of purchase intent, ensuring consistency. Incremental trial is less than trial intent, adhering to the rule. The star rating of 47 aligns with the weighted average of perceptual scores, adjusted for understanding (60%)."
+      }
+    },
+    "enhanced_features": {
+      "claim_types": [],
+      "positioning": "Not enough data to determine positioning",
+      "innovation_level": "Not enough data to determine innovation level",
+      "target_clarity": "Not enough data to determine target audience clarity",
+      "proof_point_count": 0,
+      "has_scientific_backing": false
+    }
+  },
+  {
+    "concept_id": "soap_glory_girls_night_out_refresh_queen",
+    "concept_name": "Soap & Glory Girl's Night Out Refresh Queen\u200b",
+    "metrics": [
+      {
+        "metric_key": "target_top2box_intent",
+        "metric_name": "Purchase Intent (Target)",
+        "predicted": 55,
+        "actual": 65.0,
+        "difference": -10.0,
+        "error_percent": 15.384615384615385
+      },
+      {
+        "metric_key": "appeal_pcttop_2",
+        "metric_name": "Appeal",
+        "predicted": 75,
+        "actual": 55.0,
+        "difference": 20.0,
+        "error_percent": 36.36363636363637
+      },
+      {
+        "metric_key": "uniqueness_pcttop_2",
+        "metric_name": "Uniqueness",
+        "predicted": 70,
+        "actual": 65.0,
+        "difference": 5.0,
+        "error_percent": 7.6923076923076925
+      },
+      {
+        "metric_key": "relevance_pcttop_2",
+        "metric_name": "Relevance",
+        "predicted": 60,
+        "actual": 38.0,
+        "difference": 22.0,
+        "error_percent": 57.89473684210527
+      },
+      {
+        "metric_key": "excitement_pcttop_2",
+        "metric_name": "Excitement",
+        "predicted": 80,
+        "actual": 70.0,
+        "difference": 10.0,
+        "error_percent": 14.285714285714285
+      },
+      {
+        "metric_key": "price_value_pcttop_2",
+        "metric_name": "Price/Value",
+        "predicted": 60,
+        "actual": 71.0,
+        "difference": -11.0,
+        "error_percent": 15.492957746478872
+      },
+      {
+        "metric_key": "believability_pcttop",
+        "metric_name": "Believability",
+        "predicted": 50,
+        "actual": 43.0,
+        "difference": 7.0,
+        "error_percent": 16.27906976744186
+      },
+      {
+        "metric_key": "understanding_pcttop_3",
+        "metric_name": "Understanding",
+        "predicted": 80,
+        "actual": 71.0,
+        "difference": 9.0,
+        "error_percent": 12.676056338028168
+      },
+      {
+        "metric_key": "trial",
+        "metric_name": "Trial Intent",
+        "predicted": 52,
+        "actual": 50.0,
+        "difference": 2.0,
+        "error_percent": 4.0
+      },
+      {
+        "metric_key": "inc_trial_brand",
+        "metric_name": "Incremental Trial",
+        "predicted": 35,
+        "actual": 45.0,
+        "difference": -10.0,
+        "error_percent": 22.22222222222222
+      },
+      {
+        "metric_key": "star_rating",
+        "metric_name": "Overall Star Rating",
+        "predicted": 72,
+        "actual": null,
+        "difference": null,
+        "error_percent": null
+      }
+    ],
+    "overall_confidence": 81.66666666666667,
+    "reasoning": {
+      "perceptual": {
+        "visual_assessment": "The lack of visual data limits the ability to assess visual attractiveness directly. However, consumer feedback highlights the compact and convenient packaging, which suggests a positive visual impression.",
+        "claim_assessment": "The concept's claims focus on convenience, scent, and biodegradability, which resonate well with consumers. The cooling and refreshing aspects are perceived as innovative, contributing to both appeal and uniqueness.",
+        "positioning_impact": "The product seems to target a specific occasion (nights out), which may limit everyday relevance but enhances appeal for the target audience. The lack of clear positioning data makes it challenging to assess broader market relevance."
+      },
+      "evaluative": {
+        "price_value_logic": "The product concept is perceived as innovative and exciting, with a strong appeal for its convenience and refreshing qualities. However, without a price point or scientific backing, the perceived value is moderate. The appeal and excitement suggest a decent perceived benefit, but without premium benefits or pricing information, the value perception remains in the middle range.",
+        "believability_logic": "The product lacks scientific backing and proof points, which typically lowers believability. However, the emotional and sensory claims, such as the refreshing scent and convenience, are more believable. The consumer feedback shows excitement and interest, which supports moderate believability.",
+        "understanding_logic": "The concept is straightforward and simple, focusing on convenience and refreshment, which are easy to understand. The consumer verbatims indicate that the product's purpose and benefits are clear, leading to a high understanding score."
+      },
+      "outcome": {
+        "intent_logic": "The product has high appeal (75%) and excitement (80%), which are strong drivers for purchase intent. However, the relevance score is moderate (60%), and the price/value perception is also moderate (60%). These factors suggest a moderate purchase intent. The believability score is 50%, which is not low enough to significantly suppress intent but indicates some skepticism. The positive verbatim feedback highlights the product's convenience and innovative nature, supporting a decent purchase intent.",
+        "trial_logic": "Trial intent is slightly lower than purchase intent due to potential barriers such as price and availability, which are common concerns for new products. However, the convenience and excitement around the product suggest that trial intent will closely follow purchase intent.",
+        "consistency_check": "The trial intent is within 8 percentage points of purchase intent, ensuring consistency. Incremental trial is set at 35%, reflecting the product's new and unique nature, which is likely to attract new customers. The star rating of 72 aligns with the high appeal and excitement scores, adjusted slightly down due to moderate relevance and price/value perceptions."
+      }
+    },
+    "enhanced_features": {
+      "claim_types": [],
+      "positioning": "Not enough data to determine positioning",
+      "innovation_level": "Not enough data to determine innovation level",
+      "target_clarity": "Not enough data to determine target audience clarity",
+      "proof_point_count": 0,
+      "has_scientific_backing": false
+    }
+  }
+]

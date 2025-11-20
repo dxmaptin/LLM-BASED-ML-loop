@@ -1,0 +1,430 @@
+[
+  {
+    "concept_id": "exfoliationg_body_scrub_and_massage_bar",
+    "concept_name": "Exfoliationg Body Scrub and Massage Bar",
+    "metrics": [
+      {
+        "metric_key": "target_top2box_intent",
+        "metric_name": "Purchase Intent (Target)",
+        "predicted": 42,
+        "actual": 53.0,
+        "difference": -11.0,
+        "error_percent": 20.754716981132077
+      },
+      {
+        "metric_key": "appeal_pcttop_2",
+        "metric_name": "Appeal",
+        "predicted": 56,
+        "actual": 38.0,
+        "difference": 18.0,
+        "error_percent": 47.368421052631575
+      },
+      {
+        "metric_key": "uniqueness_pcttop_2",
+        "metric_name": "Uniqueness",
+        "predicted": 58,
+        "actual": 40.0,
+        "difference": 18.0,
+        "error_percent": 45.0
+      },
+      {
+        "metric_key": "relevance_pcttop_2",
+        "metric_name": "Relevance",
+        "predicted": 45,
+        "actual": 36.0,
+        "difference": 9.0,
+        "error_percent": 25.0
+      },
+      {
+        "metric_key": "excitement_pcttop_2",
+        "metric_name": "Excitement",
+        "predicted": 87,
+        "actual": 64.0,
+        "difference": 23.0,
+        "error_percent": 35.9375
+      },
+      {
+        "metric_key": "price_value_pcttop_2",
+        "metric_name": "Price/Value",
+        "predicted": 53,
+        "actual": 45.0,
+        "difference": 8.0,
+        "error_percent": 17.77777777777778
+      },
+      {
+        "metric_key": "believability_pcttop",
+        "metric_name": "Believability",
+        "predicted": 49,
+        "actual": 34.0,
+        "difference": 15.0,
+        "error_percent": 44.11764705882353
+      },
+      {
+        "metric_key": "understanding_pcttop_3",
+        "metric_name": "Understanding",
+        "predicted": 75,
+        "actual": 60.0,
+        "difference": 15.0,
+        "error_percent": 25.0
+      },
+      {
+        "metric_key": "trial",
+        "metric_name": "Trial Intent",
+        "predicted": 40,
+        "actual": 27.0,
+        "difference": 13.0,
+        "error_percent": 48.148148148148145
+      },
+      {
+        "metric_key": "inc_trial_brand",
+        "metric_name": "Incremental Trial",
+        "predicted": 38,
+        "actual": 25.0,
+        "difference": 13.0,
+        "error_percent": 52.0
+      },
+      {
+        "metric_key": "star_rating",
+        "metric_name": "Overall Star Rating",
+        "predicted": 68,
+        "actual": null,
+        "difference": null,
+        "error_percent": null
+      }
+    ],
+    "overall_confidence": 85,
+    "reasoning": {
+      "overall_assessment": "The Exfoliating Body Scrub and Massage Bar concept shows strong excitement and moderate appeal, driven by its unique combination of exfoliation and massage benefits. However, moderate uniqueness and price value perceptions may limit purchase intent.",
+      "key_strengths": [
+        "High excitement due to the innovative combination of exfoliation and massage.",
+        "Strong appeal from vegan and skin-kind claims."
+      ],
+      "key_weaknesses": [
+        "Moderate uniqueness and price value perception may limit broader appeal.",
+        "Believability and trial intent are not as strong, indicating potential skepticism."
+      ],
+      "consistency_check": "Metrics align with high excitement but moderate uniqueness and price value, leading to a moderate purchase intent prediction. Trial intent is consistent with purchase intent, and understanding is sufficiently high to support other metrics."
+    }
+  },
+  {
+    "concept_id": "ph_sensitive_skin_body_wash",
+    "concept_name": "pH Sensitive Skin Body Wash",
+    "metrics": [
+      {
+        "metric_key": "target_top2box_intent",
+        "metric_name": "Purchase Intent (Target)",
+        "predicted": 48,
+        "actual": 56.0,
+        "difference": -8.0,
+        "error_percent": 14.285714285714285
+      },
+      {
+        "metric_key": "appeal_pcttop_2",
+        "metric_name": "Appeal",
+        "predicted": 55,
+        "actual": 37.0,
+        "difference": 18.0,
+        "error_percent": 48.64864864864865
+      },
+      {
+        "metric_key": "uniqueness_pcttop_2",
+        "metric_name": "Uniqueness",
+        "predicted": 50,
+        "actual": 37.0,
+        "difference": 13.0,
+        "error_percent": 35.13513513513514
+      },
+      {
+        "metric_key": "relevance_pcttop_2",
+        "metric_name": "Relevance",
+        "predicted": 60,
+        "actual": 28.0,
+        "difference": 32.0,
+        "error_percent": 114.28571428571428
+      },
+      {
+        "metric_key": "excitement_pcttop_2",
+        "metric_name": "Excitement",
+        "predicted": 52,
+        "actual": 64.0,
+        "difference": -12.0,
+        "error_percent": 18.75
+      },
+      {
+        "metric_key": "price_value_pcttop_2",
+        "metric_name": "Price/Value",
+        "predicted": 65,
+        "actual": 42.0,
+        "difference": 23.0,
+        "error_percent": 54.761904761904766
+      },
+      {
+        "metric_key": "believability_pcttop",
+        "metric_name": "Believability",
+        "predicted": 70,
+        "actual": 30.0,
+        "difference": 40.0,
+        "error_percent": 133.33333333333331
+      },
+      {
+        "metric_key": "understanding_pcttop_3",
+        "metric_name": "Understanding",
+        "predicted": 75,
+        "actual": 62.0,
+        "difference": 13.0,
+        "error_percent": 20.967741935483872
+      },
+      {
+        "metric_key": "trial",
+        "metric_name": "Trial Intent",
+        "predicted": 50,
+        "actual": 25.0,
+        "difference": 25.0,
+        "error_percent": 100.0
+      },
+      {
+        "metric_key": "inc_trial_brand",
+        "metric_name": "Incremental Trial",
+        "predicted": 45,
+        "actual": 23.0,
+        "difference": 22.0,
+        "error_percent": 95.65217391304348
+      },
+      {
+        "metric_key": "star_rating",
+        "metric_name": "Overall Star Rating",
+        "predicted": 68,
+        "actual": null,
+        "difference": null,
+        "error_percent": null
+      }
+    ],
+    "overall_confidence": 85,
+    "reasoning": {
+      "overall_assessment": "The pH Sensitive Skin Body Wash concept appeals to the Witty Optimist segment due to its focus on sensitive skin and natural ingredients. However, it lacks a strong visual identity and excitement factor, which may limit its purchase intent.",
+      "key_strengths": [
+        "Strong appeal for sensitive skin and natural ingredients",
+        "High believability due to dermatologist approval and vegan claims"
+      ],
+      "key_weaknesses": [
+        "Lack of visual data limits excitement and uniqueness",
+        "Some feedback indicates it does not stand out compared to competitors"
+      ],
+      "consistency_check": "The trial intent is consistent with the purchase intent, and the appeal, uniqueness, and relevance scores logically support the intent prediction. The understanding score is high, ensuring that other metrics are not suppressed."
+    }
+  },
+  {
+    "concept_id": "sgs_glow_on_gradual_tan_lotion",
+    "concept_name": "S&G's 'Glow On' Gradual Tan Lotion",
+    "metrics": [
+      {
+        "metric_key": "target_top2box_intent",
+        "metric_name": "Purchase Intent (Target)",
+        "predicted": 42,
+        "actual": 58.0,
+        "difference": -16.0,
+        "error_percent": 27.586206896551722
+      },
+      {
+        "metric_key": "appeal_pcttop_2",
+        "metric_name": "Appeal",
+        "predicted": 50,
+        "actual": 45.0,
+        "difference": 5.0,
+        "error_percent": 11.11111111111111
+      },
+      {
+        "metric_key": "uniqueness_pcttop_2",
+        "metric_name": "Uniqueness",
+        "predicted": 55,
+        "actual": 45.0,
+        "difference": 10.0,
+        "error_percent": 22.22222222222222
+      },
+      {
+        "metric_key": "relevance_pcttop_2",
+        "metric_name": "Relevance",
+        "predicted": 38,
+        "actual": 33.0,
+        "difference": 5.0,
+        "error_percent": 15.151515151515152
+      },
+      {
+        "metric_key": "excitement_pcttop_2",
+        "metric_name": "Excitement",
+        "predicted": 60,
+        "actual": 68.0,
+        "difference": -8.0,
+        "error_percent": 11.76470588235294
+      },
+      {
+        "metric_key": "price_value_pcttop_2",
+        "metric_name": "Price/Value",
+        "predicted": 58,
+        "actual": 60.0,
+        "difference": -2.0,
+        "error_percent": 3.3333333333333335
+      },
+      {
+        "metric_key": "believability_pcttop",
+        "metric_name": "Believability",
+        "predicted": 45,
+        "actual": 39.0,
+        "difference": 6.0,
+        "error_percent": 15.384615384615385
+      },
+      {
+        "metric_key": "understanding_pcttop_3",
+        "metric_name": "Understanding",
+        "predicted": 70,
+        "actual": 68.0,
+        "difference": 2.0,
+        "error_percent": 2.941176470588235
+      },
+      {
+        "metric_key": "trial",
+        "metric_name": "Trial Intent",
+        "predicted": 40,
+        "actual": 40.0,
+        "difference": 0.0,
+        "error_percent": 0.0
+      },
+      {
+        "metric_key": "inc_trial_brand",
+        "metric_name": "Incremental Trial",
+        "predicted": 35,
+        "actual": 34.0,
+        "difference": 1.0,
+        "error_percent": 2.941176470588235
+      },
+      {
+        "metric_key": "star_rating",
+        "metric_name": "Overall Star Rating",
+        "predicted": 62,
+        "actual": null,
+        "difference": null,
+        "error_percent": null
+      }
+    ],
+    "overall_confidence": 65,
+    "reasoning": {
+      "overall_assessment": "S&G's 'Glow On' Gradual Tan Lotion shows moderate appeal and uniqueness, with excitement driven by its novelty as a tanning product. However, without specific visual or verbal data, predictions are based on general trends for similar products.",
+      "key_strengths": [
+        "Moderate excitement due to novelty",
+        "Decent believability for claims"
+      ],
+      "key_weaknesses": [
+        "Lack of specific visual appeal data",
+        "Relevance may be niche"
+      ],
+      "consistency_check": "Metrics align with the lack of specific data, showing moderate intent and trial, with understanding slightly lower than average but not critically low."
+    }
+  },
+  {
+    "concept_id": "soap_glory_girls_night_out_refresh_queen",
+    "concept_name": "Soap & Glory Girl's Night Out Refresh Queen\u200b",
+    "metrics": [
+      {
+        "metric_key": "target_top2box_intent",
+        "metric_name": "Purchase Intent (Target)",
+        "predicted": 58,
+        "actual": 65.0,
+        "difference": -7.0,
+        "error_percent": 10.76923076923077
+      },
+      {
+        "metric_key": "appeal_pcttop_2",
+        "metric_name": "Appeal",
+        "predicted": 70,
+        "actual": 55.0,
+        "difference": 15.0,
+        "error_percent": 27.27272727272727
+      },
+      {
+        "metric_key": "uniqueness_pcttop_2",
+        "metric_name": "Uniqueness",
+        "predicted": 75,
+        "actual": 65.0,
+        "difference": 10.0,
+        "error_percent": 15.384615384615385
+      },
+      {
+        "metric_key": "relevance_pcttop_2",
+        "metric_name": "Relevance",
+        "predicted": 65,
+        "actual": 38.0,
+        "difference": 27.0,
+        "error_percent": 71.05263157894737
+      },
+      {
+        "metric_key": "excitement_pcttop_2",
+        "metric_name": "Excitement",
+        "predicted": 80,
+        "actual": 70.0,
+        "difference": 10.0,
+        "error_percent": 14.285714285714285
+      },
+      {
+        "metric_key": "price_value_pcttop_2",
+        "metric_name": "Price/Value",
+        "predicted": 60,
+        "actual": 71.0,
+        "difference": -11.0,
+        "error_percent": 15.492957746478872
+      },
+      {
+        "metric_key": "believability_pcttop",
+        "metric_name": "Believability",
+        "predicted": 50,
+        "actual": 43.0,
+        "difference": 7.0,
+        "error_percent": 16.27906976744186
+      },
+      {
+        "metric_key": "understanding_pcttop_3",
+        "metric_name": "Understanding",
+        "predicted": 85,
+        "actual": 71.0,
+        "difference": 14.0,
+        "error_percent": 19.718309859154928
+      },
+      {
+        "metric_key": "trial",
+        "metric_name": "Trial Intent",
+        "predicted": 56,
+        "actual": 50.0,
+        "difference": 6.0,
+        "error_percent": 12.0
+      },
+      {
+        "metric_key": "inc_trial_brand",
+        "metric_name": "Incremental Trial",
+        "predicted": 45,
+        "actual": 45.0,
+        "difference": 0.0,
+        "error_percent": 0.0
+      },
+      {
+        "metric_key": "star_rating",
+        "metric_name": "Overall Star Rating",
+        "predicted": 72,
+        "actual": null,
+        "difference": null,
+        "error_percent": null
+      }
+    ],
+    "overall_confidence": 85,
+    "reasoning": {
+      "overall_assessment": "The Soap & Glory Girl's Night Out Refresh Queen concept is perceived as innovative and exciting, with strong appeal and uniqueness. However, believability and price value are moderate, slightly tempering purchase intent.",
+      "key_strengths": [
+        "High excitement due to innovative and convenient concept",
+        "Strong appeal and uniqueness from consumer feedback"
+      ],
+      "key_weaknesses": [
+        "Moderate believability of claims",
+        "Price value perception is not exceptionally high"
+      ],
+      "consistency_check": "The high excitement and uniqueness drive purchase intent and trial, aligning with strong appeal. Understanding is high, supporting the overall positive perception. Believability and price value are moderate, which slightly reduces intent but is consistent with the overall assessment."
+    }
+  }
+]

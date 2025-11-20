@@ -1,0 +1,45 @@
+concept_id,product_name,metric_key,metric_name,predicted_value,actual_value,difference,error_percent,had_vision,confidence
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,target_top2box_intent,Purchase Intent (Target),52.0,53.0,-1.0,1.8867924528301887,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,appeal_pcttop_2,Appeal,48.0,38.0,10.0,26.31578947368421,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,uniqueness_pcttop_2,Uniqueness,50.0,40.0,10.0,25.0,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,relevance_pcttop_2,Relevance,45.0,36.0,9.0,25.0,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,excitement_pcttop_2,Excitement,78.0,64.0,14.0,21.875,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,price_value_pcttop_2,Price/Value,42.0,45.0,-3.0,6.666666666666667,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,believability_pcttop,Believability,35.0,34.0,1.0,2.941176470588235,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,understanding_pcttop_3,Understanding,57.0,60.0,-3.0,5.0,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,trial,Trial Intent,50.0,27.0,23.0,85.18518518518519,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,inc_trial_brand,Incremental Trial,46.0,25.0,21.0,84.0,True,85
+exfoliationg_body_scrub_and_massage_bar,Exfoliationg Body Scrub and Massage Bar,star_rating,Overall Star Rating,4.1,,,,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,target_top2box_intent,Purchase Intent (Target),52.0,56.0,-4.0,7.142857142857142,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,appeal_pcttop_2,Appeal,48.0,37.0,11.0,29.72972972972973,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,uniqueness_pcttop_2,Uniqueness,32.0,37.0,-5.0,13.513513513513514,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,relevance_pcttop_2,Relevance,30.0,28.0,2.0,7.142857142857142,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,excitement_pcttop_2,Excitement,62.0,64.0,-2.0,3.125,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,price_value_pcttop_2,Price/Value,40.0,42.0,-2.0,4.761904761904762,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,believability_pcttop,Believability,35.0,30.0,5.0,16.666666666666664,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,understanding_pcttop_3,Understanding,75.0,62.0,13.0,20.967741935483872,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,trial,Trial Intent,50.0,25.0,25.0,100.0,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,inc_trial_brand,Incremental Trial,45.0,23.0,22.0,95.65217391304348,True,85
+ph_sensitive_skin_body_wash,pH Sensitive Skin Body Wash,star_rating,Overall Star Rating,4.0,,,,True,85
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,target_top2box_intent,Purchase Intent (Target),45.0,58.0,-13.0,22.413793103448278,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,appeal_pcttop_2,Appeal,45.0,45.0,0.0,0.0,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,uniqueness_pcttop_2,Uniqueness,40.0,45.0,-5.0,11.11111111111111,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,relevance_pcttop_2,Relevance,40.0,33.0,7.0,21.21212121212121,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,excitement_pcttop_2,Excitement,60.0,68.0,-8.0,11.76470588235294,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,price_value_pcttop_2,Price/Value,35.0,60.0,-25.0,41.66666666666667,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,believability_pcttop,Believability,30.0,39.0,-9.0,23.076923076923077,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,understanding_pcttop_3,Understanding,70.0,68.0,2.0,2.941176470588235,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,trial,Trial Intent,50.0,40.0,10.0,25.0,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,inc_trial_brand,Incremental Trial,40.0,34.0,6.0,17.647058823529413,True,75
+sgs_glow_on_gradual_tan_lotion,S&G's 'Glow On' Gradual Tan Lotion,star_rating,Overall Star Rating,3.5,,,,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,target_top2box_intent,Purchase Intent (Target),52.0,65.0,-13.0,20.0,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,appeal_pcttop_2,Appeal,47.0,55.0,-8.0,14.545454545454545,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,uniqueness_pcttop_2,Uniqueness,60.0,65.0,-5.0,7.6923076923076925,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,relevance_pcttop_2,Relevance,30.0,38.0,-8.0,21.052631578947366,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,excitement_pcttop_2,Excitement,75.0,70.0,5.0,7.142857142857142,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,price_value_pcttop_2,Price/Value,50.0,71.0,-21.0,29.577464788732392,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,believability_pcttop,Believability,35.0,43.0,-8.0,18.6046511627907,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,understanding_pcttop_3,Understanding,85.0,71.0,14.0,19.718309859154928,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,trial,Trial Intent,45.0,50.0,-5.0,10.0,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,inc_trial_brand,Incremental Trial,40.0,45.0,-5.0,11.11111111111111,True,75
+soap_glory_girls_night_out_refresh_queen,Soap & Glory Girl's Night Out Refresh Queen​,star_rating,Overall Star Rating,4.0,,,,True,75
