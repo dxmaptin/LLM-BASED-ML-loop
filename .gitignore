@@ -106,3 +106,5 @@ htmlcov/
 # Context files
 context_summary.txt
 Token usage.txt
+OneDrive_*.zip
+OneDrive_extracted/
