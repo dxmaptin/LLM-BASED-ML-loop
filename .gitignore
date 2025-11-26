@@ -40,9 +40,9 @@ experimental_result_*/
 # Data Files
 # Note: We KEEP training data and key result files for reference
 
-# Exclude large Excel files
-*.xlsx
-*.xls
+# Exclude large Excel files (except OneDrive data)
+# *.xlsx
+# *.xls
 
 # Keep training data directories
 # Flattened Data Inputs/ - KEPT
@@ -106,5 +106,4 @@ htmlcov/
 # Context files
 context_summary.txt
 Token usage.txt
-nul
-**/nul
+OneDrive_*.zip

@@ -1,0 +1,181 @@
+class,class_r2,question_type,question_value,question_full,predicted,actual,error
+aspiring_communities,0.6984511182905166,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,30.5,24.5
+aspiring_communities,0.6984511182905166,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,43.1,1.9
+aspiring_communities,0.6984511182905166,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,65.0,73.3,8.3
+aspiring_communities,0.6984511182905166,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,26.5,3.5
+aspiring_communities,0.6984511182905166,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,25.0,13.4,11.6
+aspiring_communities,0.6984511182905166,Health Behavior,Healthy eating,Healthy Eating,40.0,38.1,1.9
+aspiring_communities,0.6984511182905166,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,10.5,14.5
+aspiring_communities,0.6984511182905166,Financial Confidence,Money management,I am very good at managing money,50.0,58.0,8.0
+aspiring_communities,0.6984511182905166,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,58.0,62.9,4.9
+aspiring_communities,0.6984511182905166,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,33.7,6.3
+cash-strapped_families,0.8176582915631504,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,41.3,13.7
+cash-strapped_families,0.8176582915631504,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,43.9,1.1
+cash-strapped_families,0.8176582915631504,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,72.4,2.6
+cash-strapped_families,0.8176582915631504,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,27.1,2.9
+cash-strapped_families,0.8176582915631504,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,18.9,3.9
+cash-strapped_families,0.8176582915631504,Health Behavior,Healthy eating,Healthy Eating,40.0,31.4,8.6
+cash-strapped_families,0.8176582915631504,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,12.4,12.6
+cash-strapped_families,0.8176582915631504,Financial Confidence,Money management,I am very good at managing money,45.0,48.7,3.7
+cash-strapped_families,0.8176582915631504,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,45.0,47.6,2.6
+cash-strapped_families,0.8176582915631504,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,35.0,31.5,3.5
+challenging_circumstances,0.8361011868080748,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,50.4,4.6
+challenging_circumstances,0.8361011868080748,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,41.5,3.5
+challenging_circumstances,0.8361011868080748,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,70.7,4.3
+challenging_circumstances,0.8361011868080748,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,26.1,3.9
+challenging_circumstances,0.8361011868080748,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,25.0,18.9,6.1
+challenging_circumstances,0.8361011868080748,Health Behavior,Healthy eating,Healthy Eating,40.0,33.0,7.0
+challenging_circumstances,0.8361011868080748,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,12.1,12.9
+challenging_circumstances,0.8361011868080748,Financial Confidence,Money management,I am very good at managing money,45.0,46.7,1.7
+challenging_circumstances,0.8361011868080748,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,50.0,49.7,0.3
+challenging_circumstances,0.8361011868080748,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,28.8,11.2
+commuter-belt_wealth,0.9519180335080588,Payment Preferences,Cash preference,I like to use cash when making purchases,35.0,28.5,6.5
+commuter-belt_wealth,0.9519180335080588,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,43.1,1.9
+commuter-belt_wealth,0.9519180335080588,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,76.9,1.9
+commuter-belt_wealth,0.9519180335080588,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,26.0,4.0
+commuter-belt_wealth,0.9519180335080588,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,11.7,3.3
+commuter-belt_wealth,0.9519180335080588,Health Behavior,Healthy eating,Healthy Eating,45.0,41.8,3.2
+commuter-belt_wealth,0.9519180335080588,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,12.0,11.2,0.8
+commuter-belt_wealth,0.9519180335080588,Financial Confidence,Money management,I am very good at managing money,65.0,63.7,1.3
+commuter-belt_wealth,0.9519180335080588,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,58.0,68.4,10.4
+commuter-belt_wealth,0.9519180335080588,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,34.5,5.5
+constrained_penisoners,0.7611425091442571,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,44.1,10.9
+constrained_penisoners,0.7611425091442571,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,55.0,41.1,13.9
+constrained_penisoners,0.7611425091442571,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,72.4,2.6
+constrained_penisoners,0.7611425091442571,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,21.4,8.6
+constrained_penisoners,0.7611425091442571,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,19.0,4.0
+constrained_penisoners,0.7611425091442571,Health Behavior,Healthy eating,Healthy Eating,40.0,33.1,6.9
+constrained_penisoners,0.7611425091442571,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,11.0,14.0
+constrained_penisoners,0.7611425091442571,Financial Confidence,Money management,I am very good at managing money,45.0,48.7,3.7
+constrained_penisoners,0.7611425091442571,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,45.0,50.2,5.2
+constrained_penisoners,0.7611425091442571,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,25.0,28.7,3.7
+family_renters,0.724001472365758,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,36.4,18.6
+family_renters,0.724001472365758,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,44.7,0.3
+family_renters,0.724001472365758,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,72.3,2.7
+family_renters,0.724001472365758,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,24.9,5.1
+family_renters,0.724001472365758,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,25.0,14.8,10.2
+family_renters,0.724001472365758,Health Behavior,Healthy eating,Healthy Eating,40.0,33.9,6.1
+family_renters,0.724001472365758,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,12.5,12.5
+family_renters,0.724001472365758,Financial Confidence,Money management,I am very good at managing money,40.0,51.0,11.0
+family_renters,0.724001472365758,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,56.0,56.2,0.2
+family_renters,0.724001472365758,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,31.7,8.3
+flourishing_capital,0.9029110230103864,Payment Preferences,Cash preference,I like to use cash when making purchases,35.0,39.9,4.9
+flourishing_capital,0.9029110230103864,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,42.3,2.7
+flourishing_capital,0.9029110230103864,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,71.3,3.7
+flourishing_capital,0.9029110230103864,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,40.0,31.0,9.0
+flourishing_capital,0.9029110230103864,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,14.1,0.9
+flourishing_capital,0.9029110230103864,Health Behavior,Healthy eating,Healthy Eating,45.0,50.1,5.1
+flourishing_capital,0.9029110230103864,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,12.0,15.6,3.6
+flourishing_capital,0.9029110230103864,Financial Confidence,Money management,I am very good at managing money,65.0,56.4,8.6
+flourishing_capital,0.9029110230103864,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,58.0,63.7,5.7
+flourishing_capital,0.9029110230103864,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,33.2,6.8
+hard-up_households,0.8292132791729572,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,41.9,13.1
+hard-up_households,0.8292132791729572,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,44.4,0.6
+hard-up_households,0.8292132791729572,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,73.1,1.9
+hard-up_households,0.8292132791729572,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,24.8,5.2
+hard-up_households,0.8292132791729572,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,16.5,1.5
+hard-up_households,0.8292132791729572,Health Behavior,Healthy eating,Healthy Eating,35.0,31.6,3.4
+hard-up_households,0.8292132791729572,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,11.9,13.1
+hard-up_households,0.8292132791729572,Financial Confidence,Money management,I am very good at managing money,45.0,51.5,6.5
+hard-up_households,0.8292132791729572,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,45.0,55.0,10.0
+hard-up_households,0.8292132791729572,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,35.0,32.2,2.8
+mature_success,0.9156316394998278,Payment Preferences,Cash preference,I like to use cash when making purchases,35.0,31.5,3.5
+mature_success,0.9156316394998278,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,41.3,3.7
+mature_success,0.9156316394998278,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,77.1,2.1
+mature_success,0.9156316394998278,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,22.5,7.5
+mature_success,0.9156316394998278,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,12.5,2.5
+mature_success,0.9156316394998278,Health Behavior,Healthy eating,Healthy Eating,45.0,40.8,4.2
+mature_success,0.9156316394998278,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,11.0,14.0
+mature_success,0.9156316394998278,Financial Confidence,Money management,I am very good at managing money,65.0,64.5,0.5
+mature_success,0.9156316394998278,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,58.0,67.4,9.4
+mature_success,0.9156316394998278,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,35.0,32.4,2.6
+metropolitan_surroundings,0.8753691812187695,Payment Preferences,Cash preference,I like to use cash when making purchases,45.0,32.5,12.5
+metropolitan_surroundings,0.8753691812187695,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,44.1,0.9
+metropolitan_surroundings,0.8753691812187695,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,70.0,66.4,3.6
+metropolitan_surroundings,0.8753691812187695,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,25.4,4.6
+metropolitan_surroundings,0.8753691812187695,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,16.6,1.6
+metropolitan_surroundings,0.8753691812187695,Health Behavior,Healthy eating,Healthy Eating,45.0,39.5,5.5
+metropolitan_surroundings,0.8753691812187695,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,12.0,12.9,0.9
+metropolitan_surroundings,0.8753691812187695,Financial Confidence,Money management,I am very good at managing money,55.0,53.6,1.4
+metropolitan_surroundings,0.8753691812187695,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,54.0,55.1,1.1
+metropolitan_surroundings,0.8753691812187695,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,29.4,10.6
+not_private_households,0.6443599919517662,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,51.6,3.4
+not_private_households,0.6443599919517662,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,43.9,1.1
+not_private_households,0.6443599919517662,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,65.0,60.8,4.2
+not_private_households,0.6443599919517662,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,35.0,5.0
+not_private_households,0.6443599919517662,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,18.7,3.7
+not_private_households,0.6443599919517662,Health Behavior,Healthy eating,Healthy Eating,45.0,19.6,25.4
+not_private_households,0.6443599919517662,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,17.5,7.5
+not_private_households,0.6443599919517662,Financial Confidence,Money management,I am very good at managing money,50.0,53.3,3.3
+not_private_households,0.6443599919517662,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,54.0,51.5,2.5
+not_private_households,0.6443599919517662,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,34.3,5.7
+prosperous_professionals,0.9360181579818144,Payment Preferences,Cash preference,I like to use cash when making purchases,25.0,28.7,3.7
+prosperous_professionals,0.9360181579818144,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,43.1,1.9
+prosperous_professionals,0.9360181579818144,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,71.1,3.9
+prosperous_professionals,0.9360181579818144,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,34.0,4.0
+prosperous_professionals,0.9360181579818144,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,11.9,3.1
+prosperous_professionals,0.9360181579818144,Health Behavior,Healthy eating,Healthy Eating,45.0,44.4,0.6
+prosperous_professionals,0.9360181579818144,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,12.0,11.2,0.8
+prosperous_professionals,0.9360181579818144,Financial Confidence,Money management,I am very good at managing money,65.0,54.8,10.2
+prosperous_professionals,0.9360181579818144,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,55.0,59.8,4.8
+prosperous_professionals,0.9360181579818144,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,34.3,5.7
+semi-rural_maturity,0.8181654764881185,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,35.7,19.3
+semi-rural_maturity,0.8181654764881185,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,43.5,1.5
+semi-rural_maturity,0.8181654764881185,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,76.5,1.5
+semi-rural_maturity,0.8181654764881185,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,22.9,7.1
+semi-rural_maturity,0.8181654764881185,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,14.8,0.2
+semi-rural_maturity,0.8181654764881185,Health Behavior,Healthy eating,Healthy Eating,40.0,38.8,1.2
+semi-rural_maturity,0.8181654764881185,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,11.5,13.5
+semi-rural_maturity,0.8181654764881185,Financial Confidence,Money management,I am very good at managing money,55.0,62.6,7.6
+semi-rural_maturity,0.8181654764881185,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,58.0,66.9,8.9
+semi-rural_maturity,0.8181654764881185,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,33.0,7.0
+settled_suburbia,0.8557396300218211,Payment Preferences,Cash preference,I like to use cash when making purchases,45.0,31.5,13.5
+settled_suburbia,0.8557396300218211,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,42.3,2.7
+settled_suburbia,0.8557396300218211,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,70.0,74.7,4.7
+settled_suburbia,0.8557396300218211,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,24.6,5.4
+settled_suburbia,0.8557396300218211,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,12.3,2.7
+settled_suburbia,0.8557396300218211,Health Behavior,Healthy eating,Healthy Eating,45.0,37.1,7.9
+settled_suburbia,0.8557396300218211,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,11.4,13.6
+settled_suburbia,0.8557396300218211,Financial Confidence,Money management,I am very good at managing money,55.0,58.1,3.1
+settled_suburbia,0.8557396300218211,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,58.0,63.6,5.6
+settled_suburbia,0.8557396300218211,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,33.3,6.7
+stable_seniors,0.7989568693198875,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,37.1,17.9
+stable_seniors,0.7989568693198875,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,55.0,43.5,11.5
+stable_seniors,0.7989568693198875,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,77.3,2.3
+stable_seniors,0.7989568693198875,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,24.2,5.8
+stable_seniors,0.7989568693198875,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,14.4,0.6
+stable_seniors,0.7989568693198875,Health Behavior,Healthy eating,Healthy Eating,40.0,36.0,4.0
+stable_seniors,0.7989568693198875,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,12.5,12.5
+stable_seniors,0.7989568693198875,Financial Confidence,Money management,I am very good at managing money,55.0,57.4,2.4
+stable_seniors,0.7989568693198875,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,54.0,59.8,5.8
+stable_seniors,0.7989568693198875,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,31.6,8.4
+tenant_living,0.7595060379475924,Payment Preferences,Cash preference,I like to use cash when making purchases,55.0,33.3,21.7
+tenant_living,0.7595060379475924,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,47.1,2.1
+tenant_living,0.7595060379475924,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,70.0,73.7,3.7
+tenant_living,0.7595060379475924,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,32.7,2.7
+tenant_living,0.7595060379475924,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,14.9,0.1
+tenant_living,0.7595060379475924,Health Behavior,Healthy eating,Healthy Eating,45.0,38.9,6.1
+tenant_living,0.7595060379475924,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,10.3,14.7
+tenant_living,0.7595060379475924,Financial Confidence,Money management,I am very good at managing money,55.0,51.5,3.5
+tenant_living,0.7595060379475924,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,54.0,54.7,0.7
+tenant_living,0.7595060379475924,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,35.0,34.0,1.0
+up-and-coming_urbanites,0.8952603588732504,Payment Preferences,Cash preference,I like to use cash when making purchases,35.0,29.2,5.8
+up-and-coming_urbanites,0.8952603588732504,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,47.7,2.7
+up-and-coming_urbanites,0.8952603588732504,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,70.0,69.8,0.2
+up-and-coming_urbanites,0.8952603588732504,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,30.8,0.8
+up-and-coming_urbanites,0.8952603588732504,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,10.1,4.9
+up-and-coming_urbanites,0.8952603588732504,Health Behavior,Healthy eating,Healthy Eating,40.0,46.0,6.0
+up-and-coming_urbanites,0.8952603588732504,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,25.0,11.3,13.7
+up-and-coming_urbanites,0.8952603588732504,Financial Confidence,Money management,I am very good at managing money,55.0,52.3,2.7
+up-and-coming_urbanites,0.8952603588732504,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,54.0,52.9,1.1
+up-and-coming_urbanites,0.8952603588732504,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,33.6,6.4
+upmarket_families,0.9082336409936912,Payment Preferences,Cash preference,I like to use cash when making purchases,35.0,26.7,8.3
+upmarket_families,0.9082336409936912,Debt Attitudes,Debt aversion,I don't like the idea of being in debt,45.0,42.3,2.7
+upmarket_families,0.9082336409936912,Energy Behavior,Energy saving,Make an effort to cut down on the use of gas / electricity in the home,75.0,72.9,2.1
+upmarket_families,0.9082336409936912,Environmental Attitudes,Environmental sustainability,I think brands should consider environmental sustainability when developing products and services,30.0,30.2,0.2
+upmarket_families,0.9082336409936912,Transport,Fuel consumption,Fuel consumption is the most important feature when choosing a new car,15.0,11.8,3.2
+upmarket_families,0.9082336409936912,Health Behavior,Healthy eating,Healthy Eating,45.0,43.9,1.1
+upmarket_families,0.9082336409936912,Insurance Attitudes,Insurance importance,It is important to be well insured for everything,18.0,13.1,4.9
+upmarket_families,0.9082336409936912,Financial Confidence,Money management,I am very good at managing money,65.0,70.0,5.0
+upmarket_families,0.9082336409936912,Retirement Attitudes,Retirement responsibility,Financial security after retirement is your own responsibility not that of the state,55.0,71.2,16.2
+upmarket_families,0.9082336409936912,Switching Behavior,Switching providers,Switching utilities suppliers is well worth the effort for the savings you can make,40.0,34.1,5.9

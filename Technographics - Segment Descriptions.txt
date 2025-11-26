@@ -1,0 +1,17 @@
+A+ Empowered Pioneers
+Highly capable, curious, and confident early adopters who integrate technology deeply and seamlessly into their lives, trusting digital tools, smart systems, and AI to enhance efficiency, creativity, and control across everything they do.
+
+A− Savvy Sceptics
+Deliberate, capable users who engage with technology thoughtfully and selectively—comfortable using proven tools but maintaining low-to-moderate trust, always demanding transparency, clarity, and real utility before adopting anything new.
+
+B+ Social Explorers
+Socially driven, curious consumers who use technology frequently and confidently for connection, content and research, yet balance this with moderate caution — trusting digital tools enough to explore widely but still scanning for risks or scams.
+
+B− Pragmatic Protectionists
+Practical, risk-aware consumers who use everyday technology regularly but conservatively, showing low tech-knowledge, high concern about over-reliance and AI, and a strong preference for clear information, predictability and in-store experiences.
+
+C+ Relaxed Simplifiers
+Low-effort, convenience-oriented consumers who use basic technology comfortably but minimally, trusting it to work as long as it stays simple, while avoiding complex tools, researching little, and preferring straightforward, low-tech paths to decisions.
+
+C− Avoidant Security Seekers
+Highly cautious, low-usage consumers who distrust most digital tools, avoid AI and social platforms, express strong fears around scams and loss of control, and rely on familiar, safe, predictable non-tech channels wherever possible.
