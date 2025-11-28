@@ -1,0 +1,61 @@
+Demographic,Question,Predicted,Actual,difference
+empowered_pioneers,I am very concerned about scams or being hacked,0.665,0.634,0.031
+empowered_pioneers,I trust technology to work as it should,0.865,0.824,0.041
+empowered_pioneers,Technology often complicates my life more than it simplifies it,0.05,0.026,0.024
+empowered_pioneers,I believe the benefits of technology outweigh the challenges,0.85,0.847,0.003
+empowered_pioneers,I am usually one of the first people to try new technologies,0.338,0.355,0.017
+empowered_pioneers,Brand Reputation: The trustworthiness and prestige of the brand.,0.419,0.444,0.025
+empowered_pioneers,Price: The cost of the product.,0.606,0.573,0.033
+empowered_pioneers,"Security Features: Built-in security measures such as fingerprint sensors, facial recognition, encryption, etc.",0.216,0.233,0.017
+empowered_pioneers,Environmental Impact: The sustainability and eco-friendliness of the product and its manufacturing process,0.239,0.195,0.044
+empowered_pioneers,"Performance: The speed and efficiency of the device (e.g., processor speed, RAM).",0.44,0.441,0.001
+savvy_skeptics,I am very concerned about scams or being hacked,0.688,0.732,0.044
+savvy_skeptics,I trust technology to work as it should,0.688,0.67,0.018
+savvy_skeptics,Technology often complicates my life more than it simplifies it,0.549,0.548,0.001
+savvy_skeptics,I believe the benefits of technology outweigh the challenges,0.597,0.574,0.023
+savvy_skeptics,I am usually one of the first people to try new technologies,0.231,0.233,0.002
+savvy_skeptics,Brand Reputation: The trustworthiness and prestige of the brand.,0.336,0.346,0.01
+savvy_skeptics,Price: The cost of the product.,0.576,0.565,0.011
+savvy_skeptics,"Security Features: Built-in security measures such as fingerprint sensors, facial recognition, encryption, etc.",0.259,0.278,0.019
+savvy_skeptics,Environmental Impact: The sustainability and eco-friendliness of the product and its manufacturing process,0.26,0.259,0.001
+savvy_skeptics,"Performance: The speed and efficiency of the device (e.g., processor speed, RAM).",0.356,0.373,0.017
+social_explorers,I am very concerned about scams or being hacked,0.798,0.754,0.044
+social_explorers,I trust technology to work as it should,0.538,0.493,0.045
+social_explorers,Technology often complicates my life more than it simplifies it,0.102,0.143,0.041
+social_explorers,I believe the benefits of technology outweigh the challenges,0.69,0.676,0.014
+social_explorers,I am usually one of the first people to try new technologies,0.357,0.315,0.042
+social_explorers,Brand Reputation: The trustworthiness and prestige of the brand.,0.455,0.411,0.044
+social_explorers,Price: The cost of the product.,0.56,0.594,0.034
+social_explorers,"Security Features: Built-in security measures such as fingerprint sensors, facial recognition, encryption, etc.",0.251,0.237,0.014
+social_explorers,Environmental Impact: The sustainability and eco-friendliness of the product and its manufacturing process,0.316,0.267,0.049
+social_explorers,"Performance: The speed and efficiency of the device (e.g., processor speed, RAM).",0.436,0.462,0.026
+pragmatic_protectionists,I am very concerned about scams or being hacked,0.875,0.834,0.041
+pragmatic_protectionists,I trust technology to work as it should,0.405,0.403,0.002
+pragmatic_protectionists,Technology often complicates my life more than it simplifies it,0.455,0.451,0.004
+pragmatic_protectionists,I believe the benefits of technology outweigh the challenges,0.446,0.463,0.017
+pragmatic_protectionists,I am usually one of the first people to try new technologies,0.068,0.025,0.043
+pragmatic_protectionists,Brand Reputation: The trustworthiness and prestige of the brand.,0.401,0.438,0.037
+pragmatic_protectionists,Price: The cost of the product.,0.666,0.685,0.019
+pragmatic_protectionists,"Security Features: Built-in security measures such as fingerprint sensors, facial recognition, encryption, etc.",0.08,0.118,0.038
+pragmatic_protectionists,Environmental Impact: The sustainability and eco-friendliness of the product and its manufacturing process,0.162,0.126,0.036
+pragmatic_protectionists,"Performance: The speed and efficiency of the device (e.g., processor speed, RAM).",0.38,0.351,0.029
+relaxed_simplifiers,I am very concerned about scams or being hacked,0.743,0.696,0.047
+relaxed_simplifiers,I trust technology to work as it should,0.747,0.72,0.027
+relaxed_simplifiers,Technology often complicates my life more than it simplifies it,0.131,0.147,0.016
+relaxed_simplifiers,I believe the benefits of technology outweigh the challenges,0.598,0.626,0.028
+relaxed_simplifiers,I am usually one of the first people to try new technologies,0.026,0.004,0.022
+relaxed_simplifiers,Brand Reputation: The trustworthiness and prestige of the brand.,0.396,0.426,0.03
+relaxed_simplifiers,Price: The cost of the product.,0.654,0.666,0.012
+relaxed_simplifiers,"Security Features: Built-in security measures such as fingerprint sensors, facial recognition, encryption, etc.",0.168,0.184,0.016
+relaxed_simplifiers,Environmental Impact: The sustainability and eco-friendliness of the product and its manufacturing process,0.191,0.179,0.012
+relaxed_simplifiers,"Performance: The speed and efficiency of the device (e.g., processor speed, RAM).",0.315,0.348,0.033
+avoidant_security_seekers,I am very concerned about scams or being hacked,0.815,0.822,0.007
+avoidant_security_seekers,I trust technology to work as it should,0.261,0.272,0.011
+avoidant_security_seekers,Technology often complicates my life more than it simplifies it,0.794,0.753,0.041
+avoidant_security_seekers,I believe the benefits of technology outweigh the challenges,0.144,0.159,0.015
+avoidant_security_seekers,I am usually one of the first people to try new technologies,0.11,0.008,0.102
+avoidant_security_seekers,Brand Reputation: The trustworthiness and prestige of the brand.,0.371,0.411,0.04
+avoidant_security_seekers,Price: The cost of the product.,0.695,0.711,0.016
+avoidant_security_seekers,"Security Features: Built-in security measures such as fingerprint sensors, facial recognition, encryption, etc.",0.216,0.235,0.019
+avoidant_security_seekers,Environmental Impact: The sustainability and eco-friendliness of the product and its manufacturing process,0.21,0.211,0.001
+avoidant_security_seekers,"Performance: The speed and efficiency of the device (e.g., processor speed, RAM).",0.327,0.294,0.033
